@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Azure Sky",
+  "tokens": {
+    "Background": "#f0f9ff",
+    "Foreground": "#0369a1",
+    "Surface": "#e0f2fe",
+    "SurfaceForeground": "#0369a1",
+    "Primary": "#0ea5e9",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#bae6fd",
+    "SecondaryForeground": "#0284c7",
+    "Muted": "#7dd3fc",
+    "MutedForeground": "#38bdf8",
+    "Border": "#38bdf8",
+    "Ring": "#0ea5e9",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Inter",
+    "FontHeading": "Inter"
+  },
+  "tags": ["light", "azure", "sky", "blue"]
+}

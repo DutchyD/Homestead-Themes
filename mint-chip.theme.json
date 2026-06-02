@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Mint Chip",
+  "tokens": {
+    "Background": "#f0fdf4",
+    "Foreground": "#14532d",
+    "Surface": "#dcfce7",
+    "SurfaceForeground": "#14532d",
+    "Primary": "#4ade80",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#86efac",
+    "SecondaryForeground": "#166534",
+    "Muted": "#bbf7d0",
+    "MutedForeground": "#15803d",
+    "Border": "#22c55e",
+    "Ring": "#4ade80",
+    "Success": "#16a34a",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Fredoka One",
+    "FontHeading": "Fredoka One"
+  },
+  "tags": ["light", "mint", "chip", "icecream"]
+}

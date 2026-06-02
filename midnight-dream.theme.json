@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Midnight Dream",
+  "tokens": {
+    "Background": "#0f172a",
+    "Foreground": "#c4b5fd",
+    "Surface": "#1e1b4b",
+    "SurfaceForeground": "#ddd6fe",
+    "Primary": "#8b5cf6",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#312e81",
+    "SecondaryForeground": "#a78bfa",
+    "Muted": "#4c1d95",
+    "MutedForeground": "#a5b4fc",
+    "Border": "#5b21b6",
+    "Ring": "#8b5cf6",
+    "Success": "#4ade80",
+    "SuccessForeground": "#0f172a",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#0f172a",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Quicksand",
+    "FontHeading": "Quicksand"
+  },
+  "tags": ["dark", "midnight", "dream", "purple"]
+}

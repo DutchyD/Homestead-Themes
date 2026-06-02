@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Tiger Stripe",
+  "tokens": {
+    "Background": "#2a1510",
+    "Foreground": "#fdba74",
+    "Surface": "#3d2418",
+    "SurfaceForeground": "#fed7aa",
+    "Primary": "#ea580c",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#4a3020",
+    "SecondaryForeground": "#fdba74",
+    "Muted": "#5d4030",
+    "MutedForeground": "#fb923c",
+    "Border": "#4a3020",
+    "Ring": "#ea580c",
+    "Success": "#65a30d",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#dc2626",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Dancing Script",
+    "FontHeading": "Dancing Script"
+  },
+  "tags": ["dark", "tiger", "stripe", "wild"]
+}

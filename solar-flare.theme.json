@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Solar Flare",
+  "tokens": {
+    "Background": "#fffbeb",
+    "Foreground": "#78350f",
+    "Surface": "#fef3c7",
+    "SurfaceForeground": "#78350f",
+    "Primary": "#f97316",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fde68a",
+    "SecondaryForeground": "#92400e",
+    "Muted": "#fcd34d",
+    "MutedForeground": "#d97706",
+    "Border": "#fbbf24",
+    "Ring": "#f97316",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Exo 2",
+    "FontHeading": "Exo 2"
+  },
+  "tags": ["light", "solar", "flare", "orange"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Evening Shade",
+  "tokens": {
+    "Background": "#1e1b4b",
+    "Foreground": "#c4b5fd",
+    "Surface": "#312e81",
+    "SurfaceForeground": "#ddd6fe",
+    "Primary": "#818cf8",
+    "PrimaryForeground": "#1e1b4b",
+    "Secondary": "#4338ca",
+    "SecondaryForeground": "#a5b4fc",
+    "Muted": "#5b21b6",
+    "MutedForeground": "#c4b5fd",
+    "Border": "#6d28d9",
+    "Ring": "#818cf8",
+    "Success": "#4ade80",
+    "SuccessForeground": "#1e1b4b",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#1e1b4b",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Outfit",
+    "FontHeading": "Outfit"
+  },
+  "tags": ["dark", "evening", "shade", "purple"]
+}

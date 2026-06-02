@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Summer Breeze",
+  "tokens": {
+    "Background": "#ecfeff",
+    "Foreground": "#164e63",
+    "Surface": "#cffafe",
+    "SurfaceForeground": "#164e63",
+    "Primary": "#22d3ee",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#a5f3fc",
+    "SecondaryForeground": "#0891b2",
+    "Muted": "#67e8f9",
+    "MutedForeground": "#06b6d4",
+    "Border": "#22d3ee",
+    "Ring": "#22d3ee",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Quicksand",
+    "FontHeading": "Quicksand"
+  },
+  "tags": ["light", "summer", "breeze", "cool"]
+}

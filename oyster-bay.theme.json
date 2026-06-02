@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Oyster Bay",
+  "tokens": {
+    "Background": "#292524",
+    "Foreground": "#d6d3d1",
+    "Surface": "#44403c",
+    "SurfaceForeground": "#e7e5e4",
+    "Primary": "#a8a29e",
+    "PrimaryForeground": "#292524",
+    "Secondary": "#57534e",
+    "SecondaryForeground": "#d6d3d1",
+    "Muted": "#78716c",
+    "MutedForeground": "#a8a29e",
+    "Border": "#57534e",
+    "Ring": "#d6d3d1",
+    "Success": "#4ade80",
+    "SuccessForeground": "#292524",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#292524",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "2.5rem",
+    "FontSans": "Cormorant Garamond",
+    "FontHeading": "Cormorant Garamond"
+  },
+  "tags": ["dark", "oyster", "bay", "pearl"]
+}

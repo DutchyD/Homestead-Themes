@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Burnt Caramel",
+  "tokens": {
+    "Background": "#2a1810",
+    "Foreground": "#d6c0a6",
+    "Surface": "#3d2820",
+    "SurfaceForeground": "#e6d2b8",
+    "Primary": "#a0522d",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#4a3428",
+    "SecondaryForeground": "#c9a77d",
+    "Muted": "#5d4030",
+    "MutedForeground": "#b8956a",
+    "Border": "#4a3428",
+    "Ring": "#a67c52",
+    "Success": "#65a30d",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#dc2626",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Pacifico",
+    "FontHeading": "Pacifico"
+  },
+  "tags": ["dark", "caramel", "burnt", "sweet"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Iced Coffee",
+  "tokens": {
+    "Background": "#2a2018",
+    "Foreground": "#c9a86c",
+    "Surface": "#3d3028",
+    "SurfaceForeground": "#e8dcc8",
+    "Primary": "#8b6914",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#4a3d30",
+    "SecondaryForeground": "#d4c4a8",
+    "Muted": "#5d4a3c",
+    "MutedForeground": "#b8956a",
+    "Border": "#4a3d30",
+    "Ring": "#a67c52",
+    "Success": "#65a30d",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#dc2626",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "1.5rem",
+    "FontSans": "Patrick Hand",
+    "FontHeading": "Patrick Hand"
+  },
+  "tags": ["dark", "coffee", "iced", "cool"]
+}

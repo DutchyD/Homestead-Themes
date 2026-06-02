@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Amber Wave",
+  "tokens": {
+    "Background": "#fffbeb",
+    "Foreground": "#92400e",
+    "Surface": "#fef3c7",
+    "SurfaceForeground": "#92400e",
+    "Primary": "#f59e0b",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fde68a",
+    "SecondaryForeground": "#b45309",
+    "Muted": "#fcd34d",
+    "MutedForeground": "#d97706",
+    "Border": "#fbbf24",
+    "Ring": "#f59e0b",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Merriweather",
+    "FontHeading": "Merriweather"
+  },
+  "tags": ["light", "amber", "wave", "warm"]
+}

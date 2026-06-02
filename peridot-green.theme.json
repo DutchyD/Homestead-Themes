@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Peridot Green",
+  "tokens": {
+    "Background": "#f0fdf4",
+    "Foreground": "#14532d",
+    "Surface": "#dcfce7",
+    "SurfaceForeground": "#14532d",
+    "Primary": "#84cc16",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#bbf7d0",
+    "SecondaryForeground": "#166534",
+    "Muted": "#86efac",
+    "MutedForeground": "#15803d",
+    "Border": "#4ade80",
+    "Ring": "#84cc16",
+    "Success": "#16a34a",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Amethysta",
+    "FontHeading": "Amethysta"
+  },
+  "tags": ["light", "peridot", "green", "gemstone"]
+}

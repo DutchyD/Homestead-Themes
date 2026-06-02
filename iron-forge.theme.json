@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Iron Forge",
+  "tokens": {
+    "Background": "#1c1917",
+    "Foreground": "#d6d3d1",
+    "Surface": "#292524",
+    "SurfaceForeground": "#e7e5e4",
+    "Primary": "#78716c",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#44403c",
+    "SecondaryForeground": "#a8a29e",
+    "Muted": "#57534e",
+    "MutedForeground": "#a8a29e",
+    "Border": "#44403c",
+    "Ring": "#78716c",
+    "Success": "#4ade80",
+    "SuccessForeground": "#1c1917",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#1c1917",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Cinzel",
+    "FontHeading": "Cinzel Decorative"
+  },
+  "tags": ["dark", "iron", "forge", "metal"]
+}

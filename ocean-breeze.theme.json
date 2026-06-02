@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Ocean Breeze",
+  "tokens": {
+    "Background": "#f0f9ff",
+    "Foreground": "#0c4a6e",
+    "Surface": "#e0f2fe",
+    "SurfaceForeground": "#0c4a6e",
+    "Primary": "#0ea5e9",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#bae6fd",
+    "SecondaryForeground": "#0369a1",
+    "Muted": "#7dd3fc",
+    "MutedForeground": "#38bdf8",
+    "Border": "#38bdf8",
+    "Ring": "#0ea5e9",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "2.5rem",
+    "FontSans": "Outfit",
+    "FontHeading": "Outfit"
+  },
+  "tags": ["light", "ocean", "breeze", "fresh"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Starlight Dream",
+  "tokens": {
+    "Background": "#f8fafc",
+    "Foreground": "#475569",
+    "Surface": "#f1f5f9",
+    "SurfaceForeground": "#475569",
+    "Primary": "#c4b5fd",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#e2e8f0",
+    "SecondaryForeground": "#64748b",
+    "Muted": "#cbd5e1",
+    "MutedForeground": "#94a3b8",
+    "Border": "#e2e8f0",
+    "Ring": "#c4b5fd",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "1rem",
+    "RadiusMd": "2rem",
+    "RadiusLg": "3rem",
+    "FontSans": "Rochester",
+    "FontHeading": "Rochester"
+  },
+  "tags": ["light", "starlight", "dream", "magic"]
+}

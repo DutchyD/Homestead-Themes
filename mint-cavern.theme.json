@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Mint Cavern",
+  "tokens": {
+    "Background": "#022c22",
+    "Foreground": "#86efac",
+    "Surface": "#064e3b",
+    "SurfaceForeground": "#dcfce7",
+    "Primary": "#34d399",
+    "PrimaryForeground": "#022c22",
+    "Secondary": "#065f46",
+    "SecondaryForeground": "#6ee7b7",
+    "Muted": "#047857",
+    "MutedForeground": "#34d399",
+    "Border": "#059669",
+    "Ring": "#34d399",
+    "Success": "#10b981",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#022c22",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Comfortaa",
+    "FontHeading": "Comfortaa"
+  },
+  "tags": ["dark", "mint", "cavern", "cool"]
+}

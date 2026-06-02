@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Rainbow Bright",
+  "tokens": {
+    "Background": "#ffffff",
+    "Foreground": "#171717",
+    "Surface": "#f5f5f5",
+    "SurfaceForeground": "#171717",
+    "Primary": "#ec4899",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#8b5cf6",
+    "SecondaryForeground": "#ffffff",
+    "Muted": "#22c55e",
+    "MutedForeground": "#ffffff",
+    "Border": "#eab308",
+    "Ring": "#ec4899",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Comic Neue",
+    "FontHeading": "Comic Neue"
+  },
+  "tags": ["light", "rainbow", "colorful", "bright"]
+}

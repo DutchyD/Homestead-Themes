@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Jade Garden",
+  "tokens": {
+    "Background": "#ecfdf5",
+    "Foreground": "#064e3b",
+    "Surface": "#d1fae5",
+    "SurfaceForeground": "#064e3b",
+    "Primary": "#10b981",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#a7f3d0",
+    "SecondaryForeground": "#065f46",
+    "Muted": "#6ee7b7",
+    "MutedForeground": "#059669",
+    "Border": "#34d399",
+    "Ring": "#10b981",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Noto Sans SC",
+    "FontHeading": "Noto Serif SC"
+  },
+  "tags": ["light", "jade", "garden", "asia"]
+}

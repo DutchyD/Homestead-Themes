@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Nightfall Shadow",
+  "tokens": {
+    "Background": "#0f172a",
+    "Foreground": "#c7d2fe",
+    "Surface": "#1e1b4b",
+    "SurfaceForeground": "#e0e7ff",
+    "Primary": "#6366f1",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#312e81",
+    "SecondaryForeground": "#a5b4fc",
+    "Muted": "#4338ca",
+    "MutedForeground": "#818cf8",
+    "Border": "#4f46e5",
+    "Ring": "#6366f1",
+    "Success": "#4ade80",
+    "SuccessForeground": "#0f172a",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#0f172a",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Outfit",
+    "FontHeading": "Outfit"
+  },
+  "tags": ["dark", "nightfall", "shadow", "evening"]
+}

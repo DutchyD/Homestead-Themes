@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Butterfly Dream",
+  "tokens": {
+    "Background": "#2e1065",
+    "Foreground": "#e9d5ff",
+    "Surface": "#4c1d95",
+    "SurfaceForeground": "#f3e8ff",
+    "Primary": "#a855f7",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#5b21b6",
+    "SecondaryForeground": "#d8b4fe",
+    "Muted": "#6b21a8",
+    "MutedForeground": "#c084fc",
+    "Border": "#7c3aed",
+    "Ring": "#a855f7",
+    "Success": "#4ade80",
+    "SuccessForeground": "#2e1065",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#2e1065",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "2.5rem",
+    "FontSans": "Aladin",
+    "FontHeading": "Aladin"
+  },
+  "tags": ["dark", "butterfly", "dream", "mystical"]
+}

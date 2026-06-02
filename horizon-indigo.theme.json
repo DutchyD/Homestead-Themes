@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Horizon Indigo",
+  "tokens": {
+    "Background": "#1e1b4b",
+    "Foreground": "#c4b5fd",
+    "Surface": "#312e81",
+    "SurfaceForeground": "#ddd6fe",
+    "Primary": "#6366f1",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#4338ca",
+    "SecondaryForeground": "#a5b4fc",
+    "Muted": "#4f46e5",
+    "MutedForeground": "#818cf8",
+    "Border": "#4c1d95",
+    "Ring": "#6366f1",
+    "Success": "#4ade80",
+    "SuccessForeground": "#1e1b4b",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#1e1b4b",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Cinzel",
+    "FontHeading": "Cinzel Decorative"
+  },
+  "tags": ["dark", "horizon", "indigo", "twilight"]
+}

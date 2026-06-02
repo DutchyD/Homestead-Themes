@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Birch Shadow",
+  "tokens": {
+    "Background": "#1c1917",
+    "Foreground": "#d6d3d1",
+    "Surface": "#292524",
+    "SurfaceForeground": "#e7e5e4",
+    "Primary": "#a8a29e",
+    "PrimaryForeground": "#1c1917",
+    "Secondary": "#44403c",
+    "SecondaryForeground": "#d6d3d1",
+    "Muted": "#57534e",
+    "MutedForeground": "#a8a29e",
+    "Border": "#44403c",
+    "Ring": "#d6d3d1",
+    "Success": "#4ade80",
+    "SuccessForeground": "#1c1917",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#1c1917",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Crimson Pro",
+    "FontHeading": "Crimson Pro"
+  },
+  "tags": ["dark", "birch", "shadow", "woods"]
+}

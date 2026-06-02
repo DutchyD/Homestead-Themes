@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Cream Soda",
+  "tokens": {
+    "Background": "#fffbeb",
+    "Foreground": "#713f12",
+    "Surface": "#fef3c7",
+    "SurfaceForeground": "#713f12",
+    "Primary": "#d97706",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fde68a",
+    "SecondaryForeground": "#854d0e",
+    "Muted": "#fcd34d",
+    "MutedForeground": "#a16207",
+    "Border": "#fbbf24",
+    "Ring": "#d97706",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "1rem",
+    "RadiusMd": "2rem",
+    "RadiusLg": "3rem",
+    "FontSans": "Patrick Hand",
+    "FontHeading": "Patrick Hand"
+  },
+  "tags": ["light", "cream", "soda", "retro"]
+}

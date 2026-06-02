@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Crystal Clear",
+  "tokens": {
+    "Background": "#ffffff",
+    "Foreground": "#171717",
+    "Surface": "#f5f5f5",
+    "SurfaceForeground": "#171717",
+    "Primary": "#d4d4d4",
+    "PrimaryForeground": "#404040",
+    "Secondary": "#f0f0f0",
+    "SecondaryForeground": "#525252",
+    "Muted": "#e5e5e5",
+    "MutedForeground": "#737373",
+    "Border": "#e5e5e5",
+    "Ring": "#a3a3a3",
+    "Success": "#86efac",
+    "SuccessForeground": "#166534",
+    "Destructive": "#fca5a5",
+    "DestructiveForeground": "#991b1b",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Prata",
+    "FontHeading": "Prata"
+  },
+  "tags": ["light", "crystal", "clear", "pure"]
+}

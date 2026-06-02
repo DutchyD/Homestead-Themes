@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Sapphire Abyss",
+  "tokens": {
+    "Background": "#0f172a",
+    "Foreground": "#bfdbfe",
+    "Surface": "#1e3a8a",
+    "SurfaceForeground": "#dbeafe",
+    "Primary": "#3b82f6",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#1e40af",
+    "SecondaryForeground": "#93c5fd",
+    "Muted": "#1d4ed8",
+    "MutedForeground": "#60a5fa",
+    "Border": "#1e40af",
+    "Ring": "#3b82f6",
+    "Success": "#4ade80",
+    "SuccessForeground": "#0f172a",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#0f172a",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Cinzel",
+    "FontHeading": "Cinzel Decorative"
+  },
+  "tags": ["dark", "sapphire", "abyss", "deep"]
+}

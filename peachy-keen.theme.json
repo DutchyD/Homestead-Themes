@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Peachy Keen",
+  "tokens": {
+    "Background": "#fff7ed",
+    "Foreground": "#7c2d12",
+    "Surface": "#ffedd5",
+    "SurfaceForeground": "#7c2d12",
+    "Primary": "#fb923c",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fed7aa",
+    "SecondaryForeground": "#9a3412",
+    "Muted": "#fdba74",
+    "MutedForeground": "#c2410c",
+    "Border": "#f97316",
+    "Ring": "#fb923c",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Pacifico",
+    "FontHeading": "Pacifico"
+  },
+  "tags": ["light", "peach", "orange", "sweet"]
+}

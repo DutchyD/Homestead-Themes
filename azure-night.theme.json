@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Azure Night",
+  "tokens": {
+    "Background": "#082f49",
+    "Foreground": "#bae6fd",
+    "Surface": "#0c4a6e",
+    "SurfaceForeground": "#e0f2fe",
+    "Primary": "#38bdf8",
+    "PrimaryForeground": "#082f49",
+    "Secondary": "#075985",
+    "SecondaryForeground": "#7dd3fc",
+    "Muted": "#0369a1",
+    "MutedForeground": "#0ea5e9",
+    "Border": "#0284c7",
+    "Ring": "#38bdf8",
+    "Success": "#4ade80",
+    "SuccessForeground": "#082f49",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#082f49",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Inter",
+    "FontHeading": "Inter"
+  },
+  "tags": ["dark", "azure", "night", "deep"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Deep Sea",
+  "tokens": {
+    "Background": "#020617",
+    "Foreground": "#bae6fd",
+    "Surface": "#0c4a6e",
+    "SurfaceForeground": "#e0f2fe",
+    "Primary": "#0ea5e9",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#075985",
+    "SecondaryForeground": "#7dd3fc",
+    "Muted": "#0369a1",
+    "MutedForeground": "#38bdf8",
+    "Border": "#0284c7",
+    "Ring": "#0ea5e9",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "2.5rem",
+    "FontSans": "Outfit",
+    "FontHeading": "Outfit"
+  },
+  "tags": ["dark", "deep", "sea", "ocean"]
+}

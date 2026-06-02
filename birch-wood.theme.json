@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Birch Wood",
+  "tokens": {
+    "Background": "#fafaf9",
+    "Foreground": "#44403c",
+    "Surface": "#f5f5f4",
+    "SurfaceForeground": "#44403c",
+    "Primary": "#d6d3d1",
+    "PrimaryForeground": "#292524",
+    "Secondary": "#e7e5e4",
+    "SecondaryForeground": "#57534e",
+    "Muted": "#f0f0f0",
+    "MutedForeground": "#78716c",
+    "Border": "#e7e5e4",
+    "Ring": "#d6d3d1",
+    "Success": "#86efac",
+    "SuccessForeground": "#166534",
+    "Destructive": "#fca5a5",
+    "DestructiveForeground": "#991b1b",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Crimson Pro",
+    "FontHeading": "Crimson Pro"
+  },
+  "tags": ["light", "birch", "wood", "natural"]
+}

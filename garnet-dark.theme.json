@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Garnet Dark",
+  "tokens": {
+    "Background": "#450a0a",
+    "Foreground": "#fecaca",
+    "Surface": "#7f1d1d",
+    "SurfaceForeground": "#fee2e2",
+    "Primary": "#ef4444",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#991b1b",
+    "SecondaryForeground": "#fca5a5",
+    "Muted": "#b91c1c",
+    "MutedForeground": "#f87171",
+    "Border": "#991b1b",
+    "Ring": "#ef4444",
+    "Success": "#4ade80",
+    "SuccessForeground": "#450a0a",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#450a0a",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Cinzel Decorative",
+    "FontHeading": "Cinzel"
+  },
+  "tags": ["dark", "garnet", "red", "deep"]
+}

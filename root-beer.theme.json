@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Root Beer",
+  "tokens": {
+    "Background": "#271c19",
+    "Foreground": "#d6c0a6",
+    "Surface": "#3d2b24",
+    "SurfaceForeground": "#e8dcc8",
+    "Primary": "#8b5a2b",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#4a3428",
+    "SecondaryForeground": "#c9a77d",
+    "Muted": "#5d4030",
+    "MutedForeground": "#b8956a",
+    "Border": "#4a3428",
+    "Ring": "#a67c52",
+    "Success": "#65a30d",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#dc2626",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "1rem",
+    "RadiusMd": "2rem",
+    "RadiusLg": "3rem",
+    "FontSans": "Patrick Hand",
+    "FontHeading": "Patrick Hand"
+  },
+  "tags": ["dark", "root-beer", "brown", "retro"]
+}

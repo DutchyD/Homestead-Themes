@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Crystal Void",
+  "tokens": {
+    "Background": "#0a0a0a",
+    "Foreground": "#e5e5e5",
+    "Surface": "#171717",
+    "SurfaceForeground": "#f5f5f5",
+    "Primary": "#737373",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#262626",
+    "SecondaryForeground": "#a3a3a3",
+    "Muted": "#404040",
+    "MutedForeground": "#737373",
+    "Border": "#525252",
+    "Ring": "#a3a3a3",
+    "Success": "#4ade80",
+    "SuccessForeground": "#0a0a0a",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#0a0a0a",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Prata",
+    "FontHeading": "Prata"
+  },
+  "tags": ["dark", "crystal", "void", "deep"]
+}

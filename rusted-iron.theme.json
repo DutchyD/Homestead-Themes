@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Rusted Iron",
+  "tokens": {
+    "Background": "#280f0f",
+    "Foreground": "#fca5a5",
+    "Surface": "#451a1a",
+    "SurfaceForeground": "#fecaca",
+    "Primary": "#7f1d1d",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#5d2626",
+    "SecondaryForeground": "#fca5a5",
+    "Muted": "#7c2d2d",
+    "MutedForeground": "#f87171",
+    "Border": "#991b1b",
+    "Ring": "#dc2626",
+    "Success": "#65a30d",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.25rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Bitter",
+    "FontHeading": "Bitter"
+  },
+  "tags": ["dark", "rust", "iron", "weathered"]
+}

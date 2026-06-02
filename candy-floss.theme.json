@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Candy Floss",
+  "tokens": {
+    "Background": "#fdf4ff",
+    "Foreground": "#701a75",
+    "Surface": "#fae8ff",
+    "SurfaceForeground": "#701a75",
+    "Primary": "#d946ef",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#f0abfc",
+    "SecondaryForeground": "#86198f",
+    "Muted": "#e879f9",
+    "MutedForeground": "#a21caf",
+    "Border": "#f5d0fe",
+    "Ring": "#d946ef",
+    "Success": "#4ade80",
+    "SuccessForeground": "#14532d",
+    "Destructive": "#f472b6",
+    "DestructiveForeground": "#831843",
+    "RadiusSm": "2rem",
+    "RadiusMd": "3rem",
+    "RadiusLg": "4rem",
+    "FontSans": "Fredoka One",
+    "FontHeading": "Fredoka One"
+  },
+  "tags": ["light", "candy", "pink", "sweet"]
+}

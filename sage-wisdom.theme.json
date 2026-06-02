@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Sage Wisdom",
+  "tokens": {
+    "Background": "#f6f7f6",
+    "Foreground": "#3f4f3a",
+    "Surface": "#e8eae8",
+    "SurfaceForeground": "#3f4f3a",
+    "Primary": "#7c9f64",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#d4d9cc",
+    "SecondaryForeground": "#4a5a42",
+    "Muted": "#c5cbb8",
+    "MutedForeground": "#5c6b52",
+    "Border": "#b8c4a8",
+    "Ring": "#7c9f64",
+    "Success": "#65a30d",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#c75b39",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Crimson Pro",
+    "FontHeading": "Crimson Pro"
+  },
+  "tags": ["light", "sage", "wisdom", "herbal"]
+}

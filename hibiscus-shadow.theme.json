@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Hibiscus Shadow",
+  "tokens": {
+    "Background": "#4a0432",
+    "Foreground": "#f9a8d4",
+    "Surface": "#83185f",
+    "SurfaceForeground": "#fce7f3",
+    "Primary": "#db2777",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#9d174d",
+    "SecondaryForeground": "#fbcfe8",
+    "Muted": "#be185d",
+    "MutedForeground": "#f472b6",
+    "Border": "#db2777",
+    "Ring": "#ec4899",
+    "Success": "#4ade80",
+    "SuccessForeground": "#4a0432",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#4a0432",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "2.5rem",
+    "FontSans": "Great Vibes",
+    "FontHeading": "Great Vibes"
+  },
+  "tags": ["dark", "hibiscus", "shadow", "night"]
+}

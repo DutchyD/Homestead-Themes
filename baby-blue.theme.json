@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Baby Blue",
+  "tokens": {
+    "Background": "#f0f9ff",
+    "Foreground": "#0369a1",
+    "Surface": "#e0f2fe",
+    "SurfaceForeground": "#0369a1",
+    "Primary": "#38bdf8",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#bae6fd",
+    "SecondaryForeground": "#0284c7",
+    "Muted": "#7dd3fc",
+    "MutedForeground": "#0ea5e9",
+    "Border": "#38bdf8",
+    "Ring": "#38bdf8",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "1rem",
+    "RadiusMd": "2rem",
+    "RadiusLg": "3rem",
+    "FontSans": "Quicksand",
+    "FontHeading": "Quicksand"
+  },
+  "tags": ["light", "baby", "blue", "soft"]
+}

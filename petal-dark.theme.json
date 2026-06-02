@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Petal Dark",
+  "tokens": {
+    "Background": "#4a0432",
+    "Foreground": "#f9a8d4",
+    "Surface": "#83185f",
+    "SurfaceForeground": "#fce7f3",
+    "Primary": "#ec4899",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#9d174d",
+    "SecondaryForeground": "#fbcfe8",
+    "Muted": "#be185d",
+    "MutedForeground": "#f472b6",
+    "Border": "#db2777",
+    "Ring": "#ec4899",
+    "Success": "#4ade80",
+    "SuccessForeground": "#4a0432",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#4a0432",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Rouge Script",
+    "FontHeading": "Rouge Script"
+  },
+  "tags": ["dark", "petal", "dark", "rose"]
+}

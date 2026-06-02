@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Lunar Eclipse",
+  "tokens": {
+    "Background": "#18181b",
+    "Foreground": "#d4d4d8",
+    "Surface": "#27272a",
+    "SurfaceForeground": "#e4e4e7",
+    "Primary": "#71717a",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#3f3f46",
+    "SecondaryForeground": "#a1a1aa",
+    "Muted": "#52525b",
+    "MutedForeground": "#71717a",
+    "Border": "#3f3f46",
+    "Ring": "#a1a1aa",
+    "Success": "#4ade80",
+    "SuccessForeground": "#18181b",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#18181b",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Exo 2",
+    "FontHeading": "Exo 2"
+  },
+  "tags": ["dark", "lunar", "eclipse", "moon"]
+}

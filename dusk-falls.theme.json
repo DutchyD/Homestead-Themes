@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Dusk Falls",
+  "tokens": {
+    "Background": "#4c1d95",
+    "Foreground": "#e9d5ff",
+    "Surface": "#6b21a8",
+    "SurfaceForeground": "#f3e8ff",
+    "Primary": "#a855f7",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#7c3aed",
+    "SecondaryForeground": "#d8b4fe",
+    "Muted": "#8b5cf6",
+    "MutedForeground": "#c4b5fd",
+    "Border": "#6d28d9",
+    "Ring": "#a855f7",
+    "Success": "#4ade80",
+    "SuccessForeground": "#4c1d95",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#4c1d95",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Varela Round",
+    "FontHeading": "Varela Round"
+  },
+  "tags": ["dark", "dusk", "purple", "evening"]
+}

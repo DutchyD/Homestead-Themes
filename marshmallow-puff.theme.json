@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Marshmallow Puff",
+  "tokens": {
+    "Background": "#ffffff",
+    "Foreground": "#525252",
+    "Surface": "#fafafa",
+    "SurfaceForeground": "#525252",
+    "Primary": "#e5e5e5",
+    "PrimaryForeground": "#404040",
+    "Secondary": "#f5f5f5",
+    "SecondaryForeground": "#737373",
+    "Muted": "#f0f0f0",
+    "MutedForeground": "#a3a3a3",
+    "Border": "#e5e5e5",
+    "Ring": "#d4d4d4",
+    "Success": "#86efac",
+    "SuccessForeground": "#166534",
+    "Destructive": "#fca5a5",
+    "DestructiveForeground": "#991b1b",
+    "RadiusSm": "1rem",
+    "RadiusMd": "2rem",
+    "RadiusLg": "3rem",
+    "FontSans": "Nunito",
+    "FontHeading": "Nunito"
+  },
+  "tags": ["light", "marshmallow", "soft", "puffy"]
+}

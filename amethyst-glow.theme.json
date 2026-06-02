@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Amethyst Glow",
+  "tokens": {
+    "Background": "#faf5ff",
+    "Foreground": "#581c87",
+    "Surface": "#f3e8ff",
+    "SurfaceForeground": "#581c87",
+    "Primary": "#9333ea",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#e9d5ff",
+    "SecondaryForeground": "#6b21a8",
+    "Muted": "#d8b4fe",
+    "MutedForeground": "#a855f7",
+    "Border": "#c084fc",
+    "Ring": "#9333ea",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Cinzel",
+    "FontHeading": "Cinzel Decorative"
+  },
+  "tags": ["light", "amethyst", "purple", "crystal"]
+}

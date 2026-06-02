@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Sugar Cookie",
+  "tokens": {
+    "Background": "#fff8e7",
+    "Foreground": "#78350f",
+    "Surface": "#fef3c7",
+    "SurfaceForeground": "#78350f",
+    "Primary": "#f59e0b",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fde68a",
+    "SecondaryForeground": "#92400e",
+    "Muted": "#fcd34d",
+    "MutedForeground": "#b45309",
+    "Border": "#fbbf24",
+    "Ring": "#f59e0b",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Pacifico",
+    "FontHeading": "Pacifico"
+  },
+  "tags": ["light", "sugar", "cookie", "baking"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Ocean Trench",
+  "tokens": {
+    "Background": "#020617",
+    "Foreground": "#bae6fd",
+    "Surface": "#1e3a8a",
+    "SurfaceForeground": "#e0f2fe",
+    "Primary": "#3b82f6",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#172554",
+    "SecondaryForeground": "#93c5fd",
+    "Muted": "#1d4ed8",
+    "MutedForeground": "#60a5fa",
+    "Border": "#60a5fa",
+    "Ring": "#3b82f6",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Patrick Hand",
+    "FontHeading": "Patrick Hand"
+  },
+  "tags": ["dark", "ocean", "trench", "deep"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Bronze Age",
+  "tokens": {
+    "Background": "#fef3c7",
+    "Foreground": "#451a03",
+    "Surface": "#fde68a",
+    "SurfaceForeground": "#451a03",
+    "Primary": "#b45309",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fcd34d",
+    "SecondaryForeground": "#78350f",
+    "Muted": "#fbbf24",
+    "MutedForeground": "#92400e",
+    "Border": "#f59e0b",
+    "Ring": "#b45309",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Cinzel",
+    "FontHeading": "Cinzel Decorative"
+  },
+  "tags": ["light", "bronze", "ancient", "history"]
+}

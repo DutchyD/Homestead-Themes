@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Northern Lights",
+  "tokens": {
+    "Background": "#0f172a",
+    "Foreground": "#a5f3fc",
+    "Surface": "#1e293b",
+    "SurfaceForeground": "#cffafe",
+    "Primary": "#22d3ee",
+    "PrimaryForeground": "#0f172a",
+    "Secondary": "#334155",
+    "SecondaryForeground": "#67e8f9",
+    "Muted": "#475569",
+    "MutedForeground": "#22d3ee",
+    "Border": "#0e7490",
+    "Ring": "#22d3ee",
+    "Success": "#4ade80",
+    "SuccessForeground": "#0f172a",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#0f172a",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "2.5rem",
+    "FontSans": "Space Grotesk",
+    "FontHeading": "Space Grotesk"
+  },
+  "tags": ["dark", "aurora", "northern-lights", "arctic"]
+}

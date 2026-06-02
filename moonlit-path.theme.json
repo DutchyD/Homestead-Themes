@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Moonlit Path",
+  "tokens": {
+    "Background": "#1e1b4b",
+    "Foreground": "#c4b5fd",
+    "Surface": "#312e81",
+    "SurfaceForeground": "#ddd6fe",
+    "Primary": "#8b5cf6",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#4338ca",
+    "SecondaryForeground": "#a78bfa",
+    "Muted": "#5b21b6",
+    "MutedForeground": "#c4b5fd",
+    "Border": "#4c1d95",
+    "Ring": "#8b5cf6",
+    "Success": "#4ade80",
+    "SuccessForeground": "#1e1b4b",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#1e1b4b",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Patrick Hand",
+    "FontHeading": "Patrick Hand"
+  },
+  "tags": ["dark", "moonlit", "path", "mystical"]
+}

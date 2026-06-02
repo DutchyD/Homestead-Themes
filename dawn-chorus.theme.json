@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Dawn Chorus",
+  "tokens": {
+    "Background": "#fff1f2",
+    "Foreground": "#881337",
+    "Surface": "#ffe4e6",
+    "SurfaceForeground": "#881337",
+    "Primary": "#f43f5e",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fecdd3",
+    "SecondaryForeground": "#9f1239",
+    "Muted": "#fda4af",
+    "MutedForeground": "#e11d48",
+    "Border": "#fb7185",
+    "Ring": "#f43f5e",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Varela Round",
+    "FontHeading": "Varela Round"
+  },
+  "tags": ["light", "dawn", "pink", "morning"]
+}

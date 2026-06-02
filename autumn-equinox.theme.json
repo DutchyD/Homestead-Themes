@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Autumn Equinox",
+  "tokens": {
+    "Background": "#3f2618",
+    "Foreground": "#fdba74",
+    "Surface": "#5c3a26",
+    "SurfaceForeground": "#fed7aa",
+    "Primary": "#d97706",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#78350f",
+    "SecondaryForeground": "#fdba74",
+    "Muted": "#92400e",
+    "MutedForeground": "#fb923c",
+    "Border": "#b45309",
+    "Ring": "#f59e0b",
+    "Success": "#65a30d",
+    "SuccessForeground": "#3f2618",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#3f2618",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Jost",
+    "FontHeading": "Jost"
+  },
+  "tags": ["dark", "autumn", "equinox", "fall"]
+}

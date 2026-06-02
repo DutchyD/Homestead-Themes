@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Toasted Marshmallow",
+  "tokens": {
+    "Background": "#292524",
+    "Foreground": "#e7e5e4",
+    "Surface": "#44403c",
+    "SurfaceForeground": "#f5f5f4",
+    "Primary": "#a8a29e",
+    "PrimaryForeground": "#292524",
+    "Secondary": "#57534e",
+    "SecondaryForeground": "#d6d3d1",
+    "Muted": "#78716c",
+    "MutedForeground": "#a8a29e",
+    "Border": "#a8a29e",
+    "Ring": "#d6d3d1",
+    "Success": "#4ade80",
+    "SuccessForeground": "#292524",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#292524",
+    "RadiusSm": "1rem",
+    "RadiusMd": "2rem",
+    "RadiusLg": "3rem",
+    "FontSans": "Nunito",
+    "FontHeading": "Nunito"
+  },
+  "tags": ["dark", "marshmallow", "toasted", "campfire"]
+}

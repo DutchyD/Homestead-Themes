@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Ocean Depths",
+  "tokens": {
+    "Background": "#020617",
+    "Foreground": "#bae6fd",
+    "Surface": "#0c4a6e",
+    "SurfaceForeground": "#e0f2fe",
+    "Primary": "#38bdf8",
+    "PrimaryForeground": "#020617",
+    "Secondary": "#075985",
+    "SecondaryForeground": "#7dd3fc",
+    "Muted": "#0369a1",
+    "MutedForeground": "#0ea5e9",
+    "Border": "#0284c7",
+    "Ring": "#38bdf8",
+    "Success": "#4ade80",
+    "SuccessForeground": "#020617",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#020617",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "2.5rem",
+    "FontSans": "Outfit",
+    "FontHeading": "Outfit"
+  },
+  "tags": ["dark", "ocean", "depths", "abyss"]
+}

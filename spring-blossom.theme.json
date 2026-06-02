@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Spring Blossom",
+  "tokens": {
+    "Background": "#fdf4ff",
+    "Foreground": "#701a75",
+    "Surface": "#fae8ff",
+    "SurfaceForeground": "#701a75",
+    "Primary": "#d946ef",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#f0abfc",
+    "SecondaryForeground": "#86198f",
+    "Muted": "#e879f9",
+    "MutedForeground": "#a21caf",
+    "Border": "#c026d3",
+    "Ring": "#d946ef",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "2.5rem",
+    "FontSans": "Clicker Script",
+    "FontHeading": "Clicker Script"
+  },
+  "tags": ["light", "spring", "blossom", "pink"]
+}

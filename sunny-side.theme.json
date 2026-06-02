@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Sunny Side",
+  "tokens": {
+    "Background": "#fffbeb",
+    "Foreground": "#92400e",
+    "Surface": "#fef3c7",
+    "SurfaceForeground": "#92400e",
+    "Primary": "#fbbf24",
+    "PrimaryForeground": "#451a03",
+    "Secondary": "#fde68a",
+    "SecondaryForeground": "#b45309",
+    "Muted": "#fcd34d",
+    "MutedForeground": "#d97706",
+    "Border": "#f59e0b",
+    "Ring": "#fbbf24",
+    "Success": "#84cc16",
+    "SuccessForeground": "#365314",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Patrick Hand",
+    "FontHeading": "Patrick Hand"
+  },
+  "tags": ["light", "sunny", "bright", "cheerful"]
+}

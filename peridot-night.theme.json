@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Peridot Night",
+  "tokens": {
+    "Background": "#1a2e05",
+    "Foreground": "#bef264",
+    "Surface": "#28420c",
+    "SurfaceForeground": "#dcfce7",
+    "Primary": "#a3e635",
+    "PrimaryForeground": "#1a2e05",
+    "Secondary": "#3f6212",
+    "SecondaryForeground": "#86efac",
+    "Muted": "#4d7c0f",
+    "MutedForeground": "#a3e635",
+    "Border": "#65a30d",
+    "Ring": "#a3e635",
+    "Success": "#4ade80",
+    "SuccessForeground": "#1a2e05",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#1a2e05",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Amethysta",
+    "FontHeading": "Amethysta"
+  },
+  "tags": ["dark", "peridot", "night", "lime"]
+}

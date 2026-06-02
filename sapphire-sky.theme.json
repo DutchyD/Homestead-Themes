@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Sapphire Sky",
+  "tokens": {
+    "Background": "#eff6ff",
+    "Foreground": "#1e3a8a",
+    "Surface": "#dbeafe",
+    "SurfaceForeground": "#1e3a8a",
+    "Primary": "#2563eb",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#bfdbfe",
+    "SecondaryForeground": "#1d4ed8",
+    "Muted": "#93c5fd",
+    "MutedForeground": "#3b82f6",
+    "Border": "#60a5fa",
+    "Ring": "#2563eb",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Cinzel",
+    "FontHeading": "Cinzel Decorative"
+  },
+  "tags": ["light", "sapphire", "blue", "sky"]
+}

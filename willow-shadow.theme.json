@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Willow Shadow",
+  "tokens": {
+    "Background": "#1a1f15",
+    "Foreground": "#a8b896",
+    "Surface": "#2a3020",
+    "SurfaceForeground": "#c4d4b0",
+    "Primary": "#6b8e5a",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#3a4530",
+    "SecondaryForeground": "#a8b896",
+    "Muted": "#4a5540",
+    "MutedForeground": "#8ca078",
+    "Border": "#3a4530",
+    "Ring": "#6b8e5a",
+    "Success": "#65a30d",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#c75b39",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Marcellus",
+    "FontHeading": "Marcellus"
+  },
+  "tags": ["dark", "willow", "shadow", "forest"]
+}

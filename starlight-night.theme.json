@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Starlight Night",
+  "tokens": {
+    "Background": "#0a0a0a",
+    "Foreground": "#e4e4e7",
+    "Surface": "#18181b",
+    "SurfaceForeground": "#f4f4f5",
+    "Primary": "#c4b5fd",
+    "PrimaryForeground": "#0a0a0a",
+    "Secondary": "#27272a",
+    "SecondaryForeground": "#d4d4d8",
+    "Muted": "#3f3f46",
+    "MutedForeground": "#a1a1aa",
+    "Border": "#52525b",
+    "Ring": "#c4b5fd",
+    "Success": "#4ade80",
+    "SuccessForeground": "#0a0a0a",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#0a0a0a",
+    "RadiusSm": "1rem",
+    "RadiusMd": "2rem",
+    "RadiusLg": "3rem",
+    "FontSans": "Rochester",
+    "FontHeading": "Rochester"
+  },
+  "tags": ["dark", "starlight", "night", "cosmic"]
+}

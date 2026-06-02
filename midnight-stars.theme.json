@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Midnight Stars",
+  "tokens": {
+    "Background": "#0a0a0a",
+    "Foreground": "#e4e4e7",
+    "Surface": "#18181b",
+    "SurfaceForeground": "#f4f4f5",
+    "Primary": "#c4b5fd",
+    "PrimaryForeground": "#0a0a0a",
+    "Secondary": "#27272a",
+    "SecondaryForeground": "#a1a1aa",
+    "Muted": "#3f3f46",
+    "MutedForeground": "#71717a",
+    "Border": "#52525b",
+    "Ring": "#c4b5fd",
+    "Success": "#4ade80",
+    "SuccessForeground": "#0a0a0a",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#0a0a0a",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Cinzel",
+    "FontHeading": "Cinzel Decorative"
+  },
+  "tags": ["dark", "stars", "midnight", "space"]
+}

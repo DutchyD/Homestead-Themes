@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Night Fall",
+  "tokens": {
+    "Background": "#020617",
+    "Foreground": "#bae6fd",
+    "Surface": "#0f172a",
+    "SurfaceForeground": "#e0f2fe",
+    "Primary": "#38bdf8",
+    "PrimaryForeground": "#020617",
+    "Secondary": "#1e3a8a",
+    "SecondaryForeground": "#7dd3fc",
+    "Muted": "#1d4ed8",
+    "MutedForeground": "#60a5fa",
+    "Border": "#3b82f6",
+    "Ring": "#38bdf8",
+    "Success": "#4ade80",
+    "SuccessForeground": "#020617",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#020617",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "2.5rem",
+    "FontSans": "Nunito",
+    "FontHeading": "Nunito"
+  },
+  "tags": ["dark", "night", "fall", "deep"]
+}

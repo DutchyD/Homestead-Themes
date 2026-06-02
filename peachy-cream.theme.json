@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Peachy Cream",
+  "tokens": {
+    "Background": "#fff1f2",
+    "Foreground": "#881337",
+    "Surface": "#ffe4e6",
+    "SurfaceForeground": "#881337",
+    "Primary": "#fda4af",
+    "PrimaryForeground": "#881337",
+    "Secondary": "#fecdd3",
+    "SecondaryForeground": "#9f1239",
+    "Muted": "#fbcfe8",
+    "MutedForeground": "#db2777",
+    "Border": "#f9a8d4",
+    "Ring": "#fda4af",
+    "Success": "#86efac",
+    "SuccessForeground": "#14532d",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#7f1d1d",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Pacifico",
+    "FontHeading": "Pacifico"
+  },
+  "tags": ["dark", "peach", "pink", "cream"]
+}

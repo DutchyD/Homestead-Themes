@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Gold Mine",
+  "tokens": {
+    "Background": "#1c1917",
+    "Foreground": "#fde047",
+    "Surface": "#292524",
+    "SurfaceForeground": "#fef3c7",
+    "Primary": "#eab308",
+    "PrimaryForeground": "#1c1917",
+    "Secondary": "#44403c",
+    "SecondaryForeground": "#facc15",
+    "Muted": "#57534e",
+    "MutedForeground": "#fbbf24",
+    "Border": "#713f12",
+    "Ring": "#eab308",
+    "Success": "#22c55e",
+    "SuccessForeground": "#1c1917",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.125rem",
+    "RadiusMd": "0.25rem",
+    "RadiusLg": "0.5rem",
+    "FontSans": "Playfair Display",
+    "FontHeading": "Playfair Display"
+  },
+  "tags": ["dark", "gold", "mine", "treasure"]
+}

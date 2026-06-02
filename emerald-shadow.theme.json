@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Emerald Shadow",
+  "tokens": {
+    "Background": "#022c22",
+    "Foreground": "#a7f3d0",
+    "Surface": "#064e3b",
+    "SurfaceForeground": "#d1fae5",
+    "Primary": "#10b981",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#065f46",
+    "SecondaryForeground": "#6ee7b7",
+    "Muted": "#047857",
+    "MutedForeground": "#34d399",
+    "Border": "#065f46",
+    "Ring": "#10b981",
+    "Success": "#4ade80",
+    "SuccessForeground": "#022c22",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#022c22",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Cinzel",
+    "FontHeading": "Cinzel Decorative"
+  },
+  "tags": ["dark", "emerald", "shadow", "gemstone"]
+}

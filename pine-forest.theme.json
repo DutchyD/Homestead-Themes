@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Pine Forest",
+  "tokens": {
+    "Background": "#052e16",
+    "Foreground": "#86efac",
+    "Surface": "#14532d",
+    "SurfaceForeground": "#dcfce7",
+    "Primary": "#22c55e",
+    "PrimaryForeground": "#052e16",
+    "Secondary": "#166534",
+    "SecondaryForeground": "#4ade80",
+    "Muted": "#15803d",
+    "MutedForeground": "#22c55e",
+    "Border": "#166534",
+    "Ring": "#22c55e",
+    "Success": "#16a34a",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#052e16",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Nunito",
+    "FontHeading": "Nunito"
+  },
+  "tags": ["dark", "pine", "forest", "woods"]
+}

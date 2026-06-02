@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Rose Gold Night",
+  "tokens": {
+    "Background": "#2a0a14",
+    "Foreground": "#fda4af",
+    "Surface": "#4a1020",
+    "SurfaceForeground": "#ffe4e6",
+    "Primary": "#e11d48",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#7f1d35",
+    "SecondaryForeground": "#fecdd3",
+    "Muted": "#9f1a3e",
+    "MutedForeground": "#fb7185",
+    "Border": "#be185d",
+    "Ring": "#f43f5e",
+    "Success": "#4ade80",
+    "SuccessForeground": "#2a0a14",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#2a0a14",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Italiana",
+    "FontHeading": "Italiana"
+  },
+  "tags": ["dark", "rose", "gold", "elegant"]
+}

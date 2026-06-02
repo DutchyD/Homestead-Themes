@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Liquid Mercury",
+  "tokens": {
+    "Background": "#171717",
+    "Foreground": "#d4d4d4",
+    "Surface": "#262626",
+    "SurfaceForeground": "#e5e5e5",
+    "Primary": "#737373",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#404040",
+    "SecondaryForeground": "#a3a3a3",
+    "Muted": "#525252",
+    "MutedForeground": "#a3a3a3",
+    "Border": "#525252",
+    "Ring": "#a3a3a3",
+    "Success": "#4ade80",
+    "SuccessForeground": "#171717",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#171717",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Montserrat",
+    "FontHeading": "Montserrat"
+  },
+  "tags": ["dark", "mercury", "metal", "liquid"]
+}

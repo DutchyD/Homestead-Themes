@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Evening Shade Tree",
+  "tokens": {
+    "Background": "#312e81",
+    "Foreground": "#c7d2fe",
+    "Surface": "#4338ca",
+    "SurfaceForeground": "#e0e7ff",
+    "Primary": "#818cf8",
+    "PrimaryForeground": "#312e81",
+    "Secondary": "#4f46e5",
+    "SecondaryForeground": "#a5b4fc",
+    "Muted": "#6366f1",
+    "MutedForeground": "#c7d2fe",
+    "Border": "#4f46e5",
+    "Ring": "#818cf8",
+    "Success": "#4ade80",
+    "SuccessForeground": "#312e81",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#312e81",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "2.5rem",
+    "FontSans": "Tangerine",
+    "FontHeading": "Tangerine"
+  },
+  "tags": ["dark", "evening", "shade", "purple"]
+}

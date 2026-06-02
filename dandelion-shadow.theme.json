@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Dandelion Shadow",
+  "tokens": {
+    "Background": "#1c1917",
+    "Foreground": "#fde047",
+    "Surface": "#292524",
+    "SurfaceForeground": "#fef9c3",
+    "Primary": "#eab308",
+    "PrimaryForeground": "#1c1917",
+    "Secondary": "#44403c",
+    "SecondaryForeground": "#facc15",
+    "Muted": "#57534e",
+    "MutedForeground": "#fbbf24",
+    "Border": "#713f12",
+    "Ring": "#eab308",
+    "Success": "#4ade80",
+    "SuccessForeground": "#1c1917",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#1c1917",
+    "RadiusSm": "2rem",
+    "RadiusMd": "3rem",
+    "RadiusLg": "4rem",
+    "FontSans": "Indie Flower",
+    "FontHeading": "Patrick Hand"
+  },
+  "tags": ["dark", "dandelion", "shadow", "moon"]
+}

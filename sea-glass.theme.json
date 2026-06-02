@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Sea Glass",
+  "tokens": {
+    "Background": "#f0f9ff",
+    "Foreground": "#0c4a6e",
+    "Surface": "#e0f2fe",
+    "SurfaceForeground": "#0c4a6e",
+    "Primary": "#38bdf8",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#bae6fd",
+    "SecondaryForeground": "#0369a1",
+    "Muted": "#7dd3fc",
+    "MutedForeground": "#0ea5e9",
+    "Border": "#38bdf8",
+    "Ring": "#38bdf8",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Averia Libre",
+    "FontHeading": "Averia Libre"
+  },
+  "tags": ["light", "sea", "glass", "beach"]
+}

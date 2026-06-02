@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Petal Soft",
+  "tokens": {
+    "Background": "#fdf2f8",
+    "Foreground": "#831843",
+    "Surface": "#fce7f3",
+    "SurfaceForeground": "#831843",
+    "Primary": "#f472b6",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fbcfe8",
+    "SecondaryForeground": "#9d174d",
+    "Muted": "#f9a8d4",
+    "MutedForeground": "#db2777",
+    "Border": "#ec4899",
+    "Ring": "#f472b6",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Rouge Script",
+    "FontHeading": "Rouge Script"
+  },
+  "tags": ["light", "petal", "soft", "pink"]
+}

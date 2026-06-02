@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Thunder Cloud",
+  "tokens": {
+    "Background": "#18181b",
+    "Foreground": "#e4e4e7",
+    "Surface": "#27272a",
+    "SurfaceForeground": "#f4f4f5",
+    "Primary": "#facc15",
+    "PrimaryForeground": "#18181b",
+    "Secondary": "#3f3f46",
+    "SecondaryForeground": "#a1a1aa",
+    "Muted": "#52525b",
+    "MutedForeground": "#71717a",
+    "Border": "#52525b",
+    "Ring": "#facc15",
+    "Success": "#4ade80",
+    "SuccessForeground": "#18181b",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "2rem",
+    "RadiusMd": "3rem",
+    "RadiusLg": "4rem",
+    "FontSans": "Quicksand",
+    "FontHeading": "Quicksand"
+  },
+  "tags": ["dark", "thunder", "storm", "electric"]
+}

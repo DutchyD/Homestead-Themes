@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Rose Thorn",
+  "tokens": {
+    "Background": "#4a0426",
+    "Foreground": "#fda4af",
+    "Surface": "#7f1d4a",
+    "SurfaceForeground": "#ffe4e6",
+    "Primary": "#be123c",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#9f1a50",
+    "SecondaryForeground": "#fecdd3",
+    "Muted": "#be185d",
+    "MutedForeground": "#fb7185",
+    "Border": "#db2777",
+    "Ring": "#f43f5e",
+    "Success": "#4ade80",
+    "SuccessForeground": "#4a0426",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#4a0426",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "2.5rem",
+    "FontSans": "Great Vibes",
+    "FontHeading": "Great Vibes"
+  },
+  "tags": ["dark", "rose", "thorn", "gothic"]
+}

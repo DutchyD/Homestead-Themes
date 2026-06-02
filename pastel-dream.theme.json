@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Pastel Dream",
+  "tokens": {
+    "Background": "#fafafa",
+    "Foreground": "#737373",
+    "Surface": "#f5f5f5",
+    "SurfaceForeground": "#737373",
+    "Primary": "#c4b5fd",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fbcfe8",
+    "SecondaryForeground": "#db2777",
+    "Muted": "#bae6fd",
+    "MutedForeground": "#0284c7",
+    "Border": "#e5e5e5",
+    "Ring": "#c4b5fd",
+    "Success": "#86efac",
+    "SuccessForeground": "#14532d",
+    "Destructive": "#fca5a5",
+    "DestructiveForeground": "#991b1b",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Comfortaa",
+    "FontHeading": "Comfortaa"
+  },
+  "tags": ["light", "pastel", "dream", "soft"]
+}
