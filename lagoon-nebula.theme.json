@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Lagoon Nebula",
+  "tokens": {
+    "Background": "#022c22",
+    "Foreground": "#a7f3d0",
+    "Surface": "#064e3b",
+    "SurfaceForeground": "#d1fae5",
+    "Primary": "#34d399",
+    "PrimaryForeground": "#022c22",
+    "Secondary": "#065f46",
+    "SecondaryForeground": "#6ee7b7",
+    "Muted": "#047857",
+    "MutedForeground": "#10b981",
+    "Border": "#059669",
+    "Ring": "#34d399",
+    "Success": "#4ade80",
+    "SuccessForeground": "#022c22",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#022c22",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Space Grotesk",
+    "FontHeading": "Space Grotesk"
+  },
+  "tags": ["dark", "lagoon", "nebula", "green"]
+}

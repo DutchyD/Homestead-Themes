@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Quasar Dark",
+  "tokens": {
+    "Background": "#172554",
+    "Foreground": "#bfdbfe",
+    "Surface": "#1e3a8a",
+    "SurfaceForeground": "#dbeafe",
+    "Primary": "#60a5fa",
+    "PrimaryForeground": "#172554",
+    "Secondary": "#1e40af",
+    "SecondaryForeground": "#93c5fd",
+    "Muted": "#2563eb",
+    "MutedForeground": "#60a5fa",
+    "Border": "#3b82f6",
+    "Ring": "#60a5fa",
+    "Success": "#4ade80",
+    "SuccessForeground": "#172554",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#172554",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Exo 2",
+    "FontHeading": "Exo 2"
+  },
+  "tags": ["dark", "quasar", "dark", "energy"]
+}

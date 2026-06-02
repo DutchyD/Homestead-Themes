@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Aspen Grove",
+  "tokens": {
+    "Background": "#faf9f6",
+    "Foreground": "#3f3f46",
+    "Surface": "#f4f4f5",
+    "SurfaceForeground": "#3f3f46",
+    "Primary": "#d4d4d8",
+    "PrimaryForeground": "#27272a",
+    "Secondary": "#e4e4e7",
+    "SecondaryForeground": "#52525b",
+    "Muted": "#e4e4e7",
+    "MutedForeground": "#71717a",
+    "Border": "#d4d4d8",
+    "Ring": "#a1a1aa",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Quattrocento Sans",
+    "FontHeading": "Quattrocento"
+  },
+  "tags": ["light", "aspen", "grove", "silver"]
+}

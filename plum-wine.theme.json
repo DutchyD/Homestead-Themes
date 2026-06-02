@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Plum Wine",
+  "tokens": {
+    "Background": "#faf5ff",
+    "Foreground": "#581c87",
+    "Surface": "#f3e8ff",
+    "SurfaceForeground": "#581c87",
+    "Primary": "#a855f7",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#e9d5ff",
+    "SecondaryForeground": "#6b21a8",
+    "Muted": "#d8b4fe",
+    "MutedForeground": "#7c3aed",
+    "Border": "#c084fc",
+    "Ring": "#a855f7",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Libre Baskerville",
+    "FontHeading": "Libre Baskerville"
+  },
+  "tags": ["light", "plum", "wine", "purple"]
+}

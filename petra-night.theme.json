@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Petra Night",
+  "tokens": {
+    "Background": "#450a0a",
+    "Foreground": "#fecaca",
+    "Surface": "#7f1d1d",
+    "SurfaceForeground": "#fee2e2",
+    "Primary": "#fb7185",
+    "PrimaryForeground": "#450a0a",
+    "Secondary": "#991b1b",
+    "SecondaryForeground": "#fca5a5",
+    "Muted": "#be123c",
+    "MutedForeground": "#fda4af",
+    "Border": "#e11d48",
+    "Ring": "#fb7185",
+    "Success": "#4ade80",
+    "SuccessForeground": "#450a0a",
+    "Destructive": "#fda4af",
+    "DestructiveForeground": "#450a0a",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Cinzel Decorative",
+    "FontHeading": "Cinzel Decorative"
+  },
+  "tags": ["dark", "petra", "night", "desert"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Kepler 186f",
+  "tokens": {
+    "Background": "#064e3b",
+    "Foreground": "#a7f3d0",
+    "Surface": "#065f46",
+    "SurfaceForeground": "#d1fae5",
+    "Primary": "#10b981",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#047857",
+    "SecondaryForeground": "#6ee7b7",
+    "Muted": "#059669",
+    "MutedForeground": "#34d399",
+    "Border": "#34d399",
+    "Ring": "#10b981",
+    "Success": "#4ade80",
+    "SuccessForeground": "#064e3b",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#064e3b",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Space Grotesk",
+    "FontHeading": "Space Grotesk"
+  },
+  "tags": ["dark", "kepler", "exoplanet", "alien"]
+}

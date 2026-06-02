@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Giza Pyramid",
+  "tokens": {
+    "Background": "#fef9c3",
+    "Foreground": "#713f12",
+    "Surface": "#fde047",
+    "SurfaceForeground": "#713f12",
+    "Primary": "#d97706",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#facc15",
+    "SecondaryForeground": "#854d0e",
+    "Muted": "#eab308",
+    "MutedForeground": "#a16207",
+    "Border": "#ca8a04",
+    "Ring": "#d97706",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Cinzel",
+    "FontHeading": "Cinzel Decorative"
+  },
+  "tags": ["light", "giza", "pyramid", "egypt"]
+}

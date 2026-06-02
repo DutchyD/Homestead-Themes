@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Fig Garden",
+  "tokens": {
+    "Background": "#fdf4ff",
+    "Foreground": "#701a75",
+    "Surface": "#fae8ff",
+    "SurfaceForeground": "#701a75",
+    "Primary": "#c026d3",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#f0abfc",
+    "SecondaryForeground": "#86198f",
+    "Muted": "#e879f9",
+    "MutedForeground": "#a21caf",
+    "Border": "#d946ef",
+    "Ring": "#c026d3",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Lato",
+    "FontHeading": "Lato"
+  },
+  "tags": ["light", "fig", "garden", "purple"]
+}

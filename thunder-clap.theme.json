@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Thunder Clap",
+  "tokens": {
+    "Background": "#fefce8",
+    "Foreground": "#713f12",
+    "Surface": "#fef9c3",
+    "SurfaceForeground": "#713f12",
+    "Primary": "#eab308",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fde047",
+    "SecondaryForeground": "#854d0e",
+    "Muted": "#facc15",
+    "MutedForeground": "#a16207",
+    "Border": "#ca8a04",
+    "Ring": "#eab308",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Exo 2",
+    "FontHeading": "Exo 2"
+  },
+  "tags": ["light", "thunder", "clap", "electric"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Jasmine Dawn",
+  "tokens": {
+    "Background": "#fffbeb",
+    "Foreground": "#92400e",
+    "Surface": "#fef3c7",
+    "SurfaceForeground": "#92400e",
+    "Primary": "#fbbf24",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fde68a",
+    "SecondaryForeground": "#b45309",
+    "Muted": "#fcd34d",
+    "MutedForeground": "#d97706",
+    "Border": "#f59e0b",
+    "Ring": "#fbbf24",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Dancing Script",
+    "FontHeading": "Dancing Script"
+  },
+  "tags": ["light", "jasmine", "dawn", "morning"]
+}

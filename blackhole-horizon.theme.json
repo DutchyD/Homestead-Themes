@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Blackhole Horizon",
+  "tokens": {
+    "Background": "#09090b",
+    "Foreground": "#d4d4d8",
+    "Surface": "#18181b",
+    "SurfaceForeground": "#e4e4e7",
+    "Primary": "#a855f7",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#27272a",
+    "SecondaryForeground": "#a1a1aa",
+    "Muted": "#3f3f46",
+    "MutedForeground": "#d4d4d8",
+    "Border": "#52525b",
+    "Ring": "#a855f7",
+    "Success": "#4ade80",
+    "SuccessForeground": "#09090b",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#09090b",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Space Grotesk",
+    "FontHeading": "Space Grotesk"
+  },
+  "tags": ["dark", "blackhole", "horizon", "void"]
+}

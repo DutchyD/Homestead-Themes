@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Pear Orchard",
+  "tokens": {
+    "Background": "#1a2e05",
+    "Foreground": "#d9f99d",
+    "Surface": "#365314",
+    "SurfaceForeground": "#ecfccb",
+    "Primary": "#a3e635",
+    "PrimaryForeground": "#1a2e05",
+    "Secondary": "#4d7c0f",
+    "SecondaryForeground": "#bef264",
+    "Muted": "#5a8a0b",
+    "MutedForeground": "#84cc16",
+    "Border": "#65a30d",
+    "Ring": "#a3e635",
+    "Success": "#4ade80",
+    "SuccessForeground": "#1a2e05",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#1a2e05",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Merriweather",
+    "FontHeading": "Merriweather"
+  },
+  "tags": ["dark", "pear", "orchard", "night"]
+}

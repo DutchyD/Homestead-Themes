@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Walnut Dark",
+  "tokens": {
+    "Background": "#271c19",
+    "Foreground": "#e7d5c4",
+    "Surface": "#451a03",
+    "SurfaceForeground": "#f5ebe0",
+    "Primary": "#b45309",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#78350f",
+    "SecondaryForeground": "#d6c0a6",
+    "Muted": "#92400e",
+    "MutedForeground": "#c4a484",
+    "Border": "#a16207",
+    "Ring": "#d97706",
+    "Success": "#4ade80",
+    "SuccessForeground": "#271c19",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#271c19",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Cinzel",
+    "FontHeading": "Cinzel Decorative"
+  },
+  "tags": ["dark", "walnut", "dark", "rustic"]
+}

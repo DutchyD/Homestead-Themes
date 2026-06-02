@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Mumbai Bazaar",
+  "tokens": {
+    "Background": "#fef3c7",
+    "Foreground": "#713f12",
+    "Surface": "#fde68a",
+    "SurfaceForeground": "#713f12",
+    "Primary": "#f59e0b",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fcd34d",
+    "SecondaryForeground": "#854d0e",
+    "Muted": "#fbbf24",
+    "MutedForeground": "#a16207",
+    "Border": "#ca8a04",
+    "Ring": "#f59e0b",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Noto Sans JP",
+    "FontHeading": "Noto Serif JP"
+  },
+  "tags": ["light", "mumbai", "bazaar", "india"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Olive Night",
+  "tokens": {
+    "Background": "#1a1a05",
+    "Foreground": "#d4d4aa",
+    "Surface": "#2d2d0d",
+    "SurfaceForeground": "#e8e8d0",
+    "Primary": "#9c9c50",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#3f3f12",
+    "SecondaryForeground": "#b8b88a",
+    "Muted": "#52520f",
+    "MutedForeground": "#9c9c50",
+    "Border": "#606012",
+    "Ring": "#787816",
+    "Success": "#4ade80",
+    "SuccessForeground": "#1a1a05",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#1a1a05",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Marcellus",
+    "FontHeading": "Marcellus"
+  },
+  "tags": ["dark", "olive", "night", "earthy"]
+}

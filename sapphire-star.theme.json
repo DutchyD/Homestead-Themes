@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Sapphire Star",
+  "tokens": {
+    "Background": "#eff6ff",
+    "Foreground": "#1e3a8a",
+    "Surface": "#dbeafe",
+    "SurfaceForeground": "#1e3a8a",
+    "Primary": "#3b82f6",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#bfdbfe",
+    "SecondaryForeground": "#2563eb",
+    "Muted": "#93c5fd",
+    "MutedForeground": "#3b82f6",
+    "Border": "#60a5fa",
+    "Ring": "#3b82f6",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Amethysta",
+    "FontHeading": "Amethysta"
+  },
+  "tags": ["light", "sapphire", "star", "blue"]
+}

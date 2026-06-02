@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Coral Sands",
+  "tokens": {
+    "Background": "#fff1f2",
+    "Foreground": "#881337",
+    "Surface": "#ffe4e6",
+    "SurfaceForeground": "#881337",
+    "Primary": "#fb7185",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fecdd3",
+    "SecondaryForeground": "#9f1239",
+    "Muted": "#fda4af",
+    "MutedForeground": "#be123c",
+    "Border": "#f43f5e",
+    "Ring": "#fb7185",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#7f1d1d",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "2.5rem",
+    "FontSans": "Overpass",
+    "FontHeading": "Overpass"
+  },
+  "tags": ["light", "coral", "sands", "beach"]
+}

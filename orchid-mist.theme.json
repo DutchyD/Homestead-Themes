@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Orchid Mist",
+  "tokens": {
+    "Background": "#4a0444",
+    "Foreground": "#f0abfc",
+    "Surface": "#701a75",
+    "SurfaceForeground": "#fae8ff",
+    "Primary": "#e879f9",
+    "PrimaryForeground": "#4a0444",
+    "Secondary": "#86198f",
+    "SecondaryForeground": "#f0abfc",
+    "Muted": "#a21caf",
+    "MutedForeground": "#d946ef",
+    "Border": "#c026d3",
+    "Ring": "#e879f9",
+    "Success": "#4ade80",
+    "SuccessForeground": "#4a0444",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#4a0444",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Pacifico",
+    "FontHeading": "Pacifico"
+  },
+  "tags": ["dark", "orchid", "mist", "mysterious"]
+}

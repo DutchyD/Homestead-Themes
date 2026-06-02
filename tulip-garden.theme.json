@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Tulip Garden",
+  "tokens": {
+    "Background": "#fdf2f8",
+    "Foreground": "#831843",
+    "Surface": "#fce7f3",
+    "SurfaceForeground": "#831843",
+    "Primary": "#ec4899",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fbcfe8",
+    "SecondaryForeground": "#9d174d",
+    "Muted": "#f9a8d4",
+    "MutedForeground": "#db2777",
+    "Border": "#f472b6",
+    "Ring": "#ec4899",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#7f1d1d",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Comfortaa",
+    "FontHeading": "Comfortaa"
+  },
+  "tags": ["light", "tulip", "garden", "pink"]
+}

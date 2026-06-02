@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Pine Mist",
+  "tokens": {
+    "Background": "#052e16",
+    "Foreground": "#bbf7d0",
+    "Surface": "#14532d",
+    "SurfaceForeground": "#dcfce7",
+    "Primary": "#22c55e",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#166534",
+    "SecondaryForeground": "#86efac",
+    "Muted": "#15803d",
+    "MutedForeground": "#4ade80",
+    "Border": "#16a34a",
+    "Ring": "#22c55e",
+    "Success": "#4ade80",
+    "SuccessForeground": "#052e16",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#052e16",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Averia Libre",
+    "FontHeading": "Averia Libre"
+  },
+  "tags": ["dark", "pine", "mist", "mystic"]
+}

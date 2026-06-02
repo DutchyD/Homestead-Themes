@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Cotton Night",
+  "tokens": {
+    "Background": "#0f172a",
+    "Foreground": "#cbd5e1",
+    "Surface": "#1e293b",
+    "SurfaceForeground": "#e2e8f0",
+    "Primary": "#64748b",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#334155",
+    "SecondaryForeground": "#94a3b8",
+    "Muted": "#334155",
+    "MutedForeground": "#64748b",
+    "Border": "#475569",
+    "Ring": "#94a3b8",
+    "Success": "#4ade80",
+    "SuccessForeground": "#0f172a",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#0f172a",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Quattrocento Sans",
+    "FontHeading": "Quattrocento"
+  },
+  "tags": ["dark", "cotton", "night", "calm"]
+}

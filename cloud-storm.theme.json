@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Cloud Storm",
+  "tokens": {
+    "Background": "#1e293b",
+    "Foreground": "#94a3b8",
+    "Surface": "#334155",
+    "SurfaceForeground": "#e2e8f0",
+    "Primary": "#64748b",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#475569",
+    "SecondaryForeground": "#cbd5e1",
+    "Muted": "#475569",
+    "MutedForeground": "#94a3b8",
+    "Border": "#334155",
+    "Ring": "#64748b",
+    "Success": "#4ade80",
+    "SuccessForeground": "#1e293b",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#1e293b",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Work Sans",
+    "FontHeading": "Work Sans"
+  },
+  "tags": ["dark", "cloud", "storm", "thunder"]
+}

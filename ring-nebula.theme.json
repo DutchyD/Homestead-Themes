@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Ring Nebula",
+  "tokens": {
+    "Background": "#fdf4ff",
+    "Foreground": "#701a75",
+    "Surface": "#fae8ff",
+    "SurfaceForeground": "#701a75",
+    "Primary": "#e879f9",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#f0abfc",
+    "SecondaryForeground": "#86198f",
+    "Muted": "#d946ef",
+    "MutedForeground": "#c026d3",
+    "Border": "#e879f9",
+    "Ring": "#f0abfc",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Exo 2",
+    "FontHeading": "Exo 2"
+  },
+  "tags": ["light", "ring", "nebula", "planetary"]
+}

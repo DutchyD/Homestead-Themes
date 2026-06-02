@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Coral Abyss",
+  "tokens": {
+    "Background": "#4c0519",
+    "Foreground": "#fecdd3",
+    "Surface": "#881337",
+    "SurfaceForeground": "#ffe4e6",
+    "Primary": "#f43f5e",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#9f1239",
+    "SecondaryForeground": "#fda4af",
+    "Muted": "#be123c",
+    "MutedForeground": "#fb7185",
+    "Border": "#e11d48",
+    "Ring": "#f43f5e",
+    "Success": "#4ade80",
+    "SuccessForeground": "#4c0519",
+    "Destructive": "#fca5a5",
+    "DestructiveForeground": "#4c0519",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "2.5rem",
+    "FontSans": "Overpass",
+    "FontHeading": "Overpass"
+  },
+  "tags": ["dark", "coral", "abyss", "ocean"]
+}

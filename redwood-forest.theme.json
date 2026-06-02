@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Redwood Forest",
+  "tokens": {
+    "Background": "#f5f5f0",
+    "Foreground": "#451a03",
+    "Surface": "#e8e4d9",
+    "SurfaceForeground": "#451a03",
+    "Primary": "#92400e",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#d6c8b0",
+    "SecondaryForeground": "#78350f",
+    "Muted": "#c4b090",
+    "MutedForeground": "#92400e",
+    "Border": "#b09570",
+    "Ring": "#92400e",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Almendra",
+    "FontHeading": "Almendra"
+  },
+  "tags": ["light", "redwood", "forest", "earthy"]
+}

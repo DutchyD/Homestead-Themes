@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Sumer Night",
+  "tokens": {
+    "Background": "#431407",
+    "Foreground": "#fdba74",
+    "Surface": "#7c2d12",
+    "SurfaceForeground": "#ffedd5",
+    "Primary": "#fb923c",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#9a3412",
+    "SecondaryForeground": "#fed7aa",
+    "Muted": "#c2410c",
+    "MutedForeground": "#fb923c",
+    "Border": "#ea580c",
+    "Ring": "#f97316",
+    "Success": "#4ade80",
+    "SuccessForeground": "#431407",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#431407",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Cinzel",
+    "FontHeading": "Cinzel"
+  },
+  "tags": ["dark", "sumer", "night", "ancient"]
+}

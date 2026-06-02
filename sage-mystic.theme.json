@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Sage Mystic",
+  "tokens": {
+    "Background": "#1a1f15",
+    "Foreground": "#d4d9cc",
+    "Surface": "#2a3020",
+    "SurfaceForeground": "#e8eae8",
+    "Primary": "#7c9f64",
+    "PrimaryForeground": "#1a1f15",
+    "Secondary": "#3a4530",
+    "SecondaryForeground": "#c5cbb8",
+    "Muted": "#4a5540",
+    "MutedForeground": "#a8b896",
+    "Border": "#3a4530",
+    "Ring": "#7c9f64",
+    "Success": "#4ade80",
+    "SuccessForeground": "#1a1f15",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#1a1f15",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Cormorant",
+    "FontHeading": "Cormorant"
+  },
+  "tags": ["dark", "sage", "mystic", "spiritual"]
+}

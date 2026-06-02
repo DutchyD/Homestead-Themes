@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Avocado Night",
+  "tokens": {
+    "Background": "#1a2e05",
+    "Foreground": "#d9f99d",
+    "Surface": "#3f6212",
+    "SurfaceForeground": "#ecfccb",
+    "Primary": "#84cc16",
+    "PrimaryForeground": "#1a2e05",
+    "Secondary": "#4d7c0f",
+    "SecondaryForeground": "#bef264",
+    "Muted": "#65a30d",
+    "MutedForeground": "#a3e635",
+    "Border": "#5a8a0b",
+    "Ring": "#84cc16",
+    "Success": "#4ade80",
+    "SuccessForeground": "#1a2e05",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#1a2e05",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Karla",
+    "FontHeading": "Karla"
+  },
+  "tags": ["dark", "avocado", "night", "food"]
+}

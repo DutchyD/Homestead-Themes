@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Velvet Cream",
+  "tokens": {
+    "Background": "#fef2f2",
+    "Foreground": "#7f1d1d",
+    "Surface": "#fee2e2",
+    "SurfaceForeground": "#7f1d1d",
+    "Primary": "#e11d48",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fecaca",
+    "SecondaryForeground": "#991b1b",
+    "Muted": "#fca5a5",
+    "MutedForeground": "#be123c",
+    "Border": "#f43f5e",
+    "Ring": "#e11d48",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#881337",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Playfair Display",
+    "FontHeading": "Playfair Display"
+  },
+  "tags": ["light", "velvet", "cream", "soft"]
+}

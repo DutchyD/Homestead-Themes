@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Sapphire Void",
+  "tokens": {
+    "Background": "#0c4a6e",
+    "Foreground": "#bae6fd",
+    "Surface": "#075985",
+    "SurfaceForeground": "#e0f2fe",
+    "Primary": "#38bdf8",
+    "PrimaryForeground": "#0c4a6e",
+    "Secondary": "#0369a1",
+    "SecondaryForeground": "#7dd3fc",
+    "Muted": "#0284c7",
+    "MutedForeground": "#0ea5e9",
+    "Border": "#0ea5e9",
+    "Ring": "#38bdf8",
+    "Success": "#4ade80",
+    "SuccessForeground": "#0c4a6e",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#0c4a6e",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Prata",
+    "FontHeading": "Prata"
+  },
+  "tags": ["dark", "sapphire", "void", "deep"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Jade Star",
+  "tokens": {
+    "Background": "#ecfdf5",
+    "Foreground": "#065f46",
+    "Surface": "#d1fae5",
+    "SurfaceForeground": "#065f46",
+    "Primary": "#10b981",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#a7f3d0",
+    "SecondaryForeground": "#047857",
+    "Muted": "#6ee7b7",
+    "MutedForeground": "#059669",
+    "Border": "#34d399",
+    "Ring": "#10b981",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Zen Maru Gothic",
+    "FontHeading": "Zen Maru Gothic"
+  },
+  "tags": ["light", "jade", "star", "green"]
+}

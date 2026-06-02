@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Mint Velvet",
+  "tokens": {
+    "Background": "#022c22",
+    "Foreground": "#86efac",
+    "Surface": "#064e3b",
+    "SurfaceForeground": "#dcfce7",
+    "Primary": "#4ade80",
+    "PrimaryForeground": "#022c22",
+    "Secondary": "#065f46",
+    "SecondaryForeground": "#bbf7d0",
+    "Muted": "#047857",
+    "MutedForeground": "#22c55e",
+    "Border": "#059669",
+    "Ring": "#4ade80",
+    "Success": "#4ade80",
+    "SuccessForeground": "#022c22",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#022c22",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Great Vibes",
+    "FontHeading": "Great Vibes"
+  },
+  "tags": ["dark", "mint", "velvet", "luxury"]
+}

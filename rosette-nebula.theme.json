@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Rosette Nebula",
+  "tokens": {
+    "Background": "#450a0a",
+    "Foreground": "#fecaca",
+    "Surface": "#7f1d1d",
+    "SurfaceForeground": "#fee2e2",
+    "Primary": "#f472b6",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#991b1b",
+    "SecondaryForeground": "#fda4af",
+    "Muted": "#be123c",
+    "MutedForeground": "#fb7185",
+    "Border": "#e11d48",
+    "Ring": "#f472b6",
+    "Success": "#4ade80",
+    "SuccessForeground": "#450a0a",
+    "Destructive": "#fda4af",
+    "DestructiveForeground": "#450a0a",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Space Grotesk",
+    "FontHeading": "Space Grotesk"
+  },
+  "tags": ["dark", "rosette", "nebula", "pink"]
+}

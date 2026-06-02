@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Kiwi Dark",
+  "tokens": {
+    "Background": "#052e16",
+    "Foreground": "#bbf7d0",
+    "Surface": "#166534",
+    "SurfaceForeground": "#dcfce7",
+    "Primary": "#4ade80",
+    "PrimaryForeground": "#052e16",
+    "Secondary": "#14532d",
+    "SecondaryForeground": "#86efac",
+    "Muted": "#15803d",
+    "MutedForeground": "#22c55e",
+    "Border": "#166534",
+    "Ring": "#4ade80",
+    "Success": "#22c55e",
+    "SuccessForeground": "#052e16",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#052e16",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Manrope",
+    "FontHeading": "Manrope"
+  },
+  "tags": ["dark", "kiwi", "dark", "fruit"]
+}

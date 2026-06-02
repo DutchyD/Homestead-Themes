@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Lightning Storm",
+  "tokens": {
+    "Background": "#27272a",
+    "Foreground": "#facc15",
+    "Surface": "#3f3f46",
+    "SurfaceForeground": "#fef9c3",
+    "Primary": "#eab308",
+    "PrimaryForeground": "#27272a",
+    "Secondary": "#52525b",
+    "SecondaryForeground": "#fde047",
+    "Muted": "#52525b",
+    "MutedForeground": "#eab308",
+    "Border": "#71717a",
+    "Ring": "#facc15",
+    "Success": "#4ade80",
+    "SuccessForeground": "#27272a",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#27272a",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Orbitron",
+    "FontHeading": "Orbitron"
+  },
+  "tags": ["dark", "lightning", "storm", "electric"]
+}

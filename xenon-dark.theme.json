@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Xenon Dark",
+  "tokens": {
+    "Background": "#2e1065",
+    "Foreground": "#ddd6fe",
+    "Surface": "#4c1d95",
+    "SurfaceForeground": "#ede9fe",
+    "Primary": "#a78bfa",
+    "PrimaryForeground": "#2e1065",
+    "Secondary": "#5b21b6",
+    "SecondaryForeground": "#c4b5fd",
+    "Muted": "#6d28d9",
+    "MutedForeground": "#8b5cf6",
+    "Border": "#7c3aed",
+    "Ring": "#a78bfa",
+    "Success": "#4ade80",
+    "SuccessForeground": "#2e1065",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#2e1065",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Orbitron",
+    "FontHeading": "Orbitron"
+  },
+  "tags": ["dark", "xenon", "dark", "plasma"]
+}

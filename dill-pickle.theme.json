@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Dill Pickle",
+  "tokens": {
+    "Background": "#f7fee7",
+    "Foreground": "#3f6212",
+    "Surface": "#ecfccb",
+    "SurfaceForeground": "#3f6212",
+    "Primary": "#84cc16",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#d9f99d",
+    "SecondaryForeground": "#4d7c0f",
+    "Muted": "#bef264",
+    "MutedForeground": "#65a30d",
+    "Border": "#a3e635",
+    "Ring": "#84cc16",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Comic Neue",
+    "FontHeading": "Comic Neue"
+  },
+  "tags": ["light", "dill", "pickle", "green"]
+}

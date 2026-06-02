@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Berry Night",
+  "tokens": {
+    "Background": "#500724",
+    "Foreground": "#fbcfe8",
+    "Surface": "#831843",
+    "SurfaceForeground": "#fce7f3",
+    "Primary": "#f472b6",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#9d174d",
+    "SecondaryForeground": "#f9a8d4",
+    "Muted": "#db2777",
+    "MutedForeground": "#ec4899",
+    "Border": "#be185d",
+    "Ring": "#f472b6",
+    "Success": "#4ade80",
+    "SuccessForeground": "#500724",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#500724",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Montserrat",
+    "FontHeading": "Abril Fatface"
+  },
+  "tags": ["dark", "berry", "night", "magenta"]
+}

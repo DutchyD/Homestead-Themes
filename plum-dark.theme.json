@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Plum Dark",
+  "tokens": {
+    "Background": "#2e1065",
+    "Foreground": "#e9d5ff",
+    "Surface": "#581c87",
+    "SurfaceForeground": "#f3e8ff",
+    "Primary": "#c084fc",
+    "PrimaryForeground": "#2e1065",
+    "Secondary": "#6b21a8",
+    "SecondaryForeground": "#d8b4fe",
+    "Muted": "#7c3aed",
+    "MutedForeground": "#a855f7",
+    "Border": "#8b5cf6",
+    "Ring": "#c084fc",
+    "Success": "#4ade80",
+    "SuccessForeground": "#2e1065",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#2e1065",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Libre Baskerville",
+    "FontHeading": "Libre Baskerville"
+  },
+  "tags": ["dark", "plum", "dark", "wine"]
+}

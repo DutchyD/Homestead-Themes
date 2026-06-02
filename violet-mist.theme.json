@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Violet Mist",
+  "tokens": {
+    "Background": "#f5f3ff",
+    "Foreground": "#5b21b6",
+    "Surface": "#ede9fe",
+    "SurfaceForeground": "#5b21b6",
+    "Primary": "#8b5cf6",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#ddd6fe",
+    "SecondaryForeground": "#6d28d9",
+    "Muted": "#c4b5fd",
+    "MutedForeground": "#7c3aed",
+    "Border": "#a78bfa",
+    "Ring": "#8b5cf6",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Quicksand",
+    "FontHeading": "Quicksand"
+  },
+  "tags": ["light", "violet", "mist", "purple"]
+}

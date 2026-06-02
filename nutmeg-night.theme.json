@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Nutmeg Night",
+  "tokens": {
+    "Background": "#271c19",
+    "Foreground": "#d7ccc8",
+    "Surface": "#3e2723",
+    "SurfaceForeground": "#f0e6dc",
+    "Primary": "#a1887f",
+    "PrimaryForeground": "#271c19",
+    "Secondary": "#4e342e",
+    "SecondaryForeground": "#bcaaa4",
+    "Muted": "#5d4037",
+    "MutedForeground": "#a1887f",
+    "Border": "#6d4c41",
+    "Ring": "#8d6e63",
+    "Success": "#4ade80",
+    "SuccessForeground": "#271c19",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#271c19",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Bitter",
+    "FontHeading": "Bitter"
+  },
+  "tags": ["dark", "nutmeg", "night", "cozy"]
+}

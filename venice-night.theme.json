@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Venice Night",
+  "tokens": {
+    "Background": "#172554",
+    "Foreground": "#bfdbfe",
+    "Surface": "#1e40af",
+    "SurfaceForeground": "#dbeafe",
+    "Primary": "#60a5fa",
+    "PrimaryForeground": "#172554",
+    "Secondary": "#2563eb",
+    "SecondaryForeground": "#93c5fd",
+    "Muted": "#3b82f6",
+    "MutedForeground": "#60a5fa",
+    "Border": "#2563eb",
+    "Ring": "#60a5fa",
+    "Success": "#4ade80",
+    "SuccessForeground": "#172554",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#172554",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Cormorant",
+    "FontHeading": "Cormorant"
+  },
+  "tags": ["dark", "venice", "night", "italy"]
+}

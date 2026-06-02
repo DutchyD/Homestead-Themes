@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Dubrovnik Walls",
+  "tokens": {
+    "Background": "#fef2f2",
+    "Foreground": "#7f1d1d",
+    "Surface": "#fee2e2",
+    "SurfaceForeground": "#7f1d1d",
+    "Primary": "#ef4444",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fecaca",
+    "SecondaryForeground": "#991b1b",
+    "Muted": "#fca5a5",
+    "MutedForeground": "#dc2626",
+    "Border": "#f87171",
+    "Ring": "#ef4444",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#7f1d1d",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Cinzel",
+    "FontHeading": "Cinzel Decorative"
+  },
+  "tags": ["light", "dubrovnik", "walls", "croatia"]
+}

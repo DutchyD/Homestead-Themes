@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Pastel Cloud",
+  "tokens": {
+    "Background": "#fafafa",
+    "Foreground": "#525252",
+    "Surface": "#f5f5f5",
+    "SurfaceForeground": "#525252",
+    "Primary": "#fda4af",
+    "PrimaryForeground": "#881337",
+    "Secondary": "#e5e5e5",
+    "SecondaryForeground": "#737373",
+    "Muted": "#d4d4d4",
+    "MutedForeground": "#a3a3a3",
+    "Border": "#e5e5e5",
+    "Ring": "#fda4af",
+    "Success": "#86efac",
+    "SuccessForeground": "#166534",
+    "Destructive": "#fca5a5",
+    "DestructiveForeground": "#991b1b",
+    "RadiusSm": "1rem",
+    "RadiusMd": "2rem",
+    "RadiusLg": "3rem",
+    "FontSans": "Quicksand",
+    "FontHeading": "Quicksand"
+  },
+  "tags": ["light", "pastel", "cloud", "soft"]
+}

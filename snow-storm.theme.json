@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Snow Storm",
+  "tokens": {
+    "Background": "#1c1917",
+    "Foreground": "#e7e5e4",
+    "Surface": "#292524",
+    "SurfaceForeground": "#f5f5f4",
+    "Primary": "#78716c",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#44403c",
+    "SecondaryForeground": "#d6d3d1",
+    "Muted": "#57534e",
+    "MutedForeground": "#a8a29e",
+    "Border": "#44403c",
+    "Ring": "#78716c",
+    "Success": "#4ade80",
+    "SuccessForeground": "#1c1917",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#1c1917",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Inter",
+    "FontHeading": "Inter"
+  },
+  "tags": ["dark", "snow", "storm", "blizzard"]
+}

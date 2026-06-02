@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Sunflower Shadow",
+  "tokens": {
+    "Background": "#422006",
+    "Foreground": "#fde047",
+    "Surface": "#713f12",
+    "SurfaceForeground": "#fef9c3",
+    "Primary": "#eab308",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#854d0e",
+    "SecondaryForeground": "#fde047",
+    "Muted": "#a16207",
+    "MutedForeground": "#facc15",
+    "Border": "#ca8a04",
+    "Ring": "#eab308",
+    "Success": "#4ade80",
+    "SuccessForeground": "#422006",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#422006",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Amethysta",
+    "FontHeading": "Amethysta"
+  },
+  "tags": ["dark", "sunflower", "shadow", "golden"]
+}

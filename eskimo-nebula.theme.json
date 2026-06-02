@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Eskimo Nebula",
+  "tokens": {
+    "Background": "#0f172a",
+    "Foreground": "#e2e8f0",
+    "Surface": "#1e293b",
+    "SurfaceForeground": "#f8fafc",
+    "Primary": "#60a5fa",
+    "PrimaryForeground": "#0f172a",
+    "Secondary": "#334155",
+    "SecondaryForeground": "#bfdbfe",
+    "Muted": "#475569",
+    "MutedForeground": "#93c5fd",
+    "Border": "#64748b",
+    "Ring": "#60a5fa",
+    "Success": "#4ade80",
+    "SuccessForeground": "#0f172a",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#0f172a",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Space Grotesk",
+    "FontHeading": "Space Grotesk"
+  },
+  "tags": ["dark", "eskimo", "nebula", "blue"]
+}

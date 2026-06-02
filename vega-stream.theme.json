@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Vega Stream",
+  "tokens": {
+    "Background": "#faf5ff",
+    "Foreground": "#6b21a8",
+    "Surface": "#f3e8ff",
+    "SurfaceForeground": "#6b21a8",
+    "Primary": "#c084fc",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#e9d5ff",
+    "SecondaryForeground": "#7c3aed",
+    "Muted": "#d8b4fe",
+    "MutedForeground": "#a855f7",
+    "Border": "#c084fc",
+    "Ring": "#d8b4fe",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Orbitron",
+    "FontHeading": "Orbitron"
+  },
+  "tags": ["light", "vega", "stream", "violet"]
+}

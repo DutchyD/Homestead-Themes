@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Omega Centauri",
+  "tokens": {
+    "Background": "#fef3c7",
+    "Foreground": "#713f12",
+    "Surface": "#fde68a",
+    "SurfaceForeground": "#713f12",
+    "Primary": "#fbbf24",
+    "PrimaryForeground": "#713f12",
+    "Secondary": "#fcd34d",
+    "SecondaryForeground": "#854d0e",
+    "Muted": "#facc15",
+    "MutedForeground": "#a16207",
+    "Border": "#eab308",
+    "Ring": "#fbbf24",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Orbitron",
+    "FontHeading": "Orbitron"
+  },
+  "tags": ["light", "omega", "centauri", "cluster"]
+}

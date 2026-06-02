@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Vienna Waltz",
+  "tokens": {
+    "Background": "#faf5ff",
+    "Foreground": "#6b21a8",
+    "Surface": "#f3e8ff",
+    "SurfaceForeground": "#6b21a8",
+    "Primary": "#a855f7",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#e9d5ff",
+    "SecondaryForeground": "#7c3aed",
+    "Muted": "#d8b4fe",
+    "MutedForeground": "#9333ea",
+    "Border": "#c084fc",
+    "Ring": "#a855f7",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Great Vibes",
+    "FontHeading": "Great Vibes"
+  },
+  "tags": ["light", "vienna", "waltz", "austria"]
+}

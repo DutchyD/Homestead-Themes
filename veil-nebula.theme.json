@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Veil Nebula",
+  "tokens": {
+    "Background": "#f0f9ff",
+    "Foreground": "#0c4a6e",
+    "Surface": "#e0f2fe",
+    "SurfaceForeground": "#0c4a6e",
+    "Primary": "#38bdf8",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#bae6fd",
+    "SecondaryForeground": "#0284c7",
+    "Muted": "#7dd3fc",
+    "MutedForeground": "#0ea5e9",
+    "Border": "#38bdf8",
+    "Ring": "#0ea5e9",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Orbitron",
+    "FontHeading": "Orbitron"
+  },
+  "tags": ["light", "veil", "nebula", "cyan"]
+}

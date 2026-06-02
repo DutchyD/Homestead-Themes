@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Coconut Milk",
+  "tokens": {
+    "Background": "#fdfbf7",
+    "Foreground": "#57534e",
+    "Surface": "#f5f5f4",
+    "SurfaceForeground": "#57534e",
+    "Primary": "#d6d3d1",
+    "PrimaryForeground": "#44403c",
+    "Secondary": "#e7e5e4",
+    "SecondaryForeground": "#78716c",
+    "Muted": "#f0f0f0",
+    "MutedForeground": "#a8a29e",
+    "Border": "#e7e5e4",
+    "Ring": "#a8a29e",
+    "Success": "#86efac",
+    "SuccessForeground": "#166534",
+    "Destructive": "#fca5a5",
+    "DestructiveForeground": "#991b1b",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Inter",
+    "FontHeading": "Playfair Display"
+  },
+  "tags": ["light", "coconut", "milk", "creamy"]
+}

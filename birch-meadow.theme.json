@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Birch Meadow",
+  "tokens": {
+    "Background": "#fdfbf7",
+    "Foreground": "#44403c",
+    "Surface": "#f5f5f4",
+    "SurfaceForeground": "#44403c",
+    "Primary": "#e7e5e4",
+    "PrimaryForeground": "#292524",
+    "Secondary": "#f0f0f0",
+    "SecondaryForeground": "#57534e",
+    "Muted": "#e7e5e4",
+    "MutedForeground": "#78716c",
+    "Border": "#d6d3d1",
+    "Ring": "#a8a29e",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "BioRhyme",
+    "FontHeading": "BioRhyme"
+  },
+  "tags": ["light", "birch", "meadow", "neutral"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Redwood Shadow",
+  "tokens": {
+    "Background": "#271c19",
+    "Foreground": "#d6c8b0",
+    "Surface": "#451a03",
+    "SurfaceForeground": "#e8e4d9",
+    "Primary": "#b45309",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#78350f",
+    "SecondaryForeground": "#c4b090",
+    "Muted": "#92400e",
+    "MutedForeground": "#b09570",
+    "Border": "#a16207",
+    "Ring": "#d97706",
+    "Success": "#4ade80",
+    "SuccessForeground": "#271c19",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#271c19",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Almendra",
+    "FontHeading": "Almendra"
+  },
+  "tags": ["dark", "redwood", "shadow", "majestic"]
+}

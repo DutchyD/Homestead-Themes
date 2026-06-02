@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Midnight Gold",
+  "tokens": {
+    "Background": "#271c19",
+    "Foreground": "#fde68a",
+    "Surface": "#451a03",
+    "SurfaceForeground": "#fef3c7",
+    "Primary": "#f59e0b",
+    "PrimaryForeground": "#451a03",
+    "Secondary": "#78350f",
+    "SecondaryForeground": "#fcd34d",
+    "Muted": "#92400e",
+    "MutedForeground": "#fbbf24",
+    "Border": "#b45309",
+    "Ring": "#f59e0b",
+    "Success": "#4ade80",
+    "SuccessForeground": "#271c19",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#271c19",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Rye",
+    "FontHeading": "Rye"
+  },
+  "tags": ["dark", "midnight", "gold", "luxury"]
+}

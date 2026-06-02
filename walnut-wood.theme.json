@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Walnut Wood",
+  "tokens": {
+    "Background": "#faf6f1",
+    "Foreground": "#451a03",
+    "Surface": "#f5ebe0",
+    "SurfaceForeground": "#451a03",
+    "Primary": "#92400e",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#e7d5c4",
+    "SecondaryForeground": "#78350f",
+    "Muted": "#d6c0a6",
+    "MutedForeground": "#92400e",
+    "Border": "#c4a484",
+    "Ring": "#92400e",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Cinzel",
+    "FontHeading": "Cinzel Decorative"
+  },
+  "tags": ["light", "walnut", "wood", "warm"]
+}

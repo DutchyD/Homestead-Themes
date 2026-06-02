@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Potassium Dark",
+  "tokens": {
+    "Background": "#3b0764",
+    "Foreground": "#e9d5ff",
+    "Surface": "#581c87",
+    "SurfaceForeground": "#f3e8ff",
+    "Primary": "#c084fc",
+    "PrimaryForeground": "#3b0764",
+    "Secondary": "#6b21a8",
+    "SecondaryForeground": "#d8b4fe",
+    "Muted": "#7c3aed",
+    "MutedForeground": "#a855f7",
+    "Border": "#9333ea",
+    "Ring": "#c084fc",
+    "Success": "#4ade80",
+    "SuccessForeground": "#3b0764",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#3b0764",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Space Grotesk",
+    "FontHeading": "Space Grotesk"
+  },
+  "tags": ["dark", "potassium", "dark", "violet"]
+}

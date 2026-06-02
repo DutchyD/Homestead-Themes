@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Thunder Rumble",
+  "tokens": {
+    "Background": "#27272a",
+    "Foreground": "#fde047",
+    "Surface": "#3f3f46",
+    "SurfaceForeground": "#fef9c3",
+    "Primary": "#eab308",
+    "PrimaryForeground": "#27272a",
+    "Secondary": "#52525b",
+    "SecondaryForeground": "#fde047",
+    "Muted": "#52525b",
+    "MutedForeground": "#facc15",
+    "Border": "#71717a",
+    "Ring": "#eab308",
+    "Success": "#4ade80",
+    "SuccessForeground": "#27272a",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#27272a",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Exo 2",
+    "FontHeading": "Exo 2"
+  },
+  "tags": ["dark", "thunder", "rumble", "power"]
+}

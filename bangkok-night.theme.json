@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Bangkok Night",
+  "tokens": {
+    "Background": "#451a03",
+    "Foreground": "#fde68a",
+    "Surface": "#78350f",
+    "SurfaceForeground": "#fef3c7",
+    "Primary": "#fbbf24",
+    "PrimaryForeground": "#451a03",
+    "Secondary": "#92400e",
+    "SecondaryForeground": "#fcd34d",
+    "Muted": "#b45309",
+    "MutedForeground": "#f59e0b",
+    "Border": "#d97706",
+    "Ring": "#fbbf24",
+    "Success": "#4ade80",
+    "SuccessForeground": "#451a03",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#451a03",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Noto Sans SC",
+    "FontHeading": "Noto Serif SC"
+  },
+  "tags": ["dark", "bangkok", "night", "thailand"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Fig Shadow",
+  "tokens": {
+    "Background": "#4a0444",
+    "Foreground": "#f0abfc",
+    "Surface": "#701a75",
+    "SurfaceForeground": "#fae8ff",
+    "Primary": "#d946ef",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#86198f",
+    "SecondaryForeground": "#e879f9",
+    "Muted": "#a21caf",
+    "MutedForeground": "#f0abfc",
+    "Border": "#c026d3",
+    "Ring": "#d946ef",
+    "Success": "#4ade80",
+    "SuccessForeground": "#4a0444",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#4a0444",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Lato",
+    "FontHeading": "Lato"
+  },
+  "tags": ["dark", "fig", "shadow", "mysterious"]
+}

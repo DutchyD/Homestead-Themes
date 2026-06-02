@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Acorn Grove",
+  "tokens": {
+    "Background": "#faf6f1",
+    "Foreground": "#5d4037",
+    "Surface": "#f0e6dc",
+    "SurfaceForeground": "#5d4037",
+    "Primary": "#8d6e63",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#d7ccc8",
+    "SecondaryForeground": "#6d4c41",
+    "Muted": "#bcaaa4",
+    "MutedForeground": "#795548",
+    "Border": "#a1887f",
+    "Ring": "#8d6e63",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Lora",
+    "FontHeading": "Cinzel"
+  },
+  "tags": ["light", "acorn", "grove", "woodland"]
+}

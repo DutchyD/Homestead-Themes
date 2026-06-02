@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Thyme Garden",
+  "tokens": {
+    "Background": "#f0fdf4",
+    "Foreground": "#14532d",
+    "Surface": "#dcfce7",
+    "SurfaceForeground": "#14532d",
+    "Primary": "#15803d",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#bbf7d0",
+    "SecondaryForeground": "#166534",
+    "Muted": "#86efac",
+    "MutedForeground": "#16a34a",
+    "Border": "#4ade80",
+    "Ring": "#15803d",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Lato",
+    "FontHeading": "Lato"
+  },
+  "tags": ["light", "thyme", "garden", "herb"]
+}

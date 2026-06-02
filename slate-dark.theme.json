@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Slate Dark",
+  "tokens": {
+    "Background": "#020617",
+    "Foreground": "#94a3b8",
+    "Surface": "#0f172a",
+    "SurfaceForeground": "#cbd5e1",
+    "Primary": "#475569",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#1e293b",
+    "SecondaryForeground": "#94a3b8",
+    "Muted": "#334155",
+    "MutedForeground": "#64748b",
+    "Border": "#334155",
+    "Ring": "#475569",
+    "Success": "#4ade80",
+    "SuccessForeground": "#020617",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#020617",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Noto Sans JP",
+    "FontHeading": "Noto Serif JP"
+  },
+  "tags": ["dark", "slate", "dark", "deep"]
+}

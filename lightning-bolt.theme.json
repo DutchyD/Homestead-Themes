@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Lightning Bolt",
+  "tokens": {
+    "Background": "#fefce8",
+    "Foreground": "#713f12",
+    "Surface": "#fef9c3",
+    "SurfaceForeground": "#713f12",
+    "Primary": "#facc15",
+    "PrimaryForeground": "#713f12",
+    "Secondary": "#fde047",
+    "SecondaryForeground": "#854d0e",
+    "Muted": "#eab308",
+    "MutedForeground": "#a16207",
+    "Border": "#ca8a04",
+    "Ring": "#facc15",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Orbitron",
+    "FontHeading": "Orbitron"
+  },
+  "tags": ["light", "lightning", "bolt", "electric"]
+}

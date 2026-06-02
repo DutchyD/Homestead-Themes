@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Carina Nebula",
+  "tokens": {
+    "Background": "#fff7ed",
+    "Foreground": "#7c2d12",
+    "Surface": "#ffedd5",
+    "SurfaceForeground": "#7c2d12",
+    "Primary": "#fb923c",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fed7aa",
+    "SecondaryForeground": "#9a3412",
+    "Muted": "#fdba74",
+    "MutedForeground": "#c2410c",
+    "Border": "#fb923c",
+    "Ring": "#fdba74",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Exo 2",
+    "FontHeading": "Exo 2"
+  },
+  "tags": ["light", "carina", "nebula", "orange"]
+}

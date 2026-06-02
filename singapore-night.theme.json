@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Singapore Night",
+  "tokens": {
+    "Background": "#022c22",
+    "Foreground": "#bbf7d0",
+    "Surface": "#064e3b",
+    "SurfaceForeground": "#dcfce7",
+    "Primary": "#4ade80",
+    "PrimaryForeground": "#022c22",
+    "Secondary": "#065f46",
+    "SecondaryForeground": "#86efac",
+    "Muted": "#047857",
+    "MutedForeground": "#22c55e",
+    "Border": "#059669",
+    "Ring": "#4ade80",
+    "Success": "#4ade80",
+    "SuccessForeground": "#022c22",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#022c22",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Plus Jakarta Sans",
+    "FontHeading": "Plus Jakarta Sans"
+  },
+  "tags": ["dark", "singapore", "night", "asia"]
+}

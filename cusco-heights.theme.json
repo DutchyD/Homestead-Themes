@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Cusco Heights",
+  "tokens": {
+    "Background": "#ecfccb",
+    "Foreground": "#3f6212",
+    "Surface": "#d9f99d",
+    "SurfaceForeground": "#3f6212",
+    "Primary": "#84cc16",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#bef264",
+    "SecondaryForeground": "#4d7c0f",
+    "Muted": "#a3e635",
+    "MutedForeground": "#65a30d",
+    "Border": "#65a30d",
+    "Ring": "#84cc16",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Nunito",
+    "FontHeading": "Nunito"
+  },
+  "tags": ["light", "cusco", "heights", "peru"]
+}

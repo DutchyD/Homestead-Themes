@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Stellar Void",
+  "tokens": {
+    "Background": "#020617",
+    "Foreground": "#c084fc",
+    "Surface": "#1e1b4b",
+    "SurfaceForeground": "#e9d5ff",
+    "Primary": "#8b5cf6",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#312e81",
+    "SecondaryForeground": "#c4b5fd",
+    "Muted": "#4338ca",
+    "MutedForeground": "#a78bfa",
+    "Border": "#4f46e5",
+    "Ring": "#8b5cf6",
+    "Success": "#4ade80",
+    "SuccessForeground": "#020617",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#020617",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Space Grotesk",
+    "FontHeading": "Space Grotesk"
+  },
+  "tags": ["dark", "stellar", "void", "cosmos"]
+}

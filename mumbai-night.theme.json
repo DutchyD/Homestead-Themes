@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Mumbai Night",
+  "tokens": {
+    "Background": "#422006",
+    "Foreground": "#fcd34d",
+    "Surface": "#713f12",
+    "SurfaceForeground": "#fef3c7",
+    "Primary": "#facc15",
+    "PrimaryForeground": "#422006",
+    "Secondary": "#854d0e",
+    "SecondaryForeground": "#fde047",
+    "Muted": "#a16207",
+    "MutedForeground": "#eab308",
+    "Border": "#ca8a04",
+    "Ring": "#facc15",
+    "Success": "#4ade80",
+    "SuccessForeground": "#422006",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#422006",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Noto Sans JP",
+    "FontHeading": "Noto Serif JP"
+  },
+  "tags": ["dark", "mumbai", "night", "india"]
+}

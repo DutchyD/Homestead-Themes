@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Babylon Ruins",
+  "tokens": {
+    "Background": "#3f6212",
+    "Foreground": "#ecfccb",
+    "Surface": "#4d7c0f",
+    "SurfaceForeground": "#d9f99d",
+    "Primary": "#84cc16",
+    "PrimaryForeground": "#3f6212",
+    "Secondary": "#65a30d",
+    "SecondaryForeground": "#bef264",
+    "Muted": "#4d7c0f",
+    "MutedForeground": "#a3e635",
+    "Border": "#65a30d",
+    "Ring": "#84cc16",
+    "Success": "#4ade80",
+    "SuccessForeground": "#3f6212",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#3f6212",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Cinzel",
+    "FontHeading": "Cinzel Decorative"
+  },
+  "tags": ["dark", "babylon", "ruins", "ancient"]
+}

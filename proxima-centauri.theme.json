@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Proxima Centauri",
+  "tokens": {
+    "Background": "#fef3c7",
+    "Foreground": "#78350f",
+    "Surface": "#fde68a",
+    "SurfaceForeground": "#78350f",
+    "Primary": "#f59e0b",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fcd34d",
+    "SecondaryForeground": "#92400e",
+    "Muted": "#fbbf24",
+    "MutedForeground": "#b45309",
+    "Border": "#f59e0b",
+    "Ring": "#fbbf24",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Orbitron",
+    "FontHeading": "Orbitron"
+  },
+  "tags": ["light", "proxima", "centauri", "star"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Cusco Night",
+  "tokens": {
+    "Background": "#3f6212",
+    "Foreground": "#ecfccb",
+    "Surface": "#4d7c0f",
+    "SurfaceForeground": "#d9f99d",
+    "Primary": "#a3e635",
+    "PrimaryForeground": "#3f6212",
+    "Secondary": "#65a30d",
+    "SecondaryForeground": "#bef264",
+    "Muted": "#84cc16",
+    "MutedForeground": "#a3e635",
+    "Border": "#65a30d",
+    "Ring": "#a3e635",
+    "Success": "#4ade80",
+    "SuccessForeground": "#3f6212",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#3f6212",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Nunito",
+    "FontHeading": "Nunito"
+  },
+  "tags": ["dark", "cusco", "night", "peru"]
+}

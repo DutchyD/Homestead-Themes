@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Cotton Moon",
+  "tokens": {
+    "Background": "#f8fafc",
+    "Foreground": "#475569",
+    "Surface": "#f1f5f9",
+    "SurfaceForeground": "#475569",
+    "Primary": "#e2e8f0",
+    "PrimaryForeground": "#334155",
+    "Secondary": "#f1f5f9",
+    "SecondaryForeground": "#64748b",
+    "Muted": "#e2e8f0",
+    "MutedForeground": "#94a3b8",
+    "Border": "#cbd5e1",
+    "Ring": "#94a3b8",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Quattrocento Sans",
+    "FontHeading": "Quattrocento"
+  },
+  "tags": ["light", "cotton", "moon", "soft"]
+}

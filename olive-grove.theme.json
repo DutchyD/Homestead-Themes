@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Olive Grove",
+  "tokens": {
+    "Background": "#f7f7ed",
+    "Foreground": "#3f3f12",
+    "Surface": "#e8e8d0",
+    "SurfaceForeground": "#3f3f12",
+    "Primary": "#787816",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#d4d4aa",
+    "SecondaryForeground": "#52520f",
+    "Muted": "#b8b88a",
+    "MutedForeground": "#606012",
+    "Border": "#9c9c50",
+    "Ring": "#787816",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Marcellus",
+    "FontHeading": "Marcellus"
+  },
+  "tags": ["light", "olive", "grove", "mediterranean"]
+}
