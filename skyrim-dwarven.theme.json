@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Skyrim: Dwarven Ruins",
+  "tokens": {
+    "Background": "#1a1a1f",
+    "Foreground": "#d0d0d0",
+    "Surface": "#2a2a35",
+    "SurfaceForeground": "#d0d0d0",
+    "Primary": "#c0c0c0",
+    "PrimaryForeground": "#000000",
+    "Secondary": "#a0a0a0",
+    "SecondaryForeground": "#000000",
+    "Muted": "#3a3a45",
+    "MutedForeground": "#808080",
+    "Border": "#c0c0c0",
+    "Ring": "#e0e0e0",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0rem",
+    "RadiusMd": "0rem",
+    "RadiusLg": "0rem",
+    "FontSans": "Courier Prime",
+    "FontHeading": "Courier Prime"
+  },
+  "tags": ["skyrim", "game", "rpg", "dwarven", "metal"]
+}

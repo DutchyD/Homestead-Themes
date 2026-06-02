@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Genshin Impact: Liyue",
+  "tokens": {
+    "Background": "#fff3e0",
+    "Foreground": "#e65100",
+    "Surface": "#ffe0b2",
+    "SurfaceForeground": "#e65100",
+    "Primary": "#ff9800",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#f57c00",
+    "SecondaryForeground": "#ffffff",
+    "Muted": "#ffcc80",
+    "MutedForeground": "#d84315",
+    "Border": "#f57c00",
+    "Ring": "#ff9800",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Poppins",
+    "FontHeading": "Poppins"
+  },
+  "tags": ["genshin-impact", "game", "rpg", "earth", "orange"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Bendy and the Ink Machine",
+  "tokens": {
+    "Background": "#0a0a0a",
+    "Foreground": "#ffff00",
+    "Surface": "#2d2d0a",
+    "SurfaceForeground": "#ffff00",
+    "Primary": "#0a0a0a",
+    "PrimaryForeground": "#ffff00",
+    "Secondary": "#1a1a1a",
+    "SecondaryForeground": "#ffff00",
+    "Muted": "#3a3a1a",
+    "MutedForeground": "#dddd00",
+    "Border": "#ffff00",
+    "Ring": "#cccc00",
+    "Success": "#00ff00",
+    "SuccessForeground": "#000000",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0rem",
+    "RadiusMd": "0rem",
+    "RadiusLg": "0rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Righteous"
+  },
+  "tags": ["bendy", "game", "horror", "indie", "cartoon"]
+}

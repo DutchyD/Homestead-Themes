@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Persona 4 Golden: Investigation",
+  "tokens": {
+    "Background": "#1a1410",
+    "Foreground": "#fff9e6",
+    "Surface": "#3a2a20",
+    "SurfaceForeground": "#fff9e6",
+    "Primary": "#ffd700",
+    "PrimaryForeground": "#1a1410",
+    "Secondary": "#ffb300",
+    "SecondaryForeground": "#1a1410",
+    "Muted": "#5a4a3a",
+    "MutedForeground": "#d4af37",
+    "Border": "#ffd700",
+    "Ring": "#ffed4e",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Righteous"
+  },
+  "tags": ["persona-4-golden", "game", "jrpg", "mystery", "gold"]
+}

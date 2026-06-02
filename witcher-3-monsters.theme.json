@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "The Witcher 3: Monsters",
+  "tokens": {
+    "Background": "#1a1416",
+    "Foreground": "#e0d5d0",
+    "Surface": "#3a2820",
+    "SurfaceForeground": "#e0d5d0",
+    "Primary": "#8b4513",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#654321",
+    "SecondaryForeground": "#e0d5d0",
+    "Muted": "#5a4a3a",
+    "MutedForeground": "#b0a090",
+    "Border": "#8b4513",
+    "Ring": "#a0522d",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff1744",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Cinzel",
+    "FontHeading": "Cinzel"
+  },
+  "tags": ["witcher-3", "game", "rpg", "monsters", "dark"]
+}

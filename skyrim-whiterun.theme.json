@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Skyrim: Whiterun",
+  "tokens": {
+    "Background": "#e8dcc8",
+    "Foreground": "#3e2723",
+    "Surface": "#d7ccc8",
+    "SurfaceForeground": "#3e2723",
+    "Primary": "#8d6e63",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#6d4c41",
+    "SecondaryForeground": "#ffffff",
+    "Muted": "#bcaaa4",
+    "MutedForeground": "#5d4037",
+    "Border": "#6d4c41",
+    "Ring": "#8d6e63",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Crimson Text",
+    "FontHeading": "Crimson Text"
+  },
+  "tags": ["skyrim", "game", "rpg", "fantasy", "brown"]
+}

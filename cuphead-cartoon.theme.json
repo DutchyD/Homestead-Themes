@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Cuphead: Cartoon",
+  "tokens": {
+    "Background": "#f5dab9",
+    "Foreground": "#8b4513",
+    "Surface": "#daa520",
+    "SurfaceForeground": "#000000",
+    "Primary": "#ff6b35",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#cc3300",
+    "SecondaryForeground": "#ffffff",
+    "Muted": "#ffb88c",
+    "MutedForeground": "#654321",
+    "Border": "#ff6b35",
+    "Ring": "#ff8844",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Fredoka"
+  },
+  "tags": ["cuphead", "game", "action", "cartoon", "retro"]
+}

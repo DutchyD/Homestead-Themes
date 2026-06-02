@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Warcraft: World",
+  "tokens": {
+    "Background": "#1a1410",
+    "Foreground": "#d4c5a9",
+    "Surface": "#3a2a20",
+    "SurfaceForeground": "#d4c5a9",
+    "Primary": "#8b7355",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#6b5340",
+    "SecondaryForeground": "#d4c5a9",
+    "Muted": "#5a4a3a",
+    "MutedForeground": "#a9997a",
+    "Border": "#8b7355",
+    "Ring": "#b39d84",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Crimson Text",
+    "FontHeading": "Crimson Text"
+  },
+  "tags": ["warcraft", "game", "mmo", "fantasy", "brown"]
+}

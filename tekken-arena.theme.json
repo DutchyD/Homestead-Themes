@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Tekken: Arena",
+  "tokens": {
+    "Background": "#0f0f2e",
+    "Foreground": "#ffff99",
+    "Surface": "#1f1f5e",
+    "SurfaceForeground": "#ffff99",
+    "Primary": "#ff6b35",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#0099ff",
+    "SecondaryForeground": "#ffff99",
+    "Muted": "#2a2a7e",
+    "MutedForeground": "#6699ff",
+    "Border": "#ff6b35",
+    "Ring": "#ffff99",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Bebas Neue",
+    "FontHeading": "Righteous"
+  },
+  "tags": ["tekken", "game", "fighting", "arcade", "action"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Pokemon: Water Type",
+  "tokens": {
+    "Background": "#0d1b2a",
+    "Foreground": "#e0f7fa",
+    "Surface": "#1a3a52",
+    "SurfaceForeground": "#e0f7fa",
+    "Primary": "#00acc1",
+    "PrimaryForeground": "#0d1b2a",
+    "Secondary": "#0097a7",
+    "SecondaryForeground": "#e0f7fa",
+    "Muted": "#1a5f7a",
+    "MutedForeground": "#80deea",
+    "Border": "#0097a7",
+    "Ring": "#00acc1",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Nunito",
+    "FontHeading": "Bangers"
+  },
+  "tags": ["pokemon", "game", "water", "ocean", "blue"]
+}

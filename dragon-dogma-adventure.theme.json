@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Dragon's Dogma: Adventure",
+  "tokens": {
+    "Background": "#1a1410",
+    "Foreground": "#d4c5a9",
+    "Surface": "#3a2a20",
+    "SurfaceForeground": "#d4c5a9",
+    "Primary": "#d4a574",
+    "PrimaryForeground": "#1a1410",
+    "Secondary": "#a08060",
+    "SecondaryForeground": "#d4c5a9",
+    "Muted": "#5a4a3a",
+    "MutedForeground": "#b0a090",
+    "Border": "#a08060",
+    "Ring": "#d4a574",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Cinzel",
+    "FontHeading": "Cinzel"
+  },
+  "tags": ["dragon-dogma", "game", "action-rpg", "fantasy", "brown"]
+}

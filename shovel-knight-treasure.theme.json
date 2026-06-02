@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Shovel Knight: Treasure",
+  "tokens": {
+    "Background": "#1a1a1f",
+    "Foreground": "#ffff99",
+    "Surface": "#3a3a3f",
+    "SurfaceForeground": "#ffff99",
+    "Primary": "#ffd700",
+    "PrimaryForeground": "#000000",
+    "Secondary": "#ffb300",
+    "SecondaryForeground": "#000000",
+    "Muted": "#4a4a4f",
+    "MutedForeground": "#cccc00",
+    "Border": "#ffd700",
+    "Ring": "#ffed4e",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0rem",
+    "RadiusMd": "0rem",
+    "RadiusLg": "0rem",
+    "FontSans": "Press Start 2P",
+    "FontHeading": "Press Start 2P"
+  },
+  "tags": ["shovel-knight", "game", "platformer", "retro", "treasure"]
+}

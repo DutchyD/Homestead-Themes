@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Hitman: Stealth",
+  "tokens": {
+    "Background": "#0a0a0f",
+    "Foreground": "#d0d0d0",
+    "Surface": "#1a1a2a",
+    "SurfaceForeground": "#d0d0d0",
+    "Primary": "#ff0000",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#cc0000",
+    "SecondaryForeground": "#d0d0d0",
+    "Muted": "#2a2a3a",
+    "MutedForeground": "#8a8a9a",
+    "Border": "#ff0000",
+    "Ring": "#ff6b6b",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Courier Prime",
+    "FontHeading": "Courier Prime"
+  },
+  "tags": ["hitman", "game", "stealth", "action", "dark"]
+}

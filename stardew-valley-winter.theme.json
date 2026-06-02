@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Stardew Valley: Winter",
+  "tokens": {
+    "Background": "#b3e5fc",
+    "Foreground": "#01579b",
+    "Surface": "#81d4fa",
+    "SurfaceForeground": "#01579b",
+    "Primary": "#00bcd4",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#00838f",
+    "SecondaryForeground": "#ffffff",
+    "Muted": "#4dd0e1",
+    "MutedForeground": "#006064",
+    "Border": "#00838f",
+    "Ring": "#00bcd4",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Fuzzy Bubbles",
+    "FontHeading": "Fredoka"
+  },
+  "tags": ["stardew-valley", "game", "farming", "winter", "blue"]
+}

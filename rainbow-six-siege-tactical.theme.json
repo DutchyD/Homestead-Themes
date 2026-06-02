@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Rainbow Six Siege: Tactical",
+  "tokens": {
+    "Background": "#0f1419",
+    "Foreground": "#e8e8e8",
+    "Surface": "#1a252f",
+    "SurfaceForeground": "#e8e8e8",
+    "Primary": "#ff6b00",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#cc3300",
+    "SecondaryForeground": "#e8e8e8",
+    "Muted": "#2a3a4a",
+    "MutedForeground": "#a8a8a8",
+    "Border": "#ff6b00",
+    "Ring": "#ff9900",
+    "Success": "#00ff00",
+    "SuccessForeground": "#000000",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Courier Prime",
+    "FontHeading": "Courier Prime"
+  },
+  "tags": ["rainbow-six-siege", "game", "tactical", "fps", "strategy"]
+}

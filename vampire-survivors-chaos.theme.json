@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Vampire Survivors: Chaos",
+  "tokens": {
+    "Background": "#0a0a1a",
+    "Foreground": "#ff00ff",
+    "Surface": "#1a0a2a",
+    "SurfaceForeground": "#ff00ff",
+    "Primary": "#ff0080",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#cc0066",
+    "SecondaryForeground": "#ff00ff",
+    "Muted": "#2a0a3a",
+    "MutedForeground": "#ff66cc",
+    "Border": "#ff0080",
+    "Ring": "#ff00ff",
+    "Success": "#00ff00",
+    "SuccessForeground": "#000000",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Righteous"
+  },
+  "tags": ["vampire-survivors", "game", "roguelike", "chaos", "neon"]
+}

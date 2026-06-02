@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Red Dead Redemption: Outlaw",
+  "tokens": {
+    "Background": "#3e2415",
+    "Foreground": "#fff8e1",
+    "Surface": "#5d3500",
+    "SurfaceForeground": "#fff8e1",
+    "Primary": "#8b4513",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#654321",
+    "SecondaryForeground": "#fff8e1",
+    "Muted": "#7d5a3a",
+    "MutedForeground": "#d4a574",
+    "Border": "#8b4513",
+    "Ring": "#a0522d",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Crimson Text",
+    "FontHeading": "Crimson Text"
+  },
+  "tags": ["red-dead-redemption", "game", "western", "outlaw", "brown"]
+}

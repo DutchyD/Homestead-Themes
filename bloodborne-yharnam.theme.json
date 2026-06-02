@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Bloodborne: Yharnam",
+  "tokens": {
+    "Background": "#0f0805",
+    "Foreground": "#e8d0c0",
+    "Surface": "#2d2015",
+    "SurfaceForeground": "#e8d0c0",
+    "Primary": "#cc3333",
+    "PrimaryForeground": "#0f0805",
+    "Secondary": "#8b0000",
+    "SecondaryForeground": "#e8d0c0",
+    "Muted": "#4a3a2a",
+    "MutedForeground": "#c0a090",
+    "Border": "#cc3333",
+    "Ring": "#ff6b6b",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Crimson Text",
+    "FontHeading": "Crimson Text"
+  },
+  "tags": ["bloodborne", "game", "souls", "horror", "dark"]
+}

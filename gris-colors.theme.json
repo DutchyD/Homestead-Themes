@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Gris: Colors",
+  "tokens": {
+    "Background": "#ffd54f",
+    "Foreground": "#7d5c48",
+    "Surface": "#ffed4e",
+    "SurfaceForeground": "#7d5c48",
+    "Primary": "#ff6b9d",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#c2185b",
+    "SecondaryForeground": "#ffed4e",
+    "Muted": "#ffb81c",
+    "MutedForeground": "#5d4e37",
+    "Border": "#ff6b9d",
+    "Ring": "#ffd54f",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Fredoka"
+  },
+  "tags": ["gris", "game", "indie", "art", "colorful"]
+}

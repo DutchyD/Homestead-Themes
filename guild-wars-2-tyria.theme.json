@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Guild Wars 2: Tyria",
+  "tokens": {
+    "Background": "#0a1a1a",
+    "Foreground": "#e0f0f0",
+    "Surface": "#1a3a3a",
+    "SurfaceForeground": "#e0f0f0",
+    "Primary": "#00cc99",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#00aa88",
+    "SecondaryForeground": "#e0f0f0",
+    "Muted": "#2a5a5a",
+    "MutedForeground": "#7accbb",
+    "Border": "#00cc99",
+    "Ring": "#00ff99",
+    "Success": "#00ff00",
+    "SuccessForeground": "#000000",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Righteous"
+  },
+  "tags": ["guild-wars-2", "game", "mmo", "tyria", "teal"]
+}

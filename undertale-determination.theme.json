@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Undertale: Determination",
+  "tokens": {
+    "Background": "#0f0f0f",
+    "Foreground": "#ffff00",
+    "Surface": "#2a2a2a",
+    "SurfaceForeground": "#ffff00",
+    "Primary": "#ff0000",
+    "PrimaryForeground": "#0f0f0f",
+    "Secondary": "#cc0000",
+    "SecondaryForeground": "#ffff00",
+    "Muted": "#3a3a3a",
+    "MutedForeground": "#999999",
+    "Border": "#ff0000",
+    "Ring": "#ffff00",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff1744",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0rem",
+    "RadiusMd": "0rem",
+    "RadiusLg": "0rem",
+    "FontSans": "Determination Mono",
+    "FontHeading": "Determination Mono"
+  },
+  "tags": ["undertale", "game", "indie", "determination", "red"]
+}

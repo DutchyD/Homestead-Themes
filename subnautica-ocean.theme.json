@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Subnautica: Ocean",
+  "tokens": {
+    "Background": "#001a2e",
+    "Foreground": "#90caf9",
+    "Surface": "#0d47a1",
+    "SurfaceForeground": "#90caf9",
+    "Primary": "#1976d2",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#0d47a1",
+    "SecondaryForeground": "#90caf9",
+    "Muted": "#1a5f8a",
+    "MutedForeground": "#42a5f5",
+    "Border": "#1976d2",
+    "Ring": "#64b5f6",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Righteous"
+  },
+  "tags": ["subnautica", "game", "exploration", "ocean", "blue"]
+}

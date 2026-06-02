@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "League of Legends: Summoners Rift",
+  "tokens": {
+    "Background": "#0a1a2e",
+    "Foreground": "#c8aa6e",
+    "Surface": "#1a3a5e",
+    "SurfaceForeground": "#c8aa6e",
+    "Primary": "#0099ff",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#0077cc",
+    "SecondaryForeground": "#c8aa6e",
+    "Muted": "#2a5a8e",
+    "MutedForeground": "#6699ff",
+    "Border": "#0099ff",
+    "Ring": "#c8aa6e",
+    "Success": "#00ff00",
+    "SuccessForeground": "#000000",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Righteous"
+  },
+  "tags": ["league-of-legends", "game", "moba", "rift", "blue"]
+}

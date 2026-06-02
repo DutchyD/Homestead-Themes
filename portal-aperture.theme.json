@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Portal: Aperture Science",
+  "tokens": {
+    "Background": "#1a1a1a",
+    "Foreground": "#e6e6fa",
+    "Surface": "#3d3d52",
+    "SurfaceForeground": "#e6e6fa",
+    "Primary": "#ff6600",
+    "PrimaryForeground": "#1a1a1a",
+    "Secondary": "#0099cc",
+    "SecondaryForeground": "#e6e6fa",
+    "Muted": "#4a4a5a",
+    "MutedForeground": "#a0a0b0",
+    "Border": "#0099cc",
+    "Ring": "#ff6600",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff1744",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.5rem",
+    "FontSans": "Orbitron",
+    "FontHeading": "Orbitron"
+  },
+  "tags": ["portal", "game", "science", "sci-fi", "futuristic"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Assassins Creed: Shadow",
+  "tokens": {
+    "Background": "#0a0a0a",
+    "Foreground": "#e8e8e8",
+    "Surface": "#2d2d2d",
+    "SurfaceForeground": "#e8e8e8",
+    "Primary": "#8b0000",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#cc0000",
+    "SecondaryForeground": "#e8e8e8",
+    "Muted": "#3a3a3a",
+    "MutedForeground": "#a0a0a0",
+    "Border": "#8b0000",
+    "Ring": "#ff0000",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Crimson Text",
+    "FontHeading": "Crimson Text"
+  },
+  "tags": ["assassins-creed", "game", "action", "stealth", "dark"]
+}

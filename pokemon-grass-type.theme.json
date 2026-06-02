@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Pokemon: Grass Type",
+  "tokens": {
+    "Background": "#1e3a1f",
+    "Foreground": "#f0f9f0",
+    "Surface": "#2d5a2e",
+    "SurfaceForeground": "#f0f9f0",
+    "Primary": "#7cb342",
+    "PrimaryForeground": "#1e3a1f",
+    "Secondary": "#558b2f",
+    "SecondaryForeground": "#f0f9f0",
+    "Muted": "#3d7a3e",
+    "MutedForeground": "#a5d6a7",
+    "Border": "#558b2f",
+    "Ring": "#7cb342",
+    "Success": "#9ccc65",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Nunito",
+    "FontHeading": "Bangers"
+  },
+  "tags": ["pokemon", "game", "grass", "nature", "green"]
+}

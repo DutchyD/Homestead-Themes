@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Sonic: Metal Harbor",
+  "tokens": {
+    "Background": "#0a0a0a",
+    "Foreground": "#e0e0e0",
+    "Surface": "#2a2a2a",
+    "SurfaceForeground": "#e0e0e0",
+    "Primary": "#ff6600",
+    "PrimaryForeground": "#0a0a0a",
+    "Secondary": "#cc5500",
+    "SecondaryForeground": "#e0e0e0",
+    "Muted": "#3a3a3a",
+    "MutedForeground": "#9e9e9e",
+    "Border": "#ff6600",
+    "Ring": "#ffaa33",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff1744",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Bebas Neue",
+    "FontHeading": "Righteous"
+  },
+  "tags": ["sonic", "game", "metal", "industrial", "dark"]
+}

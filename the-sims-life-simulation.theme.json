@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "The Sims: Life Simulation",
+  "tokens": {
+    "Background": "#fff0e6",
+    "Foreground": "#d84315",
+    "Surface": "#ffccb3",
+    "SurfaceForeground": "#d84315",
+    "Primary": "#ff7043",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#ff5722",
+    "SecondaryForeground": "#ffffff",
+    "Muted": "#ffab91",
+    "MutedForeground": "#bf360c",
+    "Border": "#ff5722",
+    "Ring": "#ff7043",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Fredoka"
+  },
+  "tags": ["the-sims", "game", "simulation", "life", "warm"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Abzu: Ocean Depths",
+  "tokens": {
+    "Background": "#001a33",
+    "Foreground": "#81d4fa",
+    "Surface": "#003d66",
+    "SurfaceForeground": "#81d4fa",
+    "Primary": "#0099cc",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#0077bb",
+    "SecondaryForeground": "#81d4fa",
+    "Muted": "#004d99",
+    "MutedForeground": "#4db3e6",
+    "Border": "#0099cc",
+    "Ring": "#b3e5fc",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "1rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Fredoka"
+  },
+  "tags": ["abzu", "game", "exploration", "ocean", "blue"]
+}

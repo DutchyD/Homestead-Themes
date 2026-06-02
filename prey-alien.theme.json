@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Prey: Alien",
+  "tokens": {
+    "Background": "#0a0f1a",
+    "Foreground": "#00ff00",
+    "Surface": "#1a2a3a",
+    "SurfaceForeground": "#00ff00",
+    "Primary": "#00ff00",
+    "PrimaryForeground": "#000000",
+    "Secondary": "#00cc00",
+    "SecondaryForeground": "#000000",
+    "Muted": "#2a4a5a",
+    "MutedForeground": "#00aa00",
+    "Border": "#00ff00",
+    "Ring": "#00ff99",
+    "Success": "#00ff00",
+    "SuccessForeground": "#000000",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Orbitron",
+    "FontHeading": "Orbitron"
+  },
+  "tags": ["prey", "game", "alien", "entities", "green"]
+}

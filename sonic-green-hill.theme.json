@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Sonic: Green Hill Zone",
+  "tokens": {
+    "Background": "#1b3a1f",
+    "Foreground": "#ffeb3b",
+    "Surface": "#2d5a31",
+    "SurfaceForeground": "#ffeb3b",
+    "Primary": "#00bcd4",
+    "PrimaryForeground": "#1b3a1f",
+    "Secondary": "#0288d1",
+    "SecondaryForeground": "#ffeb3b",
+    "Muted": "#3d7a3f",
+    "MutedForeground": "#81d4fa",
+    "Border": "#00bcd4",
+    "Ring": "#ffeb3b",
+    "Success": "#76ff03",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Bebas Neue",
+    "FontHeading": "Righteous"
+  },
+  "tags": ["sonic", "game", "speed", "green", "zone"]
+}

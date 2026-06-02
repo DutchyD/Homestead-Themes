@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Fallout: Vault Boy",
+  "tokens": {
+    "Background": "#1a1a0a",
+    "Foreground": "#ffff00",
+    "Surface": "#3a3a1a",
+    "SurfaceForeground": "#ffff00",
+    "Primary": "#ffff00",
+    "PrimaryForeground": "#000000",
+    "Secondary": "#ff9900",
+    "SecondaryForeground": "#000000",
+    "Muted": "#4a4a2a",
+    "MutedForeground": "#dddd00",
+    "Border": "#ffff00",
+    "Ring": "#ff9900",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0rem",
+    "RadiusMd": "0rem",
+    "RadiusLg": "0rem",
+    "FontSans": "Bebas Neue",
+    "FontHeading": "Righteous"
+  },
+  "tags": ["fallout", "game", "rpg", "vault", "retro"]
+}

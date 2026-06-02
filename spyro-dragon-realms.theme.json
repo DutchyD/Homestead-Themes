@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Spyro: Dragon Realms",
+  "tokens": {
+    "Background": "#1a1a3e",
+    "Foreground": "#ffff99",
+    "Surface": "#2d2d5a",
+    "SurfaceForeground": "#ffff99",
+    "Primary": "#9933ff",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#6600ff",
+    "SecondaryForeground": "#ffff99",
+    "Muted": "#4a4a7a",
+    "MutedForeground": "#cc99ff",
+    "Border": "#9933ff",
+    "Ring": "#ffff99",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Fredoka"
+  },
+  "tags": ["spyro", "game", "dragon", "fantasy", "purple"]
+}

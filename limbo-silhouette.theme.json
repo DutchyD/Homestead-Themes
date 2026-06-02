@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Limbo: Silhouette",
+  "tokens": {
+    "Background": "#0a0a0a",
+    "Foreground": "#d0d0d0",
+    "Surface": "#1a1a1a",
+    "SurfaceForeground": "#d0d0d0",
+    "Primary": "#ffff00",
+    "PrimaryForeground": "#000000",
+    "Secondary": "#cccc00",
+    "SecondaryForeground": "#000000",
+    "Muted": "#2a2a2a",
+    "MutedForeground": "#808080",
+    "Border": "#ffff00",
+    "Ring": "#dddd00",
+    "Success": "#00ff00",
+    "SuccessForeground": "#000000",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0rem",
+    "RadiusMd": "0rem",
+    "RadiusLg": "0rem",
+    "FontSans": "Courier Prime",
+    "FontHeading": "Courier Prime"
+  },
+  "tags": ["limbo", "game", "puzzle", "horror", "monochrome"]
+}

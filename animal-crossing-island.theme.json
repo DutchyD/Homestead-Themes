@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Animal Crossing: Island",
+  "tokens": {
+    "Background": "#e8f8f0",
+    "Foreground": "#1b5e20",
+    "Surface": "#c8e6d8",
+    "SurfaceForeground": "#1b5e20",
+    "Primary": "#81c784",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#558b2f",
+    "SecondaryForeground": "#ffffff",
+    "Muted": "#a5d6a7",
+    "MutedForeground": "#2e7d32",
+    "Border": "#558b2f",
+    "Ring": "#81c784",
+    "Success": "#9ccc65",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "1rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Fredoka"
+  },
+  "tags": ["animal-crossing", "game", "life-sim", "island", "green"]
+}

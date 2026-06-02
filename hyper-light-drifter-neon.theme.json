@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Hyper Light Drifter: Neon",
+  "tokens": {
+    "Background": "#0a0a1a",
+    "Foreground": "#ffff00",
+    "Surface": "#1a1a2a",
+    "SurfaceForeground": "#ffff00",
+    "Primary": "#ff00ff",
+    "PrimaryForeground": "#0a0a1a",
+    "Secondary": "#00ffff",
+    "SecondaryForeground": "#0a0a1a",
+    "Muted": "#2a2a3a",
+    "MutedForeground": "#8a8a9a",
+    "Border": "#ff00ff",
+    "Ring": "#ffff00",
+    "Success": "#00ff00",
+    "SuccessForeground": "#000000",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Bebas Neue",
+    "FontHeading": "Righteous"
+  },
+  "tags": ["hyper-light-drifter", "game", "action", "synthwave", "neon"]
+}

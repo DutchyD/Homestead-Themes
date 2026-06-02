@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Slime Rancher: Slimes",
+  "tokens": {
+    "Background": "#f0e8d0",
+    "Foreground": "#2d2415",
+    "Surface": "#e8d0b8",
+    "SurfaceForeground": "#2d2415",
+    "Primary": "#81c784",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#7cb342",
+    "SecondaryForeground": "#ffffff",
+    "Muted": "#b5d6b5",
+    "MutedForeground": "#558b2f",
+    "Border": "#7cb342",
+    "Ring": "#81c784",
+    "Success": "#9ccc65",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "1rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Fredoka"
+  },
+  "tags": ["slime-rancher", "game", "farming", "cute", "colorful"]
+}

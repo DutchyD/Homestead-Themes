@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Valorant: Protocol",
+  "tokens": {
+    "Background": "#0f1419",
+    "Foreground": "#f0f1fc",
+    "Surface": "#1a252f",
+    "SurfaceForeground": "#f0f1fc",
+    "Primary": "#ff4655",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#00d4aa",
+    "SecondaryForeground": "#0f1419",
+    "Muted": "#2a3a4a",
+    "MutedForeground": "#9a9fb9",
+    "Border": "#ff4655",
+    "Ring": "#00d4aa",
+    "Success": "#00ff00",
+    "SuccessForeground": "#000000",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Orbitron",
+    "FontHeading": "Orbitron"
+  },
+  "tags": ["valorant", "game", "fps", "protocol", "competitive"]
+}

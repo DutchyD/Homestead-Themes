@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Mario: Bowser's Castle",
+  "tokens": {
+    "Background": "#1a1a1a",
+    "Foreground": "#ffeb3b",
+    "Surface": "#3d3d3d",
+    "SurfaceForeground": "#ffeb3b",
+    "Primary": "#ff5722",
+    "PrimaryForeground": "#1a1a1a",
+    "Secondary": "#d32f2f",
+    "SecondaryForeground": "#ffeb3b",
+    "Muted": "#4a4a4a",
+    "MutedForeground": "#b0bec5",
+    "Border": "#ff5722",
+    "Ring": "#ffeb3b",
+    "Success": "#76ff03",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff1744",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Press Start 2P"
+  },
+  "tags": ["mario", "game", "villain", "castle", "dark"]
+}

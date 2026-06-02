@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Baldurs Gate III: Campaign",
+  "tokens": {
+    "Background": "#0f0a1a",
+    "Foreground": "#ffd700",
+    "Surface": "#251a45",
+    "SurfaceForeground": "#ffd700",
+    "Primary": "#9933ff",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#6600ff",
+    "SecondaryForeground": "#ffd700",
+    "Muted": "#4a2a6a",
+    "MutedForeground": "#dd99ff",
+    "Border": "#9933ff",
+    "Ring": "#ffd700",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Cinzel",
+    "FontHeading": "Cinzel"
+  },
+  "tags": ["baldurs-gate-3", "game", "crpg", "campaign", "fantasy"]
+}

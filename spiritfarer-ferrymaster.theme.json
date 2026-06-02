@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Spiritfarer: Ferrymaster",
+  "tokens": {
+    "Background": "#e8d5c4",
+    "Foreground": "#5d4037",
+    "Surface": "#d4c4b0",
+    "SurfaceForeground": "#5d4037",
+    "Primary": "#a1887f",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#795548",
+    "SecondaryForeground": "#ffffff",
+    "Muted": "#bcaaa4",
+    "MutedForeground": "#6d4c41",
+    "Border": "#795548",
+    "Ring": "#a1887f",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "1rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Fredoka"
+  },
+  "tags": ["spiritfarer", "game", "indie", "ferry", "brown"]
+}

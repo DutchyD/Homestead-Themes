@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "God of War: Ragnarok",
+  "tokens": {
+    "Background": "#1a0f0f",
+    "Foreground": "#ffcc99",
+    "Surface": "#3a2015",
+    "SurfaceForeground": "#ffcc99",
+    "Primary": "#ff6b35",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#cc4422",
+    "SecondaryForeground": "#ffcc99",
+    "Muted": "#5a3a2a",
+    "MutedForeground": "#ffaa77",
+    "Border": "#ff6b35",
+    "Ring": "#ff8844",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Crimson Text",
+    "FontHeading": "Crimson Text"
+  },
+  "tags": ["god-of-war", "game", "action", "norse", "fire"]
+}

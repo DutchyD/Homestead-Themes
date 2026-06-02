@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Persona 5: Thieves Guild",
+  "tokens": {
+    "Background": "#0a0a1a",
+    "Foreground": "#ff6b9d",
+    "Surface": "#2d1a3a",
+    "SurfaceForeground": "#ff6b9d",
+    "Primary": "#ff0080",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#cc0066",
+    "SecondaryForeground": "#ff6b9d",
+    "Muted": "#4a2a5a",
+    "MutedForeground": "#ff99bb",
+    "Border": "#ff0080",
+    "Ring": "#ff6b9d",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff1744",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Righteous"
+  },
+  "tags": ["persona-5", "game", "jrpg", "thieves", "pink"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Legend of Zelda: Ocarina of Time",
+  "tokens": {
+    "Background": "#0a1f2e",
+    "Foreground": "#e0f7fa",
+    "Surface": "#1a3f4e",
+    "SurfaceForeground": "#e0f7fa",
+    "Primary": "#00bcd4",
+    "PrimaryForeground": "#0a1f2e",
+    "Secondary": "#0097a7",
+    "SecondaryForeground": "#e0f7fa",
+    "Muted": "#2a5f6e",
+    "MutedForeground": "#80deea",
+    "Border": "#0097a7",
+    "Ring": "#00bcd4",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Righteous",
+    "FontHeading": "Righteous"
+  },
+  "tags": ["zelda", "game", "adventure", "ocarina", "blue"]
+}

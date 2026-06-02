@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Journey: Desert",
+  "tokens": {
+    "Background": "#fff8f0",
+    "Foreground": "#cc5500",
+    "Surface": "#ffe0b2",
+    "SurfaceForeground": "#cc5500",
+    "Primary": "#ff7043",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#ff5722",
+    "SecondaryForeground": "#ffffff",
+    "Muted": "#ffab91",
+    "MutedForeground": "#bf360c",
+    "Border": "#ff5722",
+    "Ring": "#ff7043",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "1rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Fredoka"
+  },
+  "tags": ["journey", "game", "adventure", "desert", "orange"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Stardew Valley: Autumn",
+  "tokens": {
+    "Background": "#3e2415",
+    "Foreground": "#fff8e1",
+    "Surface": "#5d3500",
+    "SurfaceForeground": "#fff8e1",
+    "Primary": "#ffb74d",
+    "PrimaryForeground": "#3e2415",
+    "Secondary": "#ff8a50",
+    "SecondaryForeground": "#fff8e1",
+    "Muted": "#7d5a3a",
+    "MutedForeground": "#ffd580",
+    "Border": "#ff8a50",
+    "Ring": "#ffb74d",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Fuzzy Bubbles",
+    "FontHeading": "Fredoka"
+  },
+  "tags": ["stardew-valley", "game", "farming", "autumn", "orange"]
+}

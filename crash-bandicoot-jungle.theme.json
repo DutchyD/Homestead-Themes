@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Crash Bandicoot: Jungle",
+  "tokens": {
+    "Background": "#1a2a0f",
+    "Foreground": "#fff9e6",
+    "Surface": "#2d4a1a",
+    "SurfaceForeground": "#fff9e6",
+    "Primary": "#ff9900",
+    "PrimaryForeground": "#1a2a0f",
+    "Secondary": "#ff6600",
+    "SecondaryForeground": "#fff9e6",
+    "Muted": "#4a6a2a",
+    "MutedForeground": "#ffcc99",
+    "Border": "#ff6600",
+    "Ring": "#ff9900",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff1744",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Fredoka"
+  },
+  "tags": ["crash-bandicoot", "game", "platformer", "jungle", "orange"]
+}

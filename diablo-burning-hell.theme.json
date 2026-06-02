@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Diablo: The Burning Hell",
+  "tokens": {
+    "Background": "#2d1a1a",
+    "Foreground": "#ff9999",
+    "Surface": "#4a2a2a",
+    "SurfaceForeground": "#ff9999",
+    "Primary": "#cc0000",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#990000",
+    "SecondaryForeground": "#ff9999",
+    "Muted": "#6a3a3a",
+    "MutedForeground": "#ff6666",
+    "Border": "#cc0000",
+    "Ring": "#ff6b6b",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Crimson Text",
+    "FontHeading": "Crimson Text"
+  },
+  "tags": ["diablo", "game", "rpg", "hell", "red"]
+}

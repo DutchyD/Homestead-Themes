@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Left 4 Dead: Zombie",
+  "tokens": {
+    "Background": "#0a0a0a",
+    "Foreground": "#99ff00",
+    "Surface": "#2d2d0a",
+    "SurfaceForeground": "#99ff00",
+    "Primary": "#99ff00",
+    "PrimaryForeground": "#000000",
+    "Secondary": "#77cc00",
+    "SecondaryForeground": "#000000",
+    "Muted": "#3a3a1a",
+    "MutedForeground": "#88ff00",
+    "Border": "#99ff00",
+    "Ring": "#ccff00",
+    "Success": "#00ff00",
+    "SuccessForeground": "#000000",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Bebas Neue",
+    "FontHeading": "Righteous"
+  },
+  "tags": ["left-4-dead", "game", "zombie", "fps", "survival"]
+}

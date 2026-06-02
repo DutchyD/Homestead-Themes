@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Phasmophobia: Spirit",
+  "tokens": {
+    "Background": "#0a0a1a",
+    "Foreground": "#e0d5f2",
+    "Surface": "#1a0a3a",
+    "SurfaceForeground": "#e0d5f2",
+    "Primary": "#7b2cbf",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#5a189a",
+    "SecondaryForeground": "#e0d5f2",
+    "Muted": "#3a2a5a",
+    "MutedForeground": "#b39ddb",
+    "Border": "#7b2cbf",
+    "Ring": "#c77dff",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Courier Prime",
+    "FontHeading": "Courier Prime"
+  },
+  "tags": ["phasmophobia", "game", "horror", "ghost", "cooperative"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Five Nights at Freddy's: Office",
+  "tokens": {
+    "Background": "#1a1a1a",
+    "Foreground": "#ffff00",
+    "Surface": "#3d3d1a",
+    "SurfaceForeground": "#ffff00",
+    "Primary": "#ff0000",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#cc0000",
+    "SecondaryForeground": "#ffff00",
+    "Muted": "#4a4a2a",
+    "MutedForeground": "#cccc00",
+    "Border": "#ffff00",
+    "Ring": "#ff6b6b",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Righteous"
+  },
+  "tags": ["five-nights-at-freddy", "game", "horror", "fnaf", "office"]
+}

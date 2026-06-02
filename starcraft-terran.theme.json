@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Starcraft: Terran",
+  "tokens": {
+    "Background": "#1a1a2e",
+    "Foreground": "#ffcc00",
+    "Surface": "#2d3a4a",
+    "SurfaceForeground": "#ffcc00",
+    "Primary": "#ffcc00",
+    "PrimaryForeground": "#000000",
+    "Secondary": "#ff9900",
+    "SecondaryForeground": "#1a1a2e",
+    "Muted": "#4a5a6a",
+    "MutedForeground": "#ccaa00",
+    "Border": "#ffcc00",
+    "Ring": "#ffaa00",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Courier Prime",
+    "FontHeading": "Courier Prime"
+  },
+  "tags": ["starcraft", "game", "rts", "terran", "yellow"]
+}

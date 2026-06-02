@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Pikuniku: Cute",
+  "tokens": {
+    "Background": "#f0e8d0",
+    "Foreground": "#2d1415",
+    "Surface": "#e8d0b8",
+    "SurfaceForeground": "#2d1415",
+    "Primary": "#ff6b35",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#e65100",
+    "SecondaryForeground": "#ffffff",
+    "Muted": "#ffab91",
+    "MutedForeground": "#bf360c",
+    "Border": "#ff6b35",
+    "Ring": "#ff8844",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "1rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Fredoka"
+  },
+  "tags": ["pikuniku", "game", "indie", "cute", "colorful"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Destiny 2: Lightfall",
+  "tokens": {
+    "Background": "#0f1a2e",
+    "Foreground": "#b3e5fc",
+    "Surface": "#1a3a5e",
+    "SurfaceForeground": "#b3e5fc",
+    "Primary": "#2196f3",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#1976d2",
+    "SecondaryForeground": "#b3e5fc",
+    "Muted": "#2a5a8e",
+    "MutedForeground": "#64b5f6",
+    "Border": "#2196f3",
+    "Ring": "#81d4fa",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Orbitron",
+    "FontHeading": "Orbitron"
+  },
+  "tags": ["destiny-2", "game", "sci-fi", "lightfall", "blue"]
+}

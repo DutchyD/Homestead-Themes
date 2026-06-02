@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Fortnite: Battle Royale",
+  "tokens": {
+    "Background": "#001a33",
+    "Foreground": "#ffff00",
+    "Surface": "#003366",
+    "SurfaceForeground": "#ffff00",
+    "Primary": "#ff6600",
+    "PrimaryForeground": "#001a33",
+    "Secondary": "#0099ff",
+    "SecondaryForeground": "#ffff00",
+    "Muted": "#004d99",
+    "MutedForeground": "#6699ff",
+    "Border": "#ff6600",
+    "Ring": "#ffff00",
+    "Success": "#00ff00",
+    "SuccessForeground": "#000000",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Fredoka"
+  },
+  "tags": ["fortnite", "game", "battle-royale", "colorful", "action"]
+}

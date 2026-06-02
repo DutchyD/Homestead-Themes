@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Pokemon: Fire Type",
+  "tokens": {
+    "Background": "#3e1f00",
+    "Foreground": "#fff8e1",
+    "Surface": "#5d3500",
+    "SurfaceForeground": "#fff8e1",
+    "Primary": "#ff6f00",
+    "PrimaryForeground": "#3e1f00",
+    "Secondary": "#e65100",
+    "SecondaryForeground": "#fff8e1",
+    "Muted": "#7d4a2a",
+    "MutedForeground": "#ffb74d",
+    "Border": "#e65100",
+    "Ring": "#ff6f00",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#d32f2f",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Nunito",
+    "FontHeading": "Bangers"
+  },
+  "tags": ["pokemon", "game", "fire", "hot", "orange"]
+}

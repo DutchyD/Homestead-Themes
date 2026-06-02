@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Starfield: Cosmos",
+  "tokens": {
+    "Background": "#000000",
+    "Foreground": "#e8d4b0",
+    "Surface": "#1a1410",
+    "SurfaceForeground": "#e8d4b0",
+    "Primary": "#ffd700",
+    "PrimaryForeground": "#000000",
+    "Secondary": "#ffb300",
+    "SecondaryForeground": "#000000",
+    "Muted": "#2a1a0a",
+    "MutedForeground": "#ccaa00",
+    "Border": "#ffd700",
+    "Ring": "#ffed4e",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Orbitron",
+    "FontHeading": "Orbitron"
+  },
+  "tags": ["starfield", "game", "space", "rpg", "exploration"]
+}

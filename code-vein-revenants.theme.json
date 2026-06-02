@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Code Vein: Revenants",
+  "tokens": {
+    "Background": "#0f0a15",
+    "Foreground": "#ffccdd",
+    "Surface": "#251a45",
+    "SurfaceForeground": "#ffccdd",
+    "Primary": "#ff0080",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#cc0066",
+    "SecondaryForeground": "#ffccdd",
+    "Muted": "#4a2a5a",
+    "MutedForeground": "#ff99bb",
+    "Border": "#ff0080",
+    "Ring": "#ff69b4",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Crimson Text",
+    "FontHeading": "Crimson Text"
+  },
+  "tags": ["code-vein", "game", "action", "revenants", "pink"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Undertale: Waterfall",
+  "tokens": {
+    "Background": "#0a1a2e",
+    "Foreground": "#e0f7fa",
+    "Surface": "#1a3a52",
+    "SurfaceForeground": "#e0f7fa",
+    "Primary": "#00bcd4",
+    "PrimaryForeground": "#0a1a2e",
+    "Secondary": "#0097a7",
+    "SecondaryForeground": "#e0f7fa",
+    "Muted": "#2a4a6a",
+    "MutedForeground": "#80deea",
+    "Border": "#00bcd4",
+    "Ring": "#81d4fa",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff1744",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0rem",
+    "RadiusMd": "0rem",
+    "RadiusLg": "0rem",
+    "FontSans": "Determination Mono",
+    "FontHeading": "Determination Mono"
+  },
+  "tags": ["undertale", "game", "indie", "waterfall", "blue"]
+}

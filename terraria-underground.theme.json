@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Terraria: Underground",
+  "tokens": {
+    "Background": "#1a1a1a",
+    "Foreground": "#e8d0c0",
+    "Surface": "#3d3d3d",
+    "SurfaceForeground": "#e8d0c0",
+    "Primary": "#8b7355",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#6b5340",
+    "SecondaryForeground": "#e8d0c0",
+    "Muted": "#4a4a4a",
+    "MutedForeground": "#a0908a",
+    "Border": "#8b7355",
+    "Ring": "#b09080",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0rem",
+    "RadiusMd": "0rem",
+    "RadiusLg": "0rem",
+    "FontSans": "Courier Prime",
+    "FontHeading": "Courier Prime"
+  },
+  "tags": ["terraria", "game", "sandbox", "underground", "brown"]
+}
