@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "The Last of Us: Infected",
+  "tokens": {
+    "Background": "#0a1a0f",
+    "Foreground": "#e0f0e0",
+    "Surface": "#1a3a1f",
+    "SurfaceForeground": "#e0f0e0",
+    "Primary": "#7cb342",
+    "PrimaryForeground": "#0a1a0f",
+    "Secondary": "#558b2f",
+    "SecondaryForeground": "#e0f0e0",
+    "Muted": "#3a5a3f",
+    "MutedForeground": "#a5d6a7",
+    "Border": "#7cb342",
+    "Ring": "#9ccc65",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Crimson Text",
+    "FontHeading": "Crimson Text"
+  },
+  "tags": ["the-last-of-us", "game", "survival", "post-apocalyptic", "green"]
+}

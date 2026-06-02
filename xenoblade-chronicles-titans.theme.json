@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Xenoblade Chronicles: Titans",
+  "tokens": {
+    "Background": "#0a1a2e",
+    "Foreground": "#e8f4f8",
+    "Surface": "#1a3a5e",
+    "SurfaceForeground": "#e8f4f8",
+    "Primary": "#00a8e8",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#0088bb",
+    "SecondaryForeground": "#e8f4f8",
+    "Muted": "#2a5a8e",
+    "MutedForeground": "#88ccdd",
+    "Border": "#00a8e8",
+    "Ring": "#00d4ff",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Righteous"
+  },
+  "tags": ["xenoblade-chronicles", "game", "jrpg", "titans", "blue"]
+}

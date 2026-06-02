@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Splatoon: Inkblot",
+  "tokens": {
+    "Background": "#1a1a1a",
+    "Foreground": "#ffff00",
+    "Surface": "#2d2d2d",
+    "SurfaceForeground": "#ffff00",
+    "Primary": "#ff00ff",
+    "PrimaryForeground": "#000000",
+    "Secondary": "#00ff00",
+    "SecondaryForeground": "#000000",
+    "Muted": "#3a3a3a",
+    "MutedForeground": "#999999",
+    "Border": "#ffff00",
+    "Ring": "#ff00ff",
+    "Success": "#00ff00",
+    "SuccessForeground": "#000000",
+    "Destructive": "#ff00ff",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "1.5rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Fredoka"
+  },
+  "tags": ["splatoon", "game", "shooter", "ink", "colorful"]
+}

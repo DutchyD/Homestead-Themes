@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Grounded: Backyard",
+  "tokens": {
+    "Background": "#1a2a0f",
+    "Foreground": "#fff9e6",
+    "Surface": "#2d4a1a",
+    "SurfaceForeground": "#fff9e6",
+    "Primary": "#7cb342",
+    "PrimaryForeground": "#1a2a0f",
+    "Secondary": "#558b2f",
+    "SecondaryForeground": "#fff9e6",
+    "Muted": "#4a6a2a",
+    "MutedForeground": "#9ccc65",
+    "Border": "#558b2f",
+    "Ring": "#a4ac86",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0rem",
+    "RadiusMd": "0rem",
+    "RadiusLg": "0rem",
+    "FontSans": "Courier Prime",
+    "FontHeading": "Courier Prime"
+  },
+  "tags": ["grounded", "game", "survival", "backyard", "green"]
+}

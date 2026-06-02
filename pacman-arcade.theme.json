@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Pac-Man: Arcade",
+  "tokens": {
+    "Background": "#000000",
+    "Foreground": "#ffff00",
+    "Surface": "#1a1a1a",
+    "SurfaceForeground": "#ffff00",
+    "Primary": "#ffff00",
+    "PrimaryForeground": "#000000",
+    "Secondary": "#ff9900",
+    "SecondaryForeground": "#000000",
+    "Muted": "#3a3a3a",
+    "MutedForeground": "#999999",
+    "Border": "#ffff00",
+    "Ring": "#ff9900",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff3333",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0rem",
+    "RadiusMd": "0rem",
+    "RadiusLg": "0rem",
+    "FontSans": "Press Start 2P",
+    "FontHeading": "Press Start 2P"
+  },
+  "tags": ["pacman", "game", "arcade", "classic", "yellow"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Atelier Ryza: Alchemy",
+  "tokens": {
+    "Background": "#fff9e6",
+    "Foreground": "#e65100",
+    "Surface": "#ffe0b2",
+    "SurfaceForeground": "#e65100",
+    "Primary": "#ffb74d",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#ff8a50",
+    "SecondaryForeground": "#ffffff",
+    "Muted": "#ffcc80",
+    "MutedForeground": "#d84315",
+    "Border": "#ff8a50",
+    "Ring": "#ffb74d",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Fredoka"
+  },
+  "tags": ["atelier-ryza", "game", "jrpg", "alchemy", "orange"]
+}

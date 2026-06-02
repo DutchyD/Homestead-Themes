@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Vampire Hunters Bloodhunt: Night",
+  "tokens": {
+    "Background": "#0a0a1a",
+    "Foreground": "#ffccdd",
+    "Surface": "#1a0a2a",
+    "SurfaceForeground": "#ffccdd",
+    "Primary": "#ff0080",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#cc0066",
+    "SecondaryForeground": "#ffccdd",
+    "Muted": "#2a0a3a",
+    "MutedForeground": "#ff99bb",
+    "Border": "#ff0080",
+    "Ring": "#ff69b4",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Crimson Text",
+    "FontHeading": "Crimson Text"
+  },
+  "tags": ["vampire-hunters-bloodhunt", "game", "action", "vampire", "night"]
+}

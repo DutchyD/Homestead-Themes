@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Monster Hunter: Expedition",
+  "tokens": {
+    "Background": "#1a2a0f",
+    "Foreground": "#fff9e6",
+    "Surface": "#2d4a1a",
+    "SurfaceForeground": "#fff9e6",
+    "Primary": "#a4ac86",
+    "PrimaryForeground": "#1a2a0f",
+    "Secondary": "#7d8663",
+    "SecondaryForeground": "#fff9e6",
+    "Muted": "#4a6a2a",
+    "MutedForeground": "#d0d9b3",
+    "Border": "#a4ac86",
+    "Ring": "#c0cc99",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Righteous"
+  },
+  "tags": ["monster-hunter", "game", "action", "hunting", "tan"]
+}

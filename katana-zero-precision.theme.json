@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Katana ZERO: Precision",
+  "tokens": {
+    "Background": "#0a0a0f",
+    "Foreground": "#ffff00",
+    "Surface": "#1a1a2a",
+    "SurfaceForeground": "#ffff00",
+    "Primary": "#ff0000",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#00ffff",
+    "SecondaryForeground": "#000000",
+    "Muted": "#2a2a3a",
+    "MutedForeground": "#8a8a9a",
+    "Border": "#ffff00",
+    "Ring": "#ff0000",
+    "Success": "#00ff00",
+    "SuccessForeground": "#000000",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0rem",
+    "RadiusMd": "0rem",
+    "RadiusLg": "0rem",
+    "FontSans": "Courier Prime",
+    "FontHeading": "Courier Prime"
+  },
+  "tags": ["katana-zero", "game", "action", "precision", "indie"]
+}

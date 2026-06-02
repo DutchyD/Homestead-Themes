@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Dead Space: Station",
+  "tokens": {
+    "Background": "#0a0a0a",
+    "Foreground": "#ff0000",
+    "Surface": "#2d1515",
+    "SurfaceForeground": "#ff0000",
+    "Primary": "#ff0000",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#cc0000",
+    "SecondaryForeground": "#ff0000",
+    "Muted": "#4a2a2a",
+    "MutedForeground": "#ff6666",
+    "Border": "#ff0000",
+    "Ring": "#ff3333",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Courier Prime",
+    "FontHeading": "Courier Prime"
+  },
+  "tags": ["dead-space", "game", "horror", "scifi", "red"]
+}

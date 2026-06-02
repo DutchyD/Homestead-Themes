@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Grand Theft Auto: City",
+  "tokens": {
+    "Background": "#0a0a0f",
+    "Foreground": "#ffff00",
+    "Surface": "#1a1a2e",
+    "SurfaceForeground": "#ffff00",
+    "Primary": "#ff0000",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#0099ff",
+    "SecondaryForeground": "#ffff00",
+    "Muted": "#2a2a3a",
+    "MutedForeground": "#8a8a8a",
+    "Border": "#ff0000",
+    "Ring": "#ffff00",
+    "Success": "#00ff00",
+    "SuccessForeground": "#000000",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0rem",
+    "RadiusMd": "0rem",
+    "RadiusLg": "0rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Righteous"
+  },
+  "tags": ["grand-theft-auto", "game", "action", "crime", "city"]
+}

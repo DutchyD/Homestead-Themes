@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Zelda: Death Mountain",
+  "tokens": {
+    "Background": "#2c1810",
+    "Foreground": "#fef3e2",
+    "Surface": "#4a2f1f",
+    "SurfaceForeground": "#fef3e2",
+    "Primary": "#ff6b35",
+    "PrimaryForeground": "#2c1810",
+    "Secondary": "#d84315",
+    "SecondaryForeground": "#fef3e2",
+    "Muted": "#6b4423",
+    "MutedForeground": "#c99878",
+    "Border": "#d84315",
+    "Ring": "#ff6b35",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff3d00",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Roboto",
+    "FontHeading": "Righteous"
+  },
+  "tags": ["zelda", "game", "volcano", "fire", "orange"]
+}

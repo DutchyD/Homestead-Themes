@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Zelda: Ancient Forest",
+  "tokens": {
+    "Background": "#1a2b1f",
+    "Foreground": "#e8f5e9",
+    "Surface": "#2d4a31",
+    "SurfaceForeground": "#e8f5e9",
+    "Primary": "#7cb342",
+    "PrimaryForeground": "#1a2b1f",
+    "Secondary": "#558b2f",
+    "SecondaryForeground": "#e8f5e9",
+    "Muted": "#3d5a3f",
+    "MutedForeground": "#a1b5a1",
+    "Border": "#558b2f",
+    "Ring": "#7cb342",
+    "Success": "#9ccc65",
+    "SuccessForeground": "#1a2b1f",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Roboto",
+    "FontHeading": "Righteous"
+  },
+  "tags": ["zelda", "game", "fantasy", "forest", "green"]
+}

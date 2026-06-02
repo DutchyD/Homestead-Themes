@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Hollow Knight: Royal Waterways",
+  "tokens": {
+    "Background": "#0a1a2e",
+    "Foreground": "#b3e5fc",
+    "Surface": "#1a3a5e",
+    "SurfaceForeground": "#b3e5fc",
+    "Primary": "#00bcd4",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#0097a7",
+    "SecondaryForeground": "#b3e5fc",
+    "Muted": "#2a5a8e",
+    "MutedForeground": "#80deea",
+    "Border": "#00bcd4",
+    "Ring": "#4dd0e1",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0rem",
+    "RadiusMd": "0rem",
+    "RadiusLg": "0rem",
+    "FontSans": "Courier Prime",
+    "FontHeading": "Courier Prime"
+  },
+  "tags": ["hollow-knight", "game", "indie", "waterways", "blue"]
+}

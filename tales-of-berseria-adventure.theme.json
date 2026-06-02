@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Tales of Berseria: Adventure",
+  "tokens": {
+    "Background": "#0a0a1a",
+    "Foreground": "#e0d5f2",
+    "Surface": "#1a0a3a",
+    "SurfaceForeground": "#e0d5f2",
+    "Primary": "#6a4c93",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#4a2c73",
+    "SecondaryForeground": "#e0d5f2",
+    "Muted": "#3a2a5a",
+    "MutedForeground": "#b39ddb",
+    "Border": "#6a4c93",
+    "Ring": "#9370db",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Righteous"
+  },
+  "tags": ["tales-of-berseria", "game", "jrpg", "adventure", "purple"]
+}

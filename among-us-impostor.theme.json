@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Among Us: Impostor",
+  "tokens": {
+    "Background": "#0a0a0f",
+    "Foreground": "#e8e8f0",
+    "Surface": "#1a1a2e",
+    "SurfaceForeground": "#e8e8f0",
+    "Primary": "#ff0000",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#ff6b6b",
+    "SecondaryForeground": "#ffffff",
+    "Muted": "#2a2a3a",
+    "MutedForeground": "#8a8a9a",
+    "Border": "#ff0000",
+    "Ring": "#ff6b6b",
+    "Success": "#00ff00",
+    "SuccessForeground": "#000000",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "1.5rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Fredoka"
+  },
+  "tags": ["among-us", "game", "social", "impostor", "red"]
+}

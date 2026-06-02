@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Street Fighter: Chun-Li",
+  "tokens": {
+    "Background": "#0a1a2e",
+    "Foreground": "#e8f4f8",
+    "Surface": "#1a3a52",
+    "SurfaceForeground": "#e8f4f8",
+    "Primary": "#00a8e8",
+    "PrimaryForeground": "#0a1a2e",
+    "Secondary": "#0088bb",
+    "SecondaryForeground": "#e8f4f8",
+    "Muted": "#2a4a6a",
+    "MutedForeground": "#88ccdd",
+    "Border": "#0088bb",
+    "Ring": "#00a8e8",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff1744",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Alfa Slab One",
+    "FontHeading": "Alfa Slab One"
+  },
+  "tags": ["street-fighter", "game", "fighting", "lightning", "blue"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Deus Ex: Augmented",
+  "tokens": {
+    "Background": "#0f1419",
+    "Foreground": "#e8d5f2",
+    "Surface": "#1a252f",
+    "SurfaceForeground": "#e8d5f2",
+    "Primary": "#ff6b00",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#00ff00",
+    "SecondaryForeground": "#0f1419",
+    "Muted": "#2a3f4f",
+    "MutedForeground": "#a0a0b0",
+    "Border": "#ff6b00",
+    "Ring": "#00ff00",
+    "Success": "#00ff00",
+    "SuccessForeground": "#000000",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Orbitron",
+    "FontHeading": "Orbitron"
+  },
+  "tags": ["deus-ex", "game", "cyberpunk", "augmented", "scifi"]
+}

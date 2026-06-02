@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Dishonored: Void",
+  "tokens": {
+    "Background": "#0a0a1a",
+    "Foreground": "#c0a0ff",
+    "Surface": "#1a0a3a",
+    "SurfaceForeground": "#c0a0ff",
+    "Primary": "#7b2cbf",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#5a189a",
+    "SecondaryForeground": "#c0a0ff",
+    "Muted": "#3a2a5a",
+    "MutedForeground": "#b39ddb",
+    "Border": "#7b2cbf",
+    "Ring": "#c77dff",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Crimson Text",
+    "FontHeading": "Crimson Text"
+  },
+  "tags": ["dishonored", "game", "stealth", "void", "dark"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Metroid: Planet Zebes",
+  "tokens": {
+    "Background": "#1a0a2e",
+    "Foreground": "#e0d5ff",
+    "Surface": "#2d1545",
+    "SurfaceForeground": "#e0d5ff",
+    "Primary": "#9c27b0",
+    "PrimaryForeground": "#1a0a2e",
+    "Secondary": "#6a1b9a",
+    "SecondaryForeground": "#e0d5ff",
+    "Muted": "#4a2575",
+    "MutedForeground": "#b39ddb",
+    "Border": "#6a1b9a",
+    "Ring": "#9c27b0",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Audiowide",
+    "FontHeading": "Audiowide"
+  },
+  "tags": ["metroid", "game", "alien", "planet", "purple"]
+}

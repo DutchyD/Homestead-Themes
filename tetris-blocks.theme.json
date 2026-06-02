@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Tetris: Blocks",
+  "tokens": {
+    "Background": "#0a0a0a",
+    "Foreground": "#ffffff",
+    "Surface": "#1a1a1a",
+    "SurfaceForeground": "#ffffff",
+    "Primary": "#00ff00",
+    "PrimaryForeground": "#000000",
+    "Secondary": "#ff00ff",
+    "SecondaryForeground": "#000000",
+    "Muted": "#3a3a3a",
+    "MutedForeground": "#888888",
+    "Border": "#00ff00",
+    "Ring": "#ffff00",
+    "Success": "#00ff00",
+    "SuccessForeground": "#000000",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0rem",
+    "RadiusMd": "0rem",
+    "RadiusLg": "0rem",
+    "FontSans": "Courier Prime",
+    "FontHeading": "Courier Prime"
+  },
+  "tags": ["tetris", "game", "blocks", "classic", "neon"]
+}

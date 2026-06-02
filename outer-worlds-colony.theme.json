@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "The Outer Worlds: Space Colony",
+  "tokens": {
+    "Background": "#0f1a2e",
+    "Foreground": "#b3e8ff",
+    "Surface": "#1a3a5e",
+    "SurfaceForeground": "#b3e8ff",
+    "Primary": "#00d4ff",
+    "PrimaryForeground": "#000000",
+    "Secondary": "#0099ff",
+    "SecondaryForeground": "#ffffff",
+    "Muted": "#2a5a8e",
+    "MutedForeground": "#6699ff",
+    "Border": "#00d4ff",
+    "Ring": "#b3e8ff",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Righteous"
+  },
+  "tags": ["outer-worlds", "game", "rpg", "space", "colony"]
+}

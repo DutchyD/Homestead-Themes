@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Kentucky Route Zero: Highway",
+  "tokens": {
+    "Background": "#0a1a1f",
+    "Foreground": "#b3d9ff",
+    "Surface": "#1a3a4f",
+    "SurfaceForeground": "#b3d9ff",
+    "Primary": "#4da6ff",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#2d7acc",
+    "SecondaryForeground": "#b3d9ff",
+    "Muted": "#2a5a8f",
+    "MutedForeground": "#7accff",
+    "Border": "#4da6ff",
+    "Ring": "#b3d9ff",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Fredoka"
+  },
+  "tags": ["kentucky-route-zero", "game", "adventure", "highway", "blue"]
+}

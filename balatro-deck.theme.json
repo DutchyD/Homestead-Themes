@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Balatro: Deck",
+  "tokens": {
+    "Background": "#1a1a1a",
+    "Foreground": "#e8d5a9",
+    "Surface": "#3a3a1a",
+    "SurfaceForeground": "#e8d5a9",
+    "Primary": "#ffd700",
+    "PrimaryForeground": "#000000",
+    "Secondary": "#ffb300",
+    "SecondaryForeground": "#000000",
+    "Muted": "#4a4a2a",
+    "MutedForeground": "#ccaa00",
+    "Border": "#ffd700",
+    "Ring": "#ffed4e",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Courier Prime",
+    "FontHeading": "Courier Prime"
+  },
+  "tags": ["balatro", "game", "poker", "roguelike", "gold"]
+}

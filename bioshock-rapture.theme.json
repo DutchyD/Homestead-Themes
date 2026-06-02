@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Bioshock: Rapture",
+  "tokens": {
+    "Background": "#0a1a2e",
+    "Foreground": "#b3d9e6",
+    "Surface": "#1a3a52",
+    "SurfaceForeground": "#b3d9e6",
+    "Primary": "#00bcd4",
+    "PrimaryForeground": "#0a1a2e",
+    "Secondary": "#0097a7",
+    "SecondaryForeground": "#b3d9e6",
+    "Muted": "#2a5a7a",
+    "MutedForeground": "#80deea",
+    "Border": "#00bcd4",
+    "Ring": "#4dd0e1",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Crimson Text",
+    "FontHeading": "Crimson Text"
+  },
+  "tags": ["bioshock", "game", "underwater", "rapture", "blue"]
+}

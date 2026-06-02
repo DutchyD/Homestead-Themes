@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Metal Gear Solid: Tactical",
+  "tokens": {
+    "Background": "#0f1419",
+    "Foreground": "#b0bec5",
+    "Surface": "#1a252f",
+    "SurfaceForeground": "#b0bec5",
+    "Primary": "#546e7a",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#37474f",
+    "SecondaryForeground": "#b0bec5",
+    "Muted": "#2a3f4f",
+    "MutedForeground": "#90a4ae",
+    "Border": "#546e7a",
+    "Ring": "#78909c",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Courier Prime",
+    "FontHeading": "Courier Prime"
+  },
+  "tags": ["metal-gear-solid", "game", "stealth", "action", "military"]
+}

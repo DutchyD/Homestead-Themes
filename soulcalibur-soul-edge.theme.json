@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Soulcalibur: Soul Edge",
+  "tokens": {
+    "Background": "#0f0a15",
+    "Foreground": "#ffccdd",
+    "Surface": "#251a45",
+    "SurfaceForeground": "#ffccdd",
+    "Primary": "#cc0066",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#990033",
+    "SecondaryForeground": "#ffccdd",
+    "Muted": "#4a2a5a",
+    "MutedForeground": "#ff99bb",
+    "Border": "#cc0066",
+    "Ring": "#ff6b9d",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Cinzel",
+    "FontHeading": "Cinzel"
+  },
+  "tags": ["soulcalibur", "game", "fighting", "weapon", "fantasy"]
+}

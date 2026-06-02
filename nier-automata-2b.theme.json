@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Nier Automata: 2B",
+  "tokens": {
+    "Background": "#0a0a0a",
+    "Foreground": "#e8e8e8",
+    "Surface": "#2d2d2d",
+    "SurfaceForeground": "#e8e8e8",
+    "Primary": "#ff6b00",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#cc5500",
+    "SecondaryForeground": "#e8e8e8",
+    "Muted": "#3a3a3a",
+    "MutedForeground": "#a0a0a0",
+    "Border": "#ff6b00",
+    "Ring": "#ff8800",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Courier Prime",
+    "FontHeading": "Courier Prime"
+  },
+  "tags": ["nier-automata", "game", "action", "2b", "dark"]
+}

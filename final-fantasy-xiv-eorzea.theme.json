@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Final Fantasy XIV: Eorzea",
+  "tokens": {
+    "Background": "#0a1a2e",
+    "Foreground": "#d0c9ff",
+    "Surface": "#1a3a5e",
+    "SurfaceForeground": "#d0c9ff",
+    "Primary": "#4da6ff",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#2d5ccc",
+    "SecondaryForeground": "#d0c9ff",
+    "Muted": "#2a5a8e",
+    "MutedForeground": "#7a9fff",
+    "Border": "#4da6ff",
+    "Ring": "#d0c9ff",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Righteous"
+  },
+  "tags": ["final-fantasy-xiv", "game", "mmo", "eorzea", "blue"]
+}

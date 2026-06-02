@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "BioWare: Mass Effect",
+  "tokens": {
+    "Background": "#0f1a2e",
+    "Foreground": "#d0e8ff",
+    "Surface": "#1a3a5e",
+    "SurfaceForeground": "#d0e8ff",
+    "Primary": "#00ccff",
+    "PrimaryForeground": "#000000",
+    "Secondary": "#0099ff",
+    "SecondaryForeground": "#ffffff",
+    "Muted": "#2a5a8e",
+    "MutedForeground": "#6699ff",
+    "Border": "#00ccff",
+    "Ring": "#00ffff",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Orbitron",
+    "FontHeading": "Orbitron"
+  },
+  "tags": ["mass-effect", "game", "scifi", "rpg", "galactic"]
+}

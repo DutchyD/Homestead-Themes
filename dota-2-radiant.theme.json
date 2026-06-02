@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Dota 2: The Radiant",
+  "tokens": {
+    "Background": "#1a3a1f",
+    "Foreground": "#90ee90",
+    "Surface": "#2d5a31",
+    "SurfaceForeground": "#90ee90",
+    "Primary": "#00ff00",
+    "PrimaryForeground": "#000000",
+    "Secondary": "#00cc00",
+    "SecondaryForeground": "#1a3a1f",
+    "Muted": "#4a7a4a",
+    "MutedForeground": "#66ff66",
+    "Border": "#00ff00",
+    "Ring": "#90ee90",
+    "Success": "#00ff00",
+    "SuccessForeground": "#000000",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Righteous"
+  },
+  "tags": ["dota-2", "game", "moba", "radiant", "green"]
+}

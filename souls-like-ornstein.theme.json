@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Souls-like Collection: Ornstein",
+  "tokens": {
+    "Background": "#0f0a0f",
+    "Foreground": "#ffead0",
+    "Surface": "#2d1a25",
+    "SurfaceForeground": "#ffead0",
+    "Primary": "#ffd700",
+    "PrimaryForeground": "#0f0a0f",
+    "Secondary": "#ffb300",
+    "SecondaryForeground": "#0f0a0f",
+    "Muted": "#4a2a3a",
+    "MutedForeground": "#d4af37",
+    "Border": "#ffd700",
+    "Ring": "#ffed4e",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Crimson Text",
+    "FontHeading": "Crimson Text"
+  },
+  "tags": ["souls-like", "game", "ornstein", "gold", "boss"]
+}

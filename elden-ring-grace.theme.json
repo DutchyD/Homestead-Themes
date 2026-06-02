@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Elden Ring: Grace",
+  "tokens": {
+    "Background": "#0f0a15",
+    "Foreground": "#ffd700",
+    "Surface": "#251945",
+    "SurfaceForeground": "#ffd700",
+    "Primary": "#ffd700",
+    "PrimaryForeground": "#0f0a15",
+    "Secondary": "#ffb300",
+    "SecondaryForeground": "#0f0a15",
+    "Muted": "#4a3a5a",
+    "MutedForeground": "#d4af37",
+    "Border": "#ffd700",
+    "Ring": "#ffed4e",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff1744",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Crimson Text",
+    "FontHeading": "Crimson Text"
+  },
+  "tags": ["elden-ring", "game", "souls", "grace", "gold"]
+}

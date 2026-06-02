@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Amnesia: Darkness",
+  "tokens": {
+    "Background": "#0a0a0a",
+    "Foreground": "#d0d0d0",
+    "Surface": "#1a1a1a",
+    "SurfaceForeground": "#d0d0d0",
+    "Primary": "#2196f3",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#1976d2",
+    "SecondaryForeground": "#d0d0d0",
+    "Muted": "#2a2a2a",
+    "MutedForeground": "#808080",
+    "Border": "#2196f3",
+    "Ring": "#64b5f6",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Courier Prime",
+    "FontHeading": "Courier Prime"
+  },
+  "tags": ["amnesia", "game", "horror", "dark", "survival"]
+}

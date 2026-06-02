@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Braid: Puzzle",
+  "tokens": {
+    "Background": "#8b7355",
+    "Foreground": "#fff9e6",
+    "Surface": "#a0906a",
+    "SurfaceForeground": "#fff9e6",
+    "Primary": "#ffb74d",
+    "PrimaryForeground": "#1a1a1a",
+    "Secondary": "#ff8a50",
+    "SecondaryForeground": "#1a1a1a",
+    "Muted": "#ffcc80",
+    "MutedForeground": "#654321",
+    "Border": "#ff8a50",
+    "Ring": "#ffb74d",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Righteous"
+  },
+  "tags": ["braid", "game", "puzzle", "indie", "brown"]
+}

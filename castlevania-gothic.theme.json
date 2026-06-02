@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Castlevania: Gothic Castle",
+  "tokens": {
+    "Background": "#0f0a15",
+    "Foreground": "#e8d5f2",
+    "Surface": "#251945",
+    "SurfaceForeground": "#e8d5f2",
+    "Primary": "#8b0000",
+    "PrimaryForeground": "#0f0a15",
+    "Secondary": "#660000",
+    "SecondaryForeground": "#e8d5f2",
+    "Muted": "#4a3a5a",
+    "MutedForeground": "#c8a8d8",
+    "Border": "#8b0000",
+    "Ring": "#ff6b6b",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff1744",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Crimson Text",
+    "FontHeading": "Crimson Text"
+  },
+  "tags": ["castlevania", "game", "gothic", "vampire", "dark"]
+}

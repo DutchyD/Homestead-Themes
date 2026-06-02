@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Doom: Hellscape",
+  "tokens": {
+    "Background": "#1a0a0a",
+    "Foreground": "#ffcccc",
+    "Surface": "#3d1515",
+    "SurfaceForeground": "#ffcccc",
+    "Primary": "#ff3333",
+    "PrimaryForeground": "#1a0a0a",
+    "Secondary": "#cc0000",
+    "SecondaryForeground": "#ffcccc",
+    "Muted": "#5a2a2a",
+    "MutedForeground": "#ff7777",
+    "Border": "#ff3333",
+    "Ring": "#ffaa00",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff1744",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0rem",
+    "RadiusMd": "0rem",
+    "RadiusLg": "0rem",
+    "FontSans": "JetBrains Mono",
+    "FontHeading": "Righteous"
+  },
+  "tags": ["doom", "game", "fps", "hell", "red"]
+}

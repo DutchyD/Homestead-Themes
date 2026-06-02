@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Stardew Valley: Summer",
+  "tokens": {
+    "Background": "#fff9e6",
+    "Foreground": "#f57f17",
+    "Surface": "#ffeb3b",
+    "SurfaceForeground": "#f57f17",
+    "Primary": "#fbc02d",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#f9a825",
+    "SecondaryForeground": "#ffffff",
+    "Muted": "#ffed4e",
+    "MutedForeground": "#f57f17",
+    "Border": "#f9a825",
+    "Ring": "#fbc02d",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Fuzzy Bubbles",
+    "FontHeading": "Fredoka"
+  },
+  "tags": ["stardew-valley", "game", "farming", "summer", "yellow"]
+}

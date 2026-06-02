@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Street Fighter: Ryu",
+  "tokens": {
+    "Background": "#1f1f2e",
+    "Foreground": "#f0f0f0",
+    "Surface": "#3a3a4a",
+    "SurfaceForeground": "#f0f0f0",
+    "Primary": "#ff6b35",
+    "PrimaryForeground": "#1f1f2e",
+    "Secondary": "#cc3300",
+    "SecondaryForeground": "#f0f0f0",
+    "Muted": "#4a4a5a",
+    "MutedForeground": "#b0b0b0",
+    "Border": "#ff6b35",
+    "Ring": "#ffaa44",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff1744",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Alfa Slab One",
+    "FontHeading": "Alfa Slab One"
+  },
+  "tags": ["street-fighter", "game", "fighting", "hadoken", "orange"]
+}

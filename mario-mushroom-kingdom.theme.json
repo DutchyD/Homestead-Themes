@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Mario: Mushroom Kingdom",
+  "tokens": {
+    "Background": "#2d1b2e",
+    "Foreground": "#fff9f0",
+    "Surface": "#4a2d5a",
+    "SurfaceForeground": "#fff9f0",
+    "Primary": "#ff6b9d",
+    "PrimaryForeground": "#2d1b2e",
+    "Secondary": "#d71f6d",
+    "SecondaryForeground": "#fff9f0",
+    "Muted": "#6b4d7a",
+    "MutedForeground": "#d4a5c4",
+    "Border": "#d71f6d",
+    "Ring": "#ff6b9d",
+    "Success": "#76ff03",
+    "SuccessForeground": "#33691e",
+    "Destructive": "#ff1744",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Press Start 2P"
+  },
+  "tags": ["mario", "game", "nintendo", "pink", "fun"]
+}

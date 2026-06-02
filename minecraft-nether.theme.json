@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Minecraft: Nether",
+  "tokens": {
+    "Background": "#3d1515",
+    "Foreground": "#ffcccc",
+    "Surface": "#5d2525",
+    "SurfaceForeground": "#ffcccc",
+    "Primary": "#ff6b6b",
+    "PrimaryForeground": "#3d1515",
+    "Secondary": "#cc3333",
+    "SecondaryForeground": "#ffcccc",
+    "Muted": "#7d4a4a",
+    "MutedForeground": "#ff9999",
+    "Border": "#cc3333",
+    "Ring": "#ff6b6b",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff1744",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0rem",
+    "RadiusMd": "0rem",
+    "RadiusLg": "0rem",
+    "FontSans": "Courier Prime",
+    "FontHeading": "Courier Prime"
+  },
+  "tags": ["minecraft", "game", "nether", "hell", "red"]
+}

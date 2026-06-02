@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Halo: Elite Purple",
+  "tokens": {
+    "Background": "#0a0f1a",
+    "Foreground": "#e0d5f2",
+    "Surface": "#251945",
+    "SurfaceForeground": "#e0d5f2",
+    "Primary": "#9c27b0",
+    "PrimaryForeground": "#0a0f1a",
+    "Secondary": "#7b1fa2",
+    "SecondaryForeground": "#e0d5f2",
+    "Muted": "#4a3a6a",
+    "MutedForeground": "#b39ddb",
+    "Border": "#9c27b0",
+    "Ring": "#ce93d8",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff1744",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Orbitron",
+    "FontHeading": "Orbitron"
+  },
+  "tags": ["halo", "game", "elite", "alien", "purple"]
+}

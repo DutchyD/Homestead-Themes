@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Stardew Valley: Spring",
+  "tokens": {
+    "Background": "#e8f5e9",
+    "Foreground": "#1b5e20",
+    "Surface": "#c8e6c9",
+    "SurfaceForeground": "#1b5e20",
+    "Primary": "#81c784",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#558b2f",
+    "SecondaryForeground": "#ffffff",
+    "Muted": "#a5d6a7",
+    "MutedForeground": "#2e7d32",
+    "Border": "#558b2f",
+    "Ring": "#81c784",
+    "Success": "#9ccc65",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Fuzzy Bubbles",
+    "FontHeading": "Fredoka"
+  },
+  "tags": ["stardew-valley", "game", "farming", "spring", "green"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "King's Field: Dungeon",
+  "tokens": {
+    "Background": "#0a0805",
+    "Foreground": "#d0d0c0",
+    "Surface": "#2d1a0f",
+    "SurfaceForeground": "#d0d0c0",
+    "Primary": "#8b6f47",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#6b4f27",
+    "SecondaryForeground": "#d0d0c0",
+    "Muted": "#4a3a2a",
+    "MutedForeground": "#a0908a",
+    "Border": "#8b6f47",
+    "Ring": "#a08060",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Crimson Text",
+    "FontHeading": "Crimson Text"
+  },
+  "tags": ["king-field", "game", "rpg", "dungeon", "dark"]
+}

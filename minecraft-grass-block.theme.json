@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Minecraft: Grass Block",
+  "tokens": {
+    "Background": "#2d5016",
+    "Foreground": "#fff9e6",
+    "Surface": "#3d6b1f",
+    "SurfaceForeground": "#fff9e6",
+    "Primary": "#7cb342",
+    "PrimaryForeground": "#2d5016",
+    "Secondary": "#558b2f",
+    "SecondaryForeground": "#fff9e6",
+    "Muted": "#4a7a2a",
+    "MutedForeground": "#9ccc65",
+    "Border": "#558b2f",
+    "Ring": "#7cb342",
+    "Success": "#9ccc65",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#8b4513",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0rem",
+    "RadiusMd": "0rem",
+    "RadiusLg": "0rem",
+    "FontSans": "Courier Prime",
+    "FontHeading": "Courier Prime"
+  },
+  "tags": ["minecraft", "game", "block", "blocky", "green"]
+}

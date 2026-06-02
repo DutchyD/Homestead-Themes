@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Dark Souls: Bonfire",
+  "tokens": {
+    "Background": "#0a0805",
+    "Foreground": "#e8d4b0",
+    "Surface": "#2d241f",
+    "SurfaceForeground": "#e8d4b0",
+    "Primary": "#ff8c42",
+    "PrimaryForeground": "#0a0805",
+    "Secondary": "#cc6b2f",
+    "SecondaryForeground": "#e8d4b0",
+    "Muted": "#4a3a2f",
+    "MutedForeground": "#d4a574",
+    "Border": "#cc6b2f",
+    "Ring": "#ff8c42",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff3d00",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Crimson Text",
+    "FontHeading": "Crimson Text"
+  },
+  "tags": ["dark-souls", "game", "souls", "fire", "gothic"]
+}

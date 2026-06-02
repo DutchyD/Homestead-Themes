@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Mortal Kombat: Combat",
+  "tokens": {
+    "Background": "#0a0a0a",
+    "Foreground": "#ffff00",
+    "Surface": "#2d2d0a",
+    "SurfaceForeground": "#ffff00",
+    "Primary": "#ff0000",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#cc0000",
+    "SecondaryForeground": "#ffff00",
+    "Muted": "#3a3a1a",
+    "MutedForeground": "#cccc00",
+    "Border": "#ff0000",
+    "Ring": "#ffff00",
+    "Success": "#00ff00",
+    "SuccessForeground": "#000000",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0rem",
+    "RadiusMd": "0rem",
+    "RadiusLg": "0rem",
+    "FontSans": "Bebas Neue",
+    "FontHeading": "Righteous"
+  },
+  "tags": ["mortal-kombat", "game", "fighting", "violent", "arcade"]
+}

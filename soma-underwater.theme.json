@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Soma: Underwater Station",
+  "tokens": {
+    "Background": "#0a1a2e",
+    "Foreground": "#80deea",
+    "Surface": "#1a3a5e",
+    "SurfaceForeground": "#80deea",
+    "Primary": "#00bcd4",
+    "PrimaryForeground": "#0a1a2e",
+    "Secondary": "#0097a7",
+    "SecondaryForeground": "#80deea",
+    "Muted": "#2a5a8e",
+    "MutedForeground": "#4dd0e1",
+    "Border": "#00bcd4",
+    "Ring": "#b3e5fc",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Courier Prime",
+    "FontHeading": "Courier Prime"
+  },
+  "tags": ["soma", "game", "horror", "underwater", "scifi"]
+}

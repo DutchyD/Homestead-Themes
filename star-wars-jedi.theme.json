@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Star Wars Jedi: Fallen Order",
+  "tokens": {
+    "Background": "#0f1a2e",
+    "Foreground": "#ffff00",
+    "Surface": "#1a3a5e",
+    "SurfaceForeground": "#ffff00",
+    "Primary": "#ff6600",
+    "PrimaryForeground": "#000000",
+    "Secondary": "#0099ff",
+    "SecondaryForeground": "#ffff00",
+    "Muted": "#2a5a8e",
+    "MutedForeground": "#6699ff",
+    "Border": "#ff6600",
+    "Ring": "#ffff00",
+    "Success": "#00ff00",
+    "SuccessForeground": "#000000",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Orbitron",
+    "FontHeading": "Orbitron"
+  },
+  "tags": ["star-wars", "game", "jedi", "scifi", "action"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Rage: Wasteland",
+  "tokens": {
+    "Background": "#3e2415",
+    "Foreground": "#fff8e1",
+    "Surface": "#5d3500",
+    "SurfaceForeground": "#fff8e1",
+    "Primary": "#ff6b00",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#e65100",
+    "SecondaryForeground": "#fff8e1",
+    "Muted": "#7d5a3a",
+    "MutedForeground": "#ffb74d",
+    "Border": "#ff6b00",
+    "Ring": "#ff8a50",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0rem",
+    "RadiusMd": "0rem",
+    "RadiusLg": "0rem",
+    "FontSans": "Bebas Neue",
+    "FontHeading": "Righteous"
+  },
+  "tags": ["rage", "game", "fps", "wasteland", "post-apocalyptic"]
+}

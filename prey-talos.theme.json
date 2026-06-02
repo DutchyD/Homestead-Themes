@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Prey: Talos",
+  "tokens": {
+    "Background": "#1a1a1a",
+    "Foreground": "#ffcc00",
+    "Surface": "#3a3a3a",
+    "SurfaceForeground": "#ffcc00",
+    "Primary": "#ff6600",
+    "PrimaryForeground": "#1a1a1a",
+    "Secondary": "#cc3300",
+    "SecondaryForeground": "#ffcc00",
+    "Muted": "#4a4a4a",
+    "MutedForeground": "#9a9a00",
+    "Border": "#ff6600",
+    "Ring": "#ffcc00",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Orbitron",
+    "FontHeading": "Orbitron"
+  },
+  "tags": ["prey", "game", "sci-fi", "aliens", "station"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Halo: Master Chief",
+  "tokens": {
+    "Background": "#0f1923",
+    "Foreground": "#d4af37",
+    "Surface": "#1a2f4a",
+    "SurfaceForeground": "#d4af37",
+    "Primary": "#00bb00",
+    "PrimaryForeground": "#0f1923",
+    "Secondary": "#00aa00",
+    "SecondaryForeground": "#d4af37",
+    "Muted": "#2a4a6a",
+    "MutedForeground": "#88aa88",
+    "Border": "#00bb00",
+    "Ring": "#d4af37",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff1744",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Orbitron",
+    "FontHeading": "Orbitron"
+  },
+  "tags": ["halo", "game", "fps", "master-chief", "sci-fi"]
+}

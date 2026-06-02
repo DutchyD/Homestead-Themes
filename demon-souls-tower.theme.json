@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Demon's Souls: Tower",
+  "tokens": {
+    "Background": "#0f0a0f",
+    "Foreground": "#e8d0c0",
+    "Surface": "#2d1a25",
+    "SurfaceForeground": "#e8d0c0",
+    "Primary": "#a855a8",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#7c2a7c",
+    "SecondaryForeground": "#e8d0c0",
+    "Muted": "#4a2a4a",
+    "MutedForeground": "#d0a0d0",
+    "Border": "#a855a8",
+    "Ring": "#d77dd7",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Crimson Text",
+    "FontHeading": "Crimson Text"
+  },
+  "tags": ["demon-souls", "game", "souls", "tower", "dark"]
+}

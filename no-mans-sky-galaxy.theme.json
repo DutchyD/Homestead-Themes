@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "No Mans Sky: Galaxy",
+  "tokens": {
+    "Background": "#000000",
+    "Foreground": "#00ffff",
+    "Surface": "#1a1a2e",
+    "SurfaceForeground": "#00ffff",
+    "Primary": "#ff00ff",
+    "PrimaryForeground": "#000000",
+    "Secondary": "#ffff00",
+    "SecondaryForeground": "#000000",
+    "Muted": "#2a2a3a",
+    "MutedForeground": "#808080",
+    "Border": "#00ffff",
+    "Ring": "#ff00ff",
+    "Success": "#00ff00",
+    "SuccessForeground": "#000000",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Orbitron",
+    "FontHeading": "Orbitron"
+  },
+  "tags": ["no-mans-sky", "game", "scifi", "exploration", "neon"]
+}

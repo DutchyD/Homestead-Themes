@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Okami: Brush",
+  "tokens": {
+    "Background": "#fff9e6",
+    "Foreground": "#d84315",
+    "Surface": "#ffeb99",
+    "SurfaceForeground": "#d84315",
+    "Primary": "#ff6f00",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#e65100",
+    "SecondaryForeground": "#ffffff",
+    "Muted": "#ffb74d",
+    "MutedForeground": "#bf360c",
+    "Border": "#ff6f00",
+    "Ring": "#ffb74d",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Fredoka"
+  },
+  "tags": ["okami", "game", "action", "brush", "japanese"]
+}

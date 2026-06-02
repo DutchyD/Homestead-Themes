@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Disco Elysium: Thought",
+  "tokens": {
+    "Background": "#1a1a1f",
+    "Foreground": "#e8d5f2",
+    "Surface": "#2d1a45",
+    "SurfaceForeground": "#e8d5f2",
+    "Primary": "#9c27b0",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#6a1b9a",
+    "SecondaryForeground": "#e8d5f2",
+    "Muted": "#4a2a6a",
+    "MutedForeground": "#b39ddb",
+    "Border": "#9c27b0",
+    "Ring": "#ce93d8",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Righteous"
+  },
+  "tags": ["disco-elysium", "game", "rpg", "noir", "purple"]
+}

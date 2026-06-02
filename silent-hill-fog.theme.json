@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Silent Hill: Fog",
+  "tokens": {
+    "Background": "#1a1a1f",
+    "Foreground": "#cccccc",
+    "Surface": "#2d2d3f",
+    "SurfaceForeground": "#cccccc",
+    "Primary": "#8b0000",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#660000",
+    "SecondaryForeground": "#cccccc",
+    "Muted": "#4a3a4a",
+    "MutedForeground": "#9a9a9a",
+    "Border": "#8b0000",
+    "Ring": "#ff6b6b",
+    "Success": "#81c784",
+    "SuccessForeground": "#1b5e20",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Crimson Text",
+    "FontHeading": "Crimson Text"
+  },
+  "tags": ["silent-hill", "game", "horror", "fog", "dark"]
+}

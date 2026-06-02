@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Borderlands: Vault",
+  "tokens": {
+    "Background": "#1a1a1a",
+    "Foreground": "#ffff00",
+    "Surface": "#3d3d00",
+    "SurfaceForeground": "#ffff00",
+    "Primary": "#ffff00",
+    "PrimaryForeground": "#000000",
+    "Secondary": "#ff6600",
+    "SecondaryForeground": "#ffff00",
+    "Muted": "#4a4a1a",
+    "MutedForeground": "#cccc00",
+    "Border": "#ffff00",
+    "Ring": "#ff6600",
+    "Success": "#00ff00",
+    "SuccessForeground": "#000000",
+    "Destructive": "#ff0000",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0rem",
+    "RadiusMd": "0rem",
+    "RadiusLg": "0rem",
+    "FontSans": "Bebas Neue",
+    "FontHeading": "Righteous"
+  },
+  "tags": ["borderlands", "game", "fps", "vault", "yellow"]
+}
