@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Matrix Terminal",
+  "tokens": {
+    "Background": "#020d02",
+    "Foreground": "#33ff66",
+    "Surface": "#051405",
+    "SurfaceForeground": "#5cff85",
+    "Primary": "#00ff41",
+    "PrimaryForeground": "#001a06",
+    "Secondary": "#0a2a0a",
+    "SecondaryForeground": "#66ff88",
+    "Muted": "#0d1f0d",
+    "MutedForeground": "#4f9f5f",
+    "Border": "#1c4d1c",
+    "Ring": "#00ff41",
+    "Success": "#39ff5f",
+    "SuccessForeground": "#001a06",
+    "Destructive": "#ff3131",
+    "DestructiveForeground": "#1a0000",
+    "RadiusSm": "0",
+    "RadiusMd": "0",
+    "RadiusLg": "0.125rem",
+    "FontSans": "Roboto",
+    "FontHeading": "Roboto Slab"
+  },
+  "tags": ["dark", "terminal", "hacker", "green"]
+}

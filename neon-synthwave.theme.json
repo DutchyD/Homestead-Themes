@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Neon Synthwave",
+  "tokens": {
+    "Background": "#1a0b2e",
+    "Foreground": "#f5e9ff",
+    "Surface": "#2a1245",
+    "SurfaceForeground": "#f5e9ff",
+    "Primary": "#ff2e97",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#00e5ff",
+    "SecondaryForeground": "#00131a",
+    "Muted": "#3a1d5c",
+    "MutedForeground": "#c4a0ec",
+    "Border": "#4a2378",
+    "Ring": "#00e5ff",
+    "Success": "#00f0a8",
+    "SuccessForeground": "#002417",
+    "Destructive": "#ff3864",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.125rem",
+    "RadiusMd": "0.25rem",
+    "RadiusLg": "0.5rem",
+    "FontSans": "Montserrat",
+    "FontHeading": "Poppins"
+  },
+  "tags": ["dark", "neon", "synthwave", "retro"]
+}

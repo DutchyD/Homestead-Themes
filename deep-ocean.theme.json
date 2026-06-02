@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Deep Ocean",
+  "tokens": {
+    "Background": "#021019",
+    "Foreground": "#d6f3ff",
+    "Surface": "#052436",
+    "SurfaceForeground": "#d6f3ff",
+    "Primary": "#19c3e6",
+    "PrimaryForeground": "#00131a",
+    "Secondary": "#0a3a52",
+    "SecondaryForeground": "#aee9ff",
+    "Muted": "#0a2e42",
+    "MutedForeground": "#7fb4cc",
+    "Border": "#0f4a66",
+    "Ring": "#19c3e6",
+    "Success": "#2ee6a8",
+    "SuccessForeground": "#00211a",
+    "Destructive": "#ff6b6b",
+    "DestructiveForeground": "#1a0000",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.875rem",
+    "RadiusLg": "1.5rem",
+    "FontSans": "Open Sans",
+    "FontHeading": "Playfair Display"
+  },
+  "tags": ["dark", "ocean", "blue", "calm"]
+}

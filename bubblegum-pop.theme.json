@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Bubblegum Pop",
+  "tokens": {
+    "Background": "#fff0f6",
+    "Foreground": "#5a1f48",
+    "Surface": "#ffffff",
+    "SurfaceForeground": "#5a1f48",
+    "Primary": "#ff4da6",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#ffd6ec",
+    "SecondaryForeground": "#7a2a5e",
+    "Muted": "#ffe1f0",
+    "MutedForeground": "#a85a85",
+    "Border": "#ffc2e0",
+    "Ring": "#ff4da6",
+    "Success": "#2ec4b6",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ff5470",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.25rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Nunito",
+    "FontHeading": "Poppins"
+  },
+  "tags": ["light", "pink", "playful", "pastel"]
+}
