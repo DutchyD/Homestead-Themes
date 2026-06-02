@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Vega Lyra",
+  "tokens": {
+    "Background": "#f5f3ff",
+    "Foreground": "#6d28d9",
+    "Surface": "#ede9fe",
+    "SurfaceForeground": "#6d28d9",
+    "Primary": "#8b5cf6",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#ddd6fe",
+    "SecondaryForeground": "#7c3aed",
+    "Muted": "#c4b5fd",
+    "MutedForeground": "#a78bfa",
+    "Border": "#a78bfa",
+    "Ring": "#8b5cf6",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Orbitron",
+    "FontHeading": "Space Grotesk"
+  },
+  "tags": ["light", "vega", "lyra", "bright"]
+}

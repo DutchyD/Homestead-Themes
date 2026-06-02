@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Jaisalmer Gold",
+  "tokens": {
+    "Background": "#fef9c3",
+    "Foreground": "#713f12",
+    "Surface": "#fde047",
+    "SurfaceForeground": "#713f12",
+    "Primary": "#eab308",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#facc15",
+    "SecondaryForeground": "#854d0e",
+    "Muted": "#ca8a04",
+    "MutedForeground": "#a16207",
+    "Border": "#eab308",
+    "Ring": "#facc15",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Noto Sans SC",
+    "FontHeading": "Noto Serif SC"
+  },
+  "tags": ["light", "jaisalmer", "gold", "desert"]
+}

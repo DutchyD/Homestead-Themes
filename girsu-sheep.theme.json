@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Girsu Sheep",
+  "tokens": {
+    "Background": "#fff1f2",
+    "Foreground": "#9f1239",
+    "Surface": "#ffe4e6",
+    "SurfaceForeground": "#9f1239",
+    "Primary": "#fb7185",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fda4af",
+    "SecondaryForeground": "#be123c",
+    "Muted": "#fecdd3",
+    "MutedForeground": "#e11d48",
+    "Border": "#fb7185",
+    "Ring": "#e11d48",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#9f1239",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Cinzel",
+    "FontHeading": "Cinzel"
+  },
+  "tags": ["light", "girsu", "sheep", "flock"]
+}

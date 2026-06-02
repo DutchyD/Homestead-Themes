@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Deneb Tail",
+  "tokens": {
+    "Background": "#082f49",
+    "Foreground": "#e0f2fe",
+    "Surface": "#0c4a6e",
+    "SurfaceForeground": "#f0f9ff",
+    "Primary": "#0ea5e9",
+    "PrimaryForeground": "#082f49",
+    "Secondary": "#075985",
+    "SecondaryForeground": "#bae6fd",
+    "Muted": "#0369a1",
+    "MutedForeground": "#38bdf8",
+    "Border": "#0284c7",
+    "Ring": "#0ea5e9",
+    "Success": "#4ade80",
+    "SuccessForeground": "#082f49",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#082f49",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Orbitron",
+    "FontHeading": "Space Grotesk"
+  },
+  "tags": ["dark", "deneb", "tail", "alpha"]
+}

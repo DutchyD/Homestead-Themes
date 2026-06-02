@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Shillong Clouds",
+  "tokens": {
+    "Background": "#f1f5f9",
+    "Foreground": "#334155",
+    "Surface": "#e2e8f0",
+    "SurfaceForeground": "#334155",
+    "Primary": "#94a3b8",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#cbd5e1",
+    "SecondaryForeground": "#475569",
+    "Muted": "#e2e8f0",
+    "MutedForeground": "#64748b",
+    "Border": "#cbd5e1",
+    "Ring": "#94a3b8",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Noto Sans SC",
+    "FontHeading": "Noto Serif SC"
+  },
+  "tags": ["light", "shillong", "clouds", "meghalaya"]
+}

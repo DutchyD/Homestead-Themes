@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Neon Plasma",
+  "tokens": {
+    "Background": "#fef2f2",
+    "Foreground": "#991b1b",
+    "Surface": "#fee2e2",
+    "SurfaceForeground": "#991b1b",
+    "Primary": "#ef4444",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fecaca",
+    "SecondaryForeground": "#b91c1c",
+    "Muted": "#fca5a5",
+    "MutedForeground": "#dc2626",
+    "Border": "#f87171",
+    "Ring": "#ef4444",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#7f1d1d",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Space Grotesk",
+    "FontHeading": "Space Grotesk"
+  },
+  "tags": ["light", "neon", "plasma", "crimson"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Memphis Sphinx",
+  "tokens": {
+    "Background": "#292524",
+    "Foreground": "#d6d3d1",
+    "Surface": "#44403c",
+    "SurfaceForeground": "#e7e5e4",
+    "Primary": "#78716c",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#57534e",
+    "SecondaryForeground": "#d6d3d1",
+    "Muted": "#57534e",
+    "MutedForeground": "#a8a29e",
+    "Border": "#78716c",
+    "Ring": "#a8a29e",
+    "Success": "#4ade80",
+    "SuccessForeground": "#292524",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#292524",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Cinzel",
+    "FontHeading": "Cinzel Decorative"
+  },
+  "tags": ["dark", "memphis", "sphinx", "necropolis"]
+}

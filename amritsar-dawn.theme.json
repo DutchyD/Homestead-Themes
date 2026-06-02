@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Amritsar Dawn",
+  "tokens": {
+    "Background": "#7c2d12",
+    "Foreground": "#ffedd5",
+    "Surface": "#9a3412",
+    "SurfaceForeground": "#fff7ed",
+    "Primary": "#fdba74",
+    "PrimaryForeground": "#7c2d12",
+    "Secondary": "#c2410c",
+    "SecondaryForeground": "#fed7aa",
+    "Muted": "#ea580c",
+    "MutedForeground": "#fb923c",
+    "Border": "#f97316",
+    "Ring": "#fdba74",
+    "Success": "#4ade80",
+    "SuccessForeground": "#7c2d12",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#7c2d12",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Noto Sans SC",
+    "FontHeading": "Noto Serif SC"
+  },
+  "tags": ["dark", "amritsar", "dawn", "temple"]
+}

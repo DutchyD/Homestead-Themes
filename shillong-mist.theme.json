@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Shillong Mist",
+  "tokens": {
+    "Background": "#334155",
+    "Foreground": "#cbd5e1",
+    "Surface": "#475569",
+    "SurfaceForeground": "#e2e8f0",
+    "Primary": "#94a3b8",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#1e293b",
+    "SecondaryForeground": "#cbd5e1",
+    "Muted": "#64748b",
+    "MutedForeground": "#94a3b8",
+    "Border": "#475569",
+    "Ring": "#94a3b8",
+    "Success": "#4ade80",
+    "SuccessForeground": "#334155",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#334155",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Noto Sans SC",
+    "FontHeading": "Noto Serif SC"
+  },
+  "tags": ["dark", "shillong", "mist", "abode"]
+}

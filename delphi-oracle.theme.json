@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Delphi Oracle",
+  "tokens": {
+    "Background": "#f0fdf4",
+    "Foreground": "#14532d",
+    "Surface": "#dcfce7",
+    "SurfaceForeground": "#14532d",
+    "Primary": "#22c55e",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#bbf7d0",
+    "SecondaryForeground": "#15803d",
+    "Muted": "#86efac",
+    "MutedForeground": "#16a34a",
+    "Border": "#4ade80",
+    "Ring": "#22c55e",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Cinzel",
+    "FontHeading": "Cinzel"
+  },
+  "tags": ["light", "delphi", "oracle", "pythia"]
+}

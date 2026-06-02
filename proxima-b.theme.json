@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Proxima b",
+  "tokens": {
+    "Background": "#fff7ed",
+    "Foreground": "#c2410c",
+    "Surface": "#ffedd5",
+    "SurfaceForeground": "#c2410c",
+    "Primary": "#f97316",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fdba74",
+    "SecondaryForeground": "#ea580c",
+    "Muted": "#fb923c",
+    "MutedForeground": "#f97316",
+    "Border": "#fdba74",
+    "Ring": "#f97316",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Orbitron",
+    "FontHeading": "Space Grotesk"
+  },
+  "tags": ["light", "proxima", "centauri", "closest"]
+}

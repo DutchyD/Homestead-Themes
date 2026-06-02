@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Uruk Tablet",
+  "tokens": {
+    "Background": "#fff7ed",
+    "Foreground": "#9a3412",
+    "Surface": "#ffedd5",
+    "SurfaceForeground": "#9a3412",
+    "Primary": "#f97316",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fed7aa",
+    "SecondaryForeground": "#c2410c",
+    "Muted": "#fdba74",
+    "MutedForeground": "#ea580c",
+    "Border": "#fb923c",
+    "Ring": "#f97316",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Cinzel",
+    "FontHeading": "Cinzel Decorative"
+  },
+  "tags": ["light", "uruk", "tablet", "writing"]
+}

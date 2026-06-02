@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Sparta War",
+  "tokens": {
+    "Background": "#450a0a",
+    "Foreground": "#fecaca",
+    "Surface": "#7f1d1d",
+    "SurfaceForeground": "#fee2e2",
+    "Primary": "#dc2626",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#991b1b",
+    "SecondaryForeground": "#fca5a5",
+    "Muted": "#b91c1c",
+    "MutedForeground": "#f87171",
+    "Border": "#ef4444",
+    "Ring": "#dc2626",
+    "Success": "#4ade80",
+    "SuccessForeground": "#450a0a",
+    "Destructive": "#fca5a5",
+    "DestructiveForeground": "#450a0a",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Cinzel",
+    "FontHeading": "Cinzel"
+  },
+  "tags": ["dark", "sparta", "war", "leonidas"]
+}

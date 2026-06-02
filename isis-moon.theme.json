@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Isin Moon",
+  "tokens": {
+    "Background": "#1e1b4b",
+    "Foreground": "#c7d2fe",
+    "Surface": "#312e81",
+    "SurfaceForeground": "#e0e7ff",
+    "Primary": "#818cf8",
+    "PrimaryForeground": "#1e1b4b",
+    "Secondary": "#4338ca",
+    "SecondaryForeground": "#a5b4fc",
+    "Muted": "#6366f1",
+    "MutedForeground": "#a5b4fc",
+    "Border": "#4f46e5",
+    "Ring": "#818cf8",
+    "Success": "#4ade80",
+    "SuccessForeground": "#1e1b4b",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#1e1b4b",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Cinzel",
+    "FontHeading": "Cinzel Decorative"
+  },
+  "tags": ["dark", "isin", "moon", "sumer"]
+}

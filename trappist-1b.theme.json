@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Trappist 1b",
+  "tokens": {
+    "Background": "#18181b",
+    "Foreground": "#a1a1aa",
+    "Surface": "#27272a",
+    "SurfaceForeground": "#d4d4d8",
+    "Primary": "#71717a",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#3f3f46",
+    "SecondaryForeground": "#d4d4d8",
+    "Muted": "#52525b",
+    "MutedForeground": "#a1a1aa",
+    "Border": "#3f3f46",
+    "Ring": "#71717a",
+    "Success": "#4ade80",
+    "SuccessForeground": "#18181b",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#18181b",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Orbitron",
+    "FontHeading": "Space Grotesk"
+  },
+  "tags": ["dark", "trappist", "ultra-cool", "system"]
+}

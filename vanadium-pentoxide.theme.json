@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Vanadium Pentoxide",
+  "tokens": {
+    "Background": "#ffedd5",
+    "Foreground": "#7c2d12",
+    "Surface": "#fdba74",
+    "SurfaceForeground": "#7c2d12",
+    "Primary": "#f97316",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fb923c",
+    "SecondaryForeground": "#9a3412",
+    "Muted": "#fca5a5",
+    "MutedForeground": "#c2410c",
+    "Border": "#f97316",
+    "Ring": "#fb923c",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Space Grotesk",
+    "FontHeading": "Space Grotesk"
+  },
+  "tags": ["light", "vanadium", "pentoxide", "orange"]
+}

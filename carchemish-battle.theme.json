@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Carchemish Battle",
+  "tokens": {
+    "Background": "#7f1d1d",
+    "Foreground": "#fee2e2",
+    "Surface": "#991b1b",
+    "SurfaceForeground": "#fecaca",
+    "Primary": "#f87171",
+    "PrimaryForeground": "#7f1d1d",
+    "Secondary": "#b91c1c",
+    "SecondaryForeground": "#fca5a5",
+    "Muted": "#dc2626",
+    "MutedForeground": "#ef4444",
+    "Border": "#ef4444",
+    "Ring": "#f87171",
+    "Success": "#4ade80",
+    "SuccessForeground": "#7f1d1d",
+    "Destructive": "#fca5a5",
+    "DestructiveForeground": "#7f1d1d",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Cinzel",
+    "FontHeading": "Cinzel"
+  },
+  "tags": ["dark", "carchemish", "battle", "hittite"]
+}

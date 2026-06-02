@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Tiryns Walls",
+  "tokens": {
+    "Background": "#fafaf9",
+    "Foreground": "#57534e",
+    "Surface": "#f5f5f4",
+    "SurfaceForeground": "#57534e",
+    "Primary": "#a8a29e",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#e7e5e4",
+    "SecondaryForeground": "#78716c",
+    "Muted": "#d6d3d1",
+    "MutedForeground": "#a8a29e",
+    "Border": "#e7e5e4",
+    "Ring": "#a8a29e",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Cinzel",
+    "FontHeading": "Cinzel"
+  },
+  "tags": ["light", "tiryns", "walls", "cyclopean"]
+}
