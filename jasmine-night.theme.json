@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Jasmine Night",
+  "tokens": {
+    "Background": "#1c1917",
+    "Foreground": "#fde68a",
+    "Surface": "#292524",
+    "SurfaceForeground": "#fef3c7",
+    "Primary": "#f59e0b",
+    "PrimaryForeground": "#1c1917",
+    "Secondary": "#44403c",
+    "SecondaryForeground": "#fcd34d",
+    "Muted": "#57534e",
+    "MutedForeground": "#fbbf24",
+    "Border": "#44403c",
+    "Ring": "#f59e0b",
+    "Success": "#4ade80",
+    "SuccessForeground": "#1c1917",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#1c1917",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "2.5rem",
+    "FontSans": "Great Vibes",
+    "FontHeading": "Great Vibes"
+  },
+  "tags": ["dark", "jasmine", "night", "moon"]
+}

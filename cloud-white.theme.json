@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Cloud White",
+  "tokens": {
+    "Background": "#ffffff",
+    "Foreground": "#334155",
+    "Surface": "#f8fafc",
+    "SurfaceForeground": "#334155",
+    "Primary": "#64748b",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#f1f5f9",
+    "SecondaryForeground": "#475569",
+    "Muted": "#e2e8f0",
+    "MutedForeground": "#94a3b8",
+    "Border": "#cbd5e1",
+    "Ring": "#64748b",
+    "Success": "#10b981",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "1.5rem",
+    "FontSans": "Inter",
+    "FontHeading": "Inter"
+  },
+  "tags": ["light", "cloud", "clean", "minimal"]
+}

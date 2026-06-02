@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Snow Flake",
+  "tokens": {
+    "Background": "#ffffff",
+    "Foreground": "#0f172a",
+    "Surface": "#f8fafc",
+    "SurfaceForeground": "#0f172a",
+    "Primary": "#0ea5e9",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#f1f5f9",
+    "SecondaryForeground": "#334155",
+    "Muted": "#e2e8f0",
+    "MutedForeground": "#64748b",
+    "Border": "#cbd5e1",
+    "Ring": "#0ea5e9",
+    "Success": "#10b981",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "0.75rem",
+    "FontSans": "Inter",
+    "FontHeading": "Inter"
+  },
+  "tags": ["light", "snow", "winter", "ice"]
+}

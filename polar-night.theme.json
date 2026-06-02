@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Polar Night",
+  "tokens": {
+    "Background": "#0f172a",
+    "Foreground": "#94a3b8",
+    "Surface": "#1e293b",
+    "SurfaceForeground": "#cbd5e1",
+    "Primary": "#64748b",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#334155",
+    "SecondaryForeground": "#94a3b8",
+    "Muted": "#475569",
+    "MutedForeground": "#64748b",
+    "Border": "#334155",
+    "Ring": "#64748b",
+    "Success": "#4ade80",
+    "SuccessForeground": "#0f172a",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#0f172a",
+    "RadiusSm": "1rem",
+    "RadiusMd": "2rem",
+    "RadiusLg": "3rem",
+    "FontSans": "Nunito",
+    "FontHeading": "Nunito"
+  },
+  "tags": ["dark", "polar", "arctic", "night"]
+}

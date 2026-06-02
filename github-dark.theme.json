@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "GitHub Dark",
+  "tokens": {
+    "Background": "#0d1117",
+    "Foreground": "#c9d1d9",
+    "Surface": "#161b22",
+    "SurfaceForeground": "#c9d1d9",
+    "Primary": "#58a6ff",
+    "PrimaryForeground": "#0d1117",
+    "Secondary": "#21262d",
+    "SecondaryForeground": "#c9d1d9",
+    "Muted": "#30363d",
+    "MutedForeground": "#8b949e",
+    "Border": "#30363d",
+    "Ring": "#58a6ff",
+    "Success": "#238636",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#da3633",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.375rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Inter",
+    "FontHeading": "Inter"
+  },
+  "tags": ["dark", "github", "clean", "professional"]
+}

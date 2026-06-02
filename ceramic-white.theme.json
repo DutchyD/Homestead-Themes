@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Ceramic White",
+  "tokens": {
+    "Background": "#fafafa",
+    "Foreground": "#171717",
+    "Surface": "#f5f5f5",
+    "SurfaceForeground": "#171717",
+    "Primary": "#404040",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#e5e5e5",
+    "SecondaryForeground": "#525252",
+    "Muted": "#d4d4d4",
+    "MutedForeground": "#737373",
+    "Border": "#a3a3a3",
+    "Ring": "#404040",
+    "Success": "#16a34a",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#dc2626",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.125rem",
+    "RadiusMd": "0.25rem",
+    "RadiusLg": "0.5rem",
+    "FontSans": "Geist Mono",
+    "FontHeading": "Geist Mono"
+  },
+  "tags": ["light", "ceramic", "clean", "modern"]
+}

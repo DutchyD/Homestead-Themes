@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Lemon Meringue",
+  "tokens": {
+    "Background": "#fffde7",
+    "Foreground": "#5d4037",
+    "Surface": "#fff9c4",
+    "SurfaceForeground": "#5d4037",
+    "Primary": "#fbc02d",
+    "PrimaryForeground": "#3e2723",
+    "Secondary": "#fff59d",
+    "SecondaryForeground": "#6d4c41",
+    "Muted": "#fff176",
+    "MutedForeground": "#9e9d24",
+    "Border": "#fdd835",
+    "Ring": "#fbc02d",
+    "Success": "#aed581",
+    "SuccessForeground": "#33691e",
+    "Destructive": "#ef5350",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.25rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Raleway",
+    "FontHeading": "Playfair Display"
+  },
+  "tags": ["light", "citrus", "bright", "cheerful"]
+}

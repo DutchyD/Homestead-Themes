@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Lavender Dreams",
+  "tokens": {
+    "Background": "#1a1633",
+    "Foreground": "#e9d8fd",
+    "Surface": "#2d2244",
+    "SurfaceForeground": "#e9d8fd",
+    "Primary": "#9f7aea",
+    "PrimaryForeground": "#1a1633",
+    "Secondary": "#44337a",
+    "SecondaryForeground": "#d6bcfa",
+    "Muted": "#553c9a",
+    "MutedForeground": "#b794f6",
+    "Border": "#44337a",
+    "Ring": "#9f7aea",
+    "Success": "#68d391",
+    "SuccessForeground": "#1a1633",
+    "Destructive": "#f687b3",
+    "DestructiveForeground": "#1a1633",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Lato",
+    "FontHeading": "Merriweather"
+  },
+  "tags": ["dark", "lavender", "purple", "dreamy"]
+}

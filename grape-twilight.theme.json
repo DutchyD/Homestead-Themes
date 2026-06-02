@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Grape Twilight",
+  "tokens": {
+    "Background": "#1e1b4b",
+    "Foreground": "#e9d5ff",
+    "Surface": "#312e81",
+    "SurfaceForeground": "#f3e8ff",
+    "Primary": "#a855f7",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#4338ca",
+    "SecondaryForeground": "#d8b4fe",
+    "Muted": "#3730a3",
+    "MutedForeground": "#c084fc",
+    "Border": "#4c1d95",
+    "Ring": "#a855f7",
+    "Success": "#4ade80",
+    "SuccessForeground": "#1e1b4b",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#1e1b4b",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.25rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Baloo 2",
+    "FontHeading": "Baloo 2"
+  },
+  "tags": ["dark", "grape", "purple", "evening"]
+}

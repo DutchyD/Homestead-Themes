@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Mint Breeze",
+  "tokens": {
+    "Background": "#f0fff4",
+    "Foreground": "#22543d",
+    "Surface": "#c6f6d5",
+    "SurfaceForeground": "#22543d",
+    "Primary": "#38a169",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#9ae6b4",
+    "SecondaryForeground": "#276749",
+    "Muted": "#81e6d9",
+    "MutedForeground": "#2f855a",
+    "Border": "#6ee7b7",
+    "Ring": "#38a169",
+    "Success": "#48bb78",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#fc8181",
+    "DestructiveForeground": "#742a2a",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "1.5rem",
+    "FontSans": "Nunito",
+    "FontHeading": "Nunito"
+  },
+  "tags": ["light", "mint", "fresh", "cool"]
+}

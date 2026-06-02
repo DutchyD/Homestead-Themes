@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Iris Shadow",
+  "tokens": {
+    "Background": "#1e1b4b",
+    "Foreground": "#d8b4fe",
+    "Surface": "#312e81",
+    "SurfaceForeground": "#f3e8ff",
+    "Primary": "#8b5cf6",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#4c1d95",
+    "SecondaryForeground": "#e9d5ff",
+    "Muted": "#5b21b6",
+    "MutedForeground": "#c084fc",
+    "Border": "#4c1d95",
+    "Ring": "#8b5cf6",
+    "Success": "#4ade80",
+    "SuccessForeground": "#1e1b4b",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#1e1b4b",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Playfair Display",
+    "FontHeading": "Playfair Display"
+  },
+  "tags": ["dark", "iris", "night", "purple"]
+}

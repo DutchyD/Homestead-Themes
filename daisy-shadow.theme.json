@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Daisy Shadow",
+  "tokens": {
+    "Background": "#18181b",
+    "Foreground": "#d4d4d8",
+    "Surface": "#27272a",
+    "SurfaceForeground": "#e4e4e7",
+    "Primary": "#fbbf24",
+    "PrimaryForeground": "#18181b",
+    "Secondary": "#3f3f46",
+    "SecondaryForeground": "#a1a1aa",
+    "Muted": "#52525b",
+    "MutedForeground": "#71717a",
+    "Border": "#3f3f46",
+    "Ring": "#fbbf24",
+    "Success": "#4ade80",
+    "SuccessForeground": "#18181b",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#18181b",
+    "RadiusSm": "2rem",
+    "RadiusMd": "3rem",
+    "RadiusLg": "4rem",
+    "FontSans": "Indie Flower",
+    "FontHeading": "Patrick Hand"
+  },
+  "tags": ["dark", "daisy", "flowers", "shadow"]
+}

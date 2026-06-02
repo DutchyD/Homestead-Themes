@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Lotus Shadow",
+  "tokens": {
+    "Background": "#042f2e",
+    "Foreground": "#99f6e4",
+    "Surface": "#115e59",
+    "SurfaceForeground": "#ccfbf1",
+    "Primary": "#14b8a6",
+    "PrimaryForeground": "#042f2e",
+    "Secondary": "#134e4a",
+    "SecondaryForeground": "#5eead4",
+    "Muted": "#0f766e",
+    "MutedForeground": "#2dd4bf",
+    "Border": "#115e59",
+    "Ring": "#14b8a6",
+    "Success": "#4ade80",
+    "SuccessForeground": "#042f2e",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#042f2e",
+    "RadiusSm": "1rem",
+    "RadiusMd": "2rem",
+    "RadiusLg": "3rem",
+    "FontSans": "Noto Serif JP",
+    "FontHeading": "Noto Serif JP"
+  },
+  "tags": ["dark", "lotus", "zen", "shadow"]
+}

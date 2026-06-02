@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Cinnamon Spice",
+  "tokens": {
+    "Background": "#2c1810",
+    "Foreground": "#d6c0a6",
+    "Surface": "#3d2820",
+    "SurfaceForeground": "#e6d2b8",
+    "Primary": "#a0522d",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#4a3428",
+    "SecondaryForeground": "#d6c0a6",
+    "Muted": "#5d4030",
+    "MutedForeground": "#c4a77d",
+    "Border": "#4a3428",
+    "Ring": "#a0522d",
+    "Success": "#65a30d",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#dc2626",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.375rem",
+    "RadiusMd": "0.625rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Lora",
+    "FontHeading": "Lora"
+  },
+  "tags": ["dark", "cinnamon", "spice", "warm"]
+}

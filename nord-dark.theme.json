@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Nord Dark",
+  "tokens": {
+    "Background": "#2e3440",
+    "Foreground": "#d8dee9",
+    "Surface": "#3b4252",
+    "SurfaceForeground": "#e5e9f0",
+    "Primary": "#88c0d0",
+    "PrimaryForeground": "#2e3440",
+    "Secondary": "#434c5e",
+    "SecondaryForeground": "#d8dee9",
+    "Muted": "#4c566a",
+    "MutedForeground": "#81a1c1",
+    "Border": "#434c5e",
+    "Ring": "#88c0d0",
+    "Success": "#a3be8c",
+    "SuccessForeground": "#2e3440",
+    "Destructive": "#bf616a",
+    "DestructiveForeground": "#2e3440",
+    "RadiusSm": "0.375rem",
+    "RadiusMd": "0.625rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Rubik",
+    "FontHeading": "Rubik"
+  },
+  "tags": ["dark", "nord", "arctic", "polar"]
+}

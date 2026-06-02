@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Sunset Horizon",
+  "tokens": {
+    "Background": "#2d1b2e",
+    "Foreground": "#fdb4c1",
+    "Surface": "#4a2432",
+    "SurfaceForeground": "#ffcdd2",
+    "Primary": "#ff7043",
+    "PrimaryForeground": "#2d1b2e",
+    "Secondary": "#5d3a4a",
+    "SecondaryForeground": "#ffab91",
+    "Muted": "#7d3c4a",
+    "MutedForeground": "#ff8a65",
+    "Border": "#5d3a4a",
+    "Ring": "#ff7043",
+    "Success": "#81c784",
+    "SuccessForeground": "#2d1b2e",
+    "Destructive": "#e57373",
+    "DestructiveForeground": "#2d1b2e",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "2.5rem",
+    "FontSans": "Poppins",
+    "FontHeading": "Abril Fatface"
+  },
+  "tags": ["dark", "sunset", "warm", "evening"]
+}

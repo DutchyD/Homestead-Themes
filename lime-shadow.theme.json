@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Lime Shadow",
+  "tokens": {
+    "Background": "#1a2e05",
+    "Foreground": "#d9f99d",
+    "Surface": "#28420c",
+    "SurfaceForeground": "#ecfccb",
+    "Primary": "#84cc16",
+    "PrimaryForeground": "#1a2e05",
+    "Secondary": "#3f6212",
+    "SecondaryForeground": "#bef264",
+    "Muted": "#4d7c0f",
+    "MutedForeground": "#a3e635",
+    "Border": "#3f6212",
+    "Ring": "#84cc16",
+    "Success": "#22c55e",
+    "SuccessForeground": "#1a2e05",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#1a2e05",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.875rem",
+    "RadiusLg": "1.5rem",
+    "FontSans": "Manrope",
+    "FontHeading": "Space Grotesk"
+  },
+  "tags": ["dark", "lime", "neon", "zesty"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Arctic Ice",
+  "tokens": {
+    "Background": "#f0f8ff",
+    "Foreground": "#2c3e50",
+    "Surface": "#e1f0fa",
+    "SurfaceForeground": "#2c3e50",
+    "Primary": "#3498db",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#d6eaf8",
+    "SecondaryForeground": "#34495e",
+    "Muted": "#aed6f1",
+    "MutedForeground": "#5dade2",
+    "Border": "#85c1e9",
+    "Ring": "#3498db",
+    "Success": "#58d68d",
+    "SuccessForeground": "#1e8449",
+    "Destructive": "#ec7063",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.125rem",
+    "RadiusMd": "0.375rem",
+    "RadiusLg": "0.625rem",
+    "FontSans": "Work Sans",
+    "FontHeading": "Work Sans"
+  },
+  "tags": ["light", "arctic", "cold", "clean"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Aloe Shadow",
+  "tokens": {
+    "Background": "#0f2818",
+    "Foreground": "#86efac",
+    "Surface": "#1a3d25",
+    "SurfaceForeground": "#bbf7d0",
+    "Primary": "#22c55e",
+    "PrimaryForeground": "#0f2818",
+    "Secondary": "#265a36",
+    "SecondaryForeground": "#86efac",
+    "Muted": "#2d6a3e",
+    "MutedForeground": "#4ade80",
+    "Border": "#265a36",
+    "Ring": "#22c55e",
+    "Success": "#16a34a",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "1.5rem",
+    "FontSans": "Nunito",
+    "FontHeading": "Nunito"
+  },
+  "tags": ["dark", "aloe", "green", "shadow"]
+}

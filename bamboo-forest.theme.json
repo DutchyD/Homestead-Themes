@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Bamboo Forest",
+  "tokens": {
+    "Background": "#0f2915",
+    "Foreground": "#bef264",
+    "Surface": "#1a3d20",
+    "SurfaceForeground": "#dcfce7",
+    "Primary": "#84cc16",
+    "PrimaryForeground": "#0f2915",
+    "Secondary": "#265a2b",
+    "SecondaryForeground": "#bef264",
+    "Muted": "#2d6a33",
+    "MutedForeground": "#65a30d",
+    "Border": "#265a2b",
+    "Ring": "#84cc16",
+    "Success": "#22c55e",
+    "SuccessForeground": "#0f2915",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.125rem",
+    "RadiusMd": "0.25rem",
+    "RadiusLg": "0.5rem",
+    "FontSans": "Noto Serif SC",
+    "FontHeading": "Noto Serif SC"
+  },
+  "tags": ["dark", "bamboo", "asia", "night"]
+}

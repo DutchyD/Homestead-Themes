@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Latte Art",
+  "tokens": {
+    "Background": "#fdfbf7",
+    "Foreground": "#4a3f35",
+    "Surface": "#f5ebe0",
+    "SurfaceForeground": "#4a3f35",
+    "Primary": "#8b6914",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#e8dcc8",
+    "SecondaryForeground": "#5c4d3c",
+    "Muted": "#d4c4b0",
+    "MutedForeground": "#7d6e5d",
+    "Border": "#c9b896",
+    "Ring": "#8b6914",
+    "Success": "#7cb342",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#c62828",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.375rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Crimson Pro",
+    "FontHeading": "Crimson Pro"
+  },
+  "tags": ["light", "coffee", "warm", "creamy"]
+}

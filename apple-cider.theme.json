@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Apple Cider",
+  "tokens": {
+    "Background": "#1a0f0f",
+    "Foreground": "#fca5a5",
+    "Surface": "#2d1818",
+    "SurfaceForeground": "#fecaca",
+    "Primary": "#dc2626",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#3d2020",
+    "SecondaryForeground": "#fca5a5",
+    "Muted": "#4a2828",
+    "MutedForeground": "#f87171",
+    "Border": "#3d2020",
+    "Ring": "#dc2626",
+    "Success": "#65a30d",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#991b1b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "1.5rem",
+    "FontSans": "Source Sans Pro",
+    "FontHeading": "Source Serif Pro"
+  },
+  "tags": ["dark", "apple", "cider", "autumn"]
+}

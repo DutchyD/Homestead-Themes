@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Cotton Candy",
+  "tokens": {
+    "Background": "#fff0f5",
+    "Foreground": "#831843",
+    "Surface": "#fce7f3",
+    "SurfaceForeground": "#831843",
+    "Primary": "#ec4899",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fbcfe8",
+    "SecondaryForeground": "#9d174d",
+    "Muted": "#f9a8d4",
+    "MutedForeground": "#db2777",
+    "Border": "#f472b6",
+    "Ring": "#ec4899",
+    "Success": "#86efac",
+    "SuccessForeground": "#14532d",
+    "Destructive": "#fda4af",
+    "DestructiveForeground": "#881337",
+    "RadiusSm": "1rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "2.5rem",
+    "FontSans": "Comic Neue",
+    "FontHeading": "Comic Neue"
+  },
+  "tags": ["light", "pink", "sweet", "fun"]
+}

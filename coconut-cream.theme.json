@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Coconut Cream",
+  "tokens": {
+    "Background": "#fafaf9",
+    "Foreground": "#44403c",
+    "Surface": "#f5f5f4",
+    "SurfaceForeground": "#44403c",
+    "Primary": "#a8a29e",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#e7e5e4",
+    "SecondaryForeground": "#57534e",
+    "Muted": "#d6d3d1",
+    "MutedForeground": "#78716c",
+    "Border": "#d6d3d1",
+    "Ring": "#a8a29e",
+    "Success": "#65a30d",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#dc2626",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "1.5rem",
+    "FontSans": "Jost",
+    "FontHeading": "Jost"
+  },
+  "tags": ["light", "coconut", "neutral", "clean"]
+}

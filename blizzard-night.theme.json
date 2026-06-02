@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Blizzard Night",
+  "tokens": {
+    "Background": "#0f172a",
+    "Foreground": "#e0f2fe",
+    "Surface": "#1e293b",
+    "SurfaceForeground": "#f0f9ff",
+    "Primary": "#38bdf8",
+    "PrimaryForeground": "#0f172a",
+    "Secondary": "#334155",
+    "SecondaryForeground": "#bae6fd",
+    "Muted": "#475569",
+    "MutedForeground": "#7dd3fc",
+    "Border": "#334155",
+    "Ring": "#38bdf8",
+    "Success": "#34d399",
+    "SuccessForeground": "#0f172a",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#0f172a",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "0.75rem",
+    "FontSans": "Inter",
+    "FontHeading": "Inter"
+  },
+  "tags": ["dark", "blizzard", "winter", "storm"]
+}

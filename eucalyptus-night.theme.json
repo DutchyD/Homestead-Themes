@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Eucalyptus Night",
+  "tokens": {
+    "Background": "#0f2e2a",
+    "Foreground": "#99f6e4",
+    "Surface": "#164e43",
+    "SurfaceForeground": "#ccfbf1",
+    "Primary": "#2dd4bf",
+    "PrimaryForeground": "#0f2e2a",
+    "Secondary": "#115e54",
+    "SecondaryForeground": "#5eead4",
+    "Muted": "#134e4a",
+    "MutedForeground": "#14b8a6",
+    "Border": "#115e54",
+    "Ring": "#2dd4bf",
+    "Success": "#4ade80",
+    "SuccessForeground": "#0f2e2a",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#0f2e2a",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Cormorant",
+    "FontHeading": "Cormorant"
+  },
+  "tags": ["dark", "eucalyptus", "night", "forest"]
+}

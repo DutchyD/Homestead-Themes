@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Material Oceanic",
+  "tokens": {
+    "Background": "#263238",
+    "Foreground": "#b0bec5",
+    "Surface": "#37474f",
+    "SurfaceForeground": "#cfd8dc",
+    "Primary": "#009688",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#455a64",
+    "SecondaryForeground": "#b0bec5",
+    "Muted": "#546e7a",
+    "MutedForeground": "#78909c",
+    "Border": "#455a64",
+    "Ring": "#009688",
+    "Success": "#4caf50",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#f44336",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.125rem",
+    "RadiusMd": "0.25rem",
+    "RadiusLg": "0.5rem",
+    "FontSans": "Roboto",
+    "FontHeading": "Roboto"
+  },
+  "tags": ["dark", "material", "oceanic", "teal"]
+}

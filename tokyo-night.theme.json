@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Tokyo Night",
+  "tokens": {
+    "Background": "#1a1b26",
+    "Foreground": "#a9b1d6",
+    "Surface": "#24283b",
+    "SurfaceForeground": "#c0caf5",
+    "Primary": "#7aa2f7",
+    "PrimaryForeground": "#1a1b26",
+    "Secondary": "#414868",
+    "SecondaryForeground": "#a9b1d6",
+    "Muted": "#565f89",
+    "MutedForeground": "#787c99",
+    "Border": "#414868",
+    "Ring": "#7aa2f7",
+    "Success": "#9ece6a",
+    "SuccessForeground": "#1a1b26",
+    "Destructive": "#f7768e",
+    "DestructiveForeground": "#1a1b26",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "0.75rem",
+    "FontSans": "Noto Sans JP",
+    "FontHeading": "Noto Serif JP"
+  },
+  "tags": ["dark", "tokyo", "city", "night"]
+}

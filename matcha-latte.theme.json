@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Matcha Latte",
+  "tokens": {
+    "Background": "#f6f5f0",
+    "Foreground": "#3f4f3a",
+    "Surface": "#e8e6df",
+    "SurfaceForeground": "#3f4f3a",
+    "Primary": "#7c9f64",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#d4d9cc",
+    "SecondaryForeground": "#4a5a42",
+    "Muted": "#c5cbb8",
+    "MutedForeground": "#5c6b52",
+    "Border": "#b8c4a8",
+    "Ring": "#7c9f64",
+    "Success": "#65a30d",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#c75b39",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "1.75rem",
+    "FontSans": "Zen Maru Gothic",
+    "FontHeading": "Zen Maru Gothic"
+  },
+  "tags": ["light", "matcha", "japan", "tea"]
+}

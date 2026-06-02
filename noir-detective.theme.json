@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Noir Detective",
+  "tokens": {
+    "Background": "#0d0d0d",
+    "Foreground": "#d4d4d4",
+    "Surface": "#1a1a1a",
+    "SurfaceForeground": "#e0e0e0",
+    "Primary": "#808080",
+    "PrimaryForeground": "#0d0d0d",
+    "Secondary": "#262626",
+    "SecondaryForeground": "#a0a0a0",
+    "Muted": "#333333",
+    "MutedForeground": "#737373",
+    "Border": "#404040",
+    "Ring": "#a0a0a0",
+    "Success": "#4a5d23",
+    "SuccessForeground": "#d4d4d4",
+    "Destructive": "#8b0000",
+    "DestructiveForeground": "#d4d4d4",
+    "RadiusSm": "0",
+    "RadiusMd": "0",
+    "RadiusLg": "0.125rem",
+    "FontSans": "Courier Prime",
+    "FontHeading": "Special Elite"
+  },
+  "tags": ["dark", "noir", "monochrome", "film"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Forest Canopy",
+  "tokens": {
+    "Background": "#f1f8e9",
+    "Foreground": "#33691e",
+    "Surface": "#dcedc8",
+    "SurfaceForeground": "#33691e",
+    "Primary": "#558b2f",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#c5e1a5",
+    "SecondaryForeground": "#33691e",
+    "Muted": "#b8d8a5",
+    "MutedForeground": "#689f38",
+    "Border": "#aed581",
+    "Ring": "#558b2f",
+    "Success": "#43a047",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#c62828",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "DM Sans",
+    "FontHeading": "DM Serif Display"
+  },
+  "tags": ["light", "forest", "nature", "green"]
+}

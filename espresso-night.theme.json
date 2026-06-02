@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Espresso Night",
+  "tokens": {
+    "Background": "#1a1512",
+    "Foreground": "#d7c4b5",
+    "Surface": "#2d2420",
+    "SurfaceForeground": "#d7c4b5",
+    "Primary": "#a67c52",
+    "PrimaryForeground": "#1a1512",
+    "Secondary": "#3d3028",
+    "SecondaryForeground": "#c4a88a",
+    "Muted": "#4a3d33",
+    "MutedForeground": "#9e8b7a",
+    "Border": "#3d3028",
+    "Ring": "#a67c52",
+    "Success": "#7cb342",
+    "SuccessForeground": "#1a1512",
+    "Destructive": "#d32f2f",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.375rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Crimson Pro",
+    "FontHeading": "Crimson Pro"
+  },
+  "tags": ["dark", "coffee", "warm", "rich"]
+}

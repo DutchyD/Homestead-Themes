@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Sand Dunes",
+  "tokens": {
+    "Background": "#faf6f0",
+    "Foreground": "#5d4e37",
+    "Surface": "#f0e6d8",
+    "SurfaceForeground": "#5d4e37",
+    "Primary": "#bcaaa4",
+    "PrimaryForeground": "#3e2723",
+    "Secondary": "#e6dcc9",
+    "SecondaryForeground": "#6d5e47",
+    "Muted": "#d7ccc8",
+    "MutedForeground": "#8d7b68",
+    "Border": "#d7ccc8",
+    "Ring": "#bcaaa4",
+    "Success": "#a5d6a7",
+    "SuccessForeground": "#2e4a33",
+    "Destructive": "#ef9a9a",
+    "DestructiveForeground": "#3e2723",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Quattrocento Sans",
+    "FontHeading": "Quattrocento"
+  },
+  "tags": ["light", "desert", "warm", "earthy"]
+}

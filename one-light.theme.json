@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "One Light",
+  "tokens": {
+    "Background": "#fafafa",
+    "Foreground": "#383a42",
+    "Surface": "#f0f0f0",
+    "SurfaceForeground": "#383a42",
+    "Primary": "#4078f2",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#e5e5e5",
+    "SecondaryForeground": "#4e4e4e",
+    "Muted": "#d0d0d0",
+    "MutedForeground": "#696c77",
+    "Border": "#e0e0e0",
+    "Ring": "#4078f2",
+    "Success": "#50a14f",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#e45649",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "0.75rem",
+    "FontSans": "Inter",
+    "FontHeading": "Inter"
+  },
+  "tags": ["light", "atom", "clean", "minimal"]
+}

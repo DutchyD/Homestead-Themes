@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Polar Bear",
+  "tokens": {
+    "Background": "#f8fafc",
+    "Foreground": "#334155",
+    "Surface": "#f1f5f9",
+    "SurfaceForeground": "#334155",
+    "Primary": "#94a3b8",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#e2e8f0",
+    "SecondaryForeground": "#475569",
+    "Muted": "#cbd5e1",
+    "MutedForeground": "#64748b",
+    "Border": "#e2e8f0",
+    "Ring": "#94a3b8",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "1rem",
+    "RadiusMd": "2rem",
+    "RadiusLg": "3rem",
+    "FontSans": "Nunito",
+    "FontHeading": "Nunito"
+  },
+  "tags": ["light", "polar", "winter", "snow"]
+}

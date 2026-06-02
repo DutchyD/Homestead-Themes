@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Midnight Mint",
+  "tokens": {
+    "Background": "#1a202c",
+    "Foreground": "#9ae6b4",
+    "Surface": "#2d3748",
+    "SurfaceForeground": "#c6f6d5",
+    "Primary": "#48bb78",
+    "PrimaryForeground": "#1a202c",
+    "Secondary": "#4a5568",
+    "SecondaryForeground": "#b8e6c8",
+    "Muted": "#4a5d4f",
+    "MutedForeground": "#68d391",
+    "Border": "#4a5568",
+    "Ring": "#48bb78",
+    "Success": "#68d391",
+    "SuccessForeground": "#1a202c",
+    "Destructive": "#fc8181",
+    "DestructiveForeground": "#1a202c",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "1.5rem",
+    "FontSans": "Nunito",
+    "FontHeading": "Nunito"
+  },
+  "tags": ["dark", "mint", "fresh", "cool"]
+}

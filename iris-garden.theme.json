@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Iris Garden",
+  "tokens": {
+    "Background": "#faf5ff",
+    "Foreground": "#581c87",
+    "Surface": "#f3e8ff",
+    "SurfaceForeground": "#581c87",
+    "Primary": "#7c3aed",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#e9d5ff",
+    "SecondaryForeground": "#6b21a8",
+    "Muted": "#d8b4fe",
+    "MutedForeground": "#9333ea",
+    "Border": "#c084fc",
+    "Ring": "#7c3aed",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Playfair Display",
+    "FontHeading": "Playfair Display"
+  },
+  "tags": ["light", "iris", "garden", "purple"]
+}

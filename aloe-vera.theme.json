@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Aloe Vera",
+  "tokens": {
+    "Background": "#f0fdf4",
+    "Foreground": "#14532d",
+    "Surface": "#dcfce7",
+    "SurfaceForeground": "#14532d",
+    "Primary": "#16a34a",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#bbf7d0",
+    "SecondaryForeground": "#166534",
+    "Muted": "#86efac",
+    "MutedForeground": "#15803d",
+    "Border": "#4ade80",
+    "Ring": "#16a34a",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "1.5rem",
+    "FontSans": "Nunito",
+    "FontHeading": "Nunito"
+  },
+  "tags": ["light", "aloe", "green", "healing"]
+}

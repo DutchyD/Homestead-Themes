@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Cherry Blossom",
+  "tokens": {
+    "Background": "#fdf2f8",
+    "Foreground": "#831843",
+    "Surface": "#fce7f3",
+    "SurfaceForeground": "#831843",
+    "Primary": "#ec4899",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fbcfe8",
+    "SecondaryForeground": "#9d174d",
+    "Muted": "#f9a8d4",
+    "MutedForeground": "#db2777",
+    "Border": "#f472b6",
+    "Ring": "#ec4899",
+    "Success": "#86efac",
+    "SuccessForeground": "#14532d",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "2.5rem",
+    "FontSans": "Noto Serif JP",
+    "FontHeading": "Noto Serif JP"
+  },
+  "tags": ["light", "cherry", "japan", "spring"]
+}

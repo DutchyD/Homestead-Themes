@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Parchment Scroll",
+  "tokens": {
+    "Background": "#fcf8e8",
+    "Foreground": "#4a4036",
+    "Surface": "#f5ecd8",
+    "SurfaceForeground": "#4a4036",
+    "Primary": "#8b7355",
+    "PrimaryForeground": "#fcf8e8",
+    "Secondary": "#e8dec8",
+    "SecondaryForeground": "#5d5042",
+    "Muted": "#ddd0b8",
+    "MutedForeground": "#7a6b5a",
+    "Border": "#d4c4a8",
+    "Ring": "#8b7355",
+    "Success": "#6b8e23",
+    "SuccessForeground": "#fcf8e8",
+    "Destructive": "#a0522d",
+    "DestructiveForeground": "#fcf8e8",
+    "RadiusSm": "0.125rem",
+    "RadiusMd": "0.25rem",
+    "RadiusLg": "0.5rem",
+    "FontSans": "Crimson Text",
+    "FontHeading": "Crimson Text"
+  },
+  "tags": ["light", "vintage", "paper", "classic"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Vintage Sepia",
+  "tokens": {
+    "Background": "#f4ecd8",
+    "Foreground": "#5c4033",
+    "Surface": "#e8dcc8",
+    "SurfaceForeground": "#5c4033",
+    "Primary": "#8b4513",
+    "PrimaryForeground": "#f4ecd8",
+    "Secondary": "#d4c4a8",
+    "SecondaryForeground": "#6b4423",
+    "Muted": "#c9b896",
+    "MutedForeground": "#8b6914",
+    "Border": "#c0a080",
+    "Ring": "#8b4513",
+    "Success": "#556b2f",
+    "SuccessForeground": "#f4ecd8",
+    "Destructive": "#8b0000",
+    "DestructiveForeground": "#f4ecd8",
+    "RadiusSm": "0.125rem",
+    "RadiusMd": "0.25rem",
+    "RadiusLg": "0.5rem",
+    "FontSans": "Libre Baskerville",
+    "FontHeading": "Libre Baskerville"
+  },
+  "tags": ["light", "sepia", "vintage", "retro"]
+}

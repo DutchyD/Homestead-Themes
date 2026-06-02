@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Dracula",
+  "tokens": {
+    "Background": "#282a36",
+    "Foreground": "#f8f8f2",
+    "Surface": "#44475a",
+    "SurfaceForeground": "#f8f8f2",
+    "Primary": "#bd93f9",
+    "PrimaryForeground": "#282a36",
+    "Secondary": "#6272a4",
+    "SecondaryForeground": "#f8f8f2",
+    "Muted": "#565761",
+    "MutedForeground": "#90919c",
+    "Border": "#6272a4",
+    "Ring": "#bd93f9",
+    "Success": "#50fa7b",
+    "SuccessForeground": "#282a36",
+    "Destructive": "#ff5555",
+    "DestructiveForeground": "#282a36",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "JetBrains Mono",
+    "FontHeading": "JetBrains Mono"
+  },
+  "tags": ["dark", "dracula", "vampire", "purple"]
+}

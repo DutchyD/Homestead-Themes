@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Abyssal Depths",
+  "tokens": {
+    "Background": "#0c0a1a",
+    "Foreground": "#a5f3fc",
+    "Surface": "#1a1625",
+    "SurfaceForeground": "#cffafe",
+    "Primary": "#06b6d4",
+    "PrimaryForeground": "#0c0a1a",
+    "Secondary": "#312e81",
+    "SecondaryForeground": "#a5f3fc",
+    "Muted": "#1e1b4b",
+    "MutedForeground": "#67e8f9",
+    "Border": "#312e81",
+    "Ring": "#06b6d4",
+    "Success": "#22d3ee",
+    "SuccessForeground": "#0c0a1a",
+    "Destructive": "#fb7185",
+    "DestructiveForeground": "#0c0a1a",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.25rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Karla",
+    "FontHeading": "Spectral"
+  },
+  "tags": ["dark", "abyss", "ocean", "deep"]
+}

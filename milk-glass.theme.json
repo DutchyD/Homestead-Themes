@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Milk Glass",
+  "tokens": {
+    "Background": "#f8fafc",
+    "Foreground": "#334155",
+    "Surface": "#f1f5f9",
+    "SurfaceForeground": "#334155",
+    "Primary": "#94a3b8",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#e2e8f0",
+    "SecondaryForeground": "#475569",
+    "Muted": "#cbd5e1",
+    "MutedForeground": "#64748b",
+    "Border": "#e2e8f0",
+    "Ring": "#94a3b8",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.25rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Plus Jakarta Sans",
+    "FontHeading": "Plus Jakarta Sans"
+  },
+  "tags": ["light", "glass", "frosted", "smooth"]
+}

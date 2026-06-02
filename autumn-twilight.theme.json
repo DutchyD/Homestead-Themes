@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Autumn Twilight",
+  "tokens": {
+    "Background": "#2d1f1f",
+    "Foreground": "#f4a261",
+    "Surface": "#3d2824",
+    "SurfaceForeground": "#e9c46a",
+    "Primary": "#e76f51",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#4a3530",
+    "SecondaryForeground": "#f4a261",
+    "Muted": "#5d4037",
+    "MutedForeground": "#e9c46a",
+    "Border": "#4a3530",
+    "Ring": "#e76f51",
+    "Success": "#2a9d8f",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#d62839",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Merriweather",
+    "FontHeading": "Oswald"
+  },
+  "tags": ["dark", "autumn", "orange", "cozy"]
+}

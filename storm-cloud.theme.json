@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Storm Cloud",
+  "tokens": {
+    "Background": "#1f2937",
+    "Foreground": "#d1d5db",
+    "Surface": "#374151",
+    "SurfaceForeground": "#e5e7eb",
+    "Primary": "#6b7280",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#4b5563",
+    "SecondaryForeground": "#d1d5db",
+    "Muted": "#6b7280",
+    "MutedForeground": "#9ca3af",
+    "Border": "#4b5563",
+    "Ring": "#6b7280",
+    "Success": "#4ade80",
+    "SuccessForeground": "#1f2937",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#1f2937",
+    "RadiusSm": "1.5rem",
+    "RadiusMd": "2.5rem",
+    "RadiusLg": "4rem",
+    "FontSans": "Quicksand",
+    "FontHeading": "Quicksand"
+  },
+  "tags": ["dark", "storm", "cloud", "gray"]
+}

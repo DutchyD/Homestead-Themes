@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Buttercream",
+  "tokens": {
+    "Background": "#fffbeb",
+    "Foreground": "#78350f",
+    "Surface": "#fef3c7",
+    "SurfaceForeground": "#78350f",
+    "Primary": "#d97706",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fde68a",
+    "SecondaryForeground": "#92400e",
+    "Muted": "#fcd34d",
+    "MutedForeground": "#b45309",
+    "Border": "#fbbf24",
+    "Ring": "#d97706",
+    "Success": "#16a34a",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#dc2626",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.375rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1.25rem",
+    "FontSans": "Urbanist",
+    "FontHeading": "Urbanist"
+  },
+  "tags": ["light", "butter", "warm", "cream"]
+}

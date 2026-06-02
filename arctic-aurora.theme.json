@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Arctic Aurora",
+  "tokens": {
+    "Background": "#0f1419",
+    "Foreground": "#bfdbfe",
+    "Surface": "#1e293b",
+    "SurfaceForeground": "#e0f2fe",
+    "Primary": "#38bdf8",
+    "PrimaryForeground": "#0f1419",
+    "Secondary": "#334155",
+    "SecondaryForeground": "#bfdbfe",
+    "Muted": "#475569",
+    "MutedForeground": "#94a3b8",
+    "Border": "#334155",
+    "Ring": "#38bdf8",
+    "Success": "#4ade80",
+    "SuccessForeground": "#0f1419",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#0f1419",
+    "RadiusSm": "0.125rem",
+    "RadiusMd": "0.375rem",
+    "RadiusLg": "0.625rem",
+    "FontSans": "Work Sans",
+    "FontHeading": "Work Sans"
+  },
+  "tags": ["dark", "arctic", "aurora", "northern-lights"]
+}

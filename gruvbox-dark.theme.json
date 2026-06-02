@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Gruvbox Dark",
+  "tokens": {
+    "Background": "#282828",
+    "Foreground": "#ebdbb2",
+    "Surface": "#3c3836",
+    "SurfaceForeground": "#ebdbb2",
+    "Primary": "#458588",
+    "PrimaryForeground": "#282828",
+    "Secondary": "#504945",
+    "SecondaryForeground": "#d5c4a1",
+    "Muted": "#504945",
+    "MutedForeground": "#a89984",
+    "Border": "#504945",
+    "Ring": "#458588",
+    "Success": "#b8bb26",
+    "SuccessForeground": "#282828",
+    "Destructive": "#cc241d",
+    "DestructiveForeground": "#282828",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "0.75rem",
+    "FontSans": "IBM Plex Sans",
+    "FontHeading": "IBM Plex Serif"
+  },
+  "tags": ["dark", "gruvbox", "retro", "warm"]
+}

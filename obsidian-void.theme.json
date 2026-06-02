@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Obsidian Void",
+  "tokens": {
+    "Background": "#0c0a09",
+    "Foreground": "#e7e5e4",
+    "Surface": "#1c1917",
+    "SurfaceForeground": "#d6d3d1",
+    "Primary": "#f5f5f4",
+    "PrimaryForeground": "#0c0a09",
+    "Secondary": "#292524",
+    "SecondaryForeground": "#a8a29e",
+    "Muted": "#44403c",
+    "MutedForeground": "#78716c",
+    "Border": "#44403c",
+    "Ring": "#e7e5e4",
+    "Success": "#4ade80",
+    "SuccessForeground": "#0c0a09",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#0c0a09",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "0.75rem",
+    "FontSans": "Geist",
+    "FontHeading": "Geist"
+  },
+  "tags": ["dark", "obsidian", "minimal", "void"]
+}

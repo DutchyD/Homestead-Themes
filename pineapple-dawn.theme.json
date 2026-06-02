@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Pineapple Dawn",
+  "tokens": {
+    "Background": "#fffbeb",
+    "Foreground": "#92400e",
+    "Surface": "#fef3c7",
+    "SurfaceForeground": "#92400e",
+    "Primary": "#f59e0b",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fde68a",
+    "SecondaryForeground": "#b45309",
+    "Muted": "#fcd34d",
+    "MutedForeground": "#d97706",
+    "Border": "#fbbf24",
+    "Ring": "#f59e0b",
+    "Success": "#84cc16",
+    "SuccessForeground": "#365314",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.625rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "1.75rem",
+    "FontSans": "Quicksand",
+    "FontHeading": "Quicksand"
+  },
+  "tags": ["light", "pineapple", "tropical", "warm"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Sunrise Glow",
+  "tokens": {
+    "Background": "#fff8e7",
+    "Foreground": "#d84315",
+    "Surface": "#ffecb3",
+    "SurfaceForeground": "#bf360c",
+    "Primary": "#ff6f00",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#ffe082",
+    "SecondaryForeground": "#e65100",
+    "Muted": "#ffcc80",
+    "MutedForeground": "#ef6c00",
+    "Border": "#ffb74d",
+    "Ring": "#ff6f00",
+    "Success": "#66bb6a",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#e53935",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "2.5rem",
+    "FontSans": "Poppins",
+    "FontHeading": "Abril Fatface"
+  },
+  "tags": ["light", "sunrise", "orange", "warm"]
+}

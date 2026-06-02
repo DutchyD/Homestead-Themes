@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Solarized Light",
+  "tokens": {
+    "Background": "#fdf6e3",
+    "Foreground": "#657b83",
+    "Surface": "#eee8d5",
+    "SurfaceForeground": "#586e75",
+    "Primary": "#268bd2",
+    "PrimaryForeground": "#fdf6e3",
+    "Secondary": "#e8dfca",
+    "SecondaryForeground": "#586e75",
+    "Muted": "#d3cbb8",
+    "MutedForeground": "#93a1a1",
+    "Border": "#eee8d5",
+    "Ring": "#268bd2",
+    "Success": "#859900",
+    "SuccessForeground": "#fdf6e3",
+    "Destructive": "#dc322f",
+    "DestructiveForeground": "#fdf6e3",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Source Sans Pro",
+    "FontHeading": "Source Serif Pro"
+  },
+  "tags": ["light", "solarized", "classic", "low-contrast"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Steampunk Brass",
+  "tokens": {
+    "Background": "#1a1610",
+    "Foreground": "#d4af37",
+    "Surface": "#2d2618",
+    "SurfaceForeground": "#e5c158",
+    "Primary": "#c9a227",
+    "PrimaryForeground": "#1a1610",
+    "Secondary": "#4a3d24",
+    "SecondaryForeground": "#f0d878",
+    "Muted": "#5d4d30",
+    "MutedForeground": "#b8960c",
+    "Border": "#4a3d24",
+    "Ring": "#c9a227",
+    "Success": "#7cb342",
+    "SuccessForeground": "#1a1610",
+    "Destructive": "#c62828",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "0.75rem",
+    "FontSans": "Almendra",
+    "FontHeading": "Rye"
+  },
+  "tags": ["dark", "steampunk", "brass", "vintage"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Cyberpunk Neon",
+  "tokens": {
+    "Background": "#0a0a0f",
+    "Foreground": "#e0fffe",
+    "Surface": "#151520",
+    "SurfaceForeground": "#c0fdfb",
+    "Primary": "#f72585",
+    "PrimaryForeground": "#0a0a0f",
+    "Secondary": "#4cc9f0",
+    "SecondaryForeground": "#0a0a0f",
+    "Muted": "#252538",
+    "MutedForeground": "#7209b7",
+    "Border": "#4361ee",
+    "Ring": "#f72585",
+    "Success": "#2ec4b6",
+    "SuccessForeground": "#0a0a0f",
+    "Destructive": "#ff006e",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0",
+    "RadiusMd": "0.25rem",
+    "RadiusLg": "0.5rem",
+    "FontSans": "Orbitron",
+    "FontHeading": "Orbitron"
+  },
+  "tags": ["dark", "cyberpunk", "neon", "futuristic"]
+}

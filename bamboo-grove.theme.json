@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Bamboo Grove",
+  "tokens": {
+    "Background": "#f0fdf4",
+    "Foreground": "#14532d",
+    "Surface": "#dcfce7",
+    "SurfaceForeground": "#14532d",
+    "Primary": "#65a30d",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#bef264",
+    "SecondaryForeground": "#3f6212",
+    "Muted": "#86efac",
+    "MutedForeground": "#15803d",
+    "Border": "#4ade80",
+    "Ring": "#65a30d",
+    "Success": "#16a34a",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.125rem",
+    "RadiusMd": "0.25rem",
+    "RadiusLg": "0.5rem",
+    "FontSans": "Noto Serif SC",
+    "FontHeading": "Noto Serif SC"
+  },
+  "tags": ["light", "bamboo", "asia", "zen"]
+}

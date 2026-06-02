@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Eucalyptus Mist",
+  "tokens": {
+    "Background": "#f0fdfa",
+    "Foreground": "#115e59",
+    "Surface": "#ccfbf1",
+    "SurfaceForeground": "#115e59",
+    "Primary": "#14b8a6",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#99f6e4",
+    "SecondaryForeground": "#0f766e",
+    "Muted": "#5eead4",
+    "MutedForeground": "#0d9488",
+    "Border": "#2dd4bf",
+    "Ring": "#14b8a6",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Cormorant",
+    "FontHeading": "Cormorant"
+  },
+  "tags": ["light", "eucalyptus", "mist", "spa"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Strawberry Milk",
+  "tokens": {
+    "Background": "#fff5f5",
+    "Foreground": "#7b341e",
+    "Surface": "#fed7d7",
+    "SurfaceForeground": "#7b341e",
+    "Primary": "#f56565",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#feb2b2",
+    "SecondaryForeground": "#9c4221",
+    "Muted": "#fc8181",
+    "MutedForeground": "#c53030",
+    "Border": "#f68787",
+    "Ring": "#f56565",
+    "Success": "#68d391",
+    "SuccessForeground": "#22543d",
+    "Destructive": "#e53e3e",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.25rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Varela Round",
+    "FontHeading": "Varela Round"
+  },
+  "tags": ["light", "strawberry", "pink", "sweet"]
+}

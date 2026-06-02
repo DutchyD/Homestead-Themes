@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Watermelon Rind",
+  "tokens": {
+    "Background": "#052e16",
+    "Foreground": "#86efac",
+    "Surface": "#14532d",
+    "SurfaceForeground": "#bbf7d0",
+    "Primary": "#f43f5e",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#166534",
+    "SecondaryForeground": "#86efac",
+    "Muted": "#15803d",
+    "MutedForeground": "#4ade80",
+    "Border": "#22c55e",
+    "Ring": "#f43f5e",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#be123c",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.25rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Nunito",
+    "FontHeading": "Nunito"
+  },
+  "tags": ["dark", "watermelon", "green", "summer"]
+}

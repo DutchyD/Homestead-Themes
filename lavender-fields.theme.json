@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Lavender Fields",
+  "tokens": {
+    "Background": "#f3f0ff",
+    "Foreground": "#553c9a",
+    "Surface": "#e9d8fd",
+    "SurfaceForeground": "#553c9a",
+    "Primary": "#805ad5",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#d6bcfa",
+    "SecondaryForeground": "#6b46c1",
+    "Muted": "#b794f4",
+    "MutedForeground": "#805ad5",
+    "Border": "#9f7aea",
+    "Ring": "#805ad5",
+    "Success": "#9ae6b4",
+    "SuccessForeground": "#22543d",
+    "Destructive": "#feb2b2",
+    "DestructiveForeground": "#742a2a",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Lato",
+    "FontHeading": "Merriweather"
+  },
+  "tags": ["light", "lavender", "purple", "calm"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Cactus Moon",
+  "tokens": {
+    "Background": "#1c1917",
+    "Foreground": "#fde047",
+    "Surface": "#292524",
+    "SurfaceForeground": "#fef9c3",
+    "Primary": "#ec4899",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#44403c",
+    "SecondaryForeground": "#fef08a",
+    "Muted": "#57534e",
+    "MutedForeground": "#facc15",
+    "Border": "#44403c",
+    "Ring": "#ec4899",
+    "Success": "#4ade80",
+    "SuccessForeground": "#1c1917",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#1c1917",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "2.5rem",
+    "FontSans": "BioRhyme",
+    "FontHeading": "BioRhyme"
+  },
+  "tags": ["dark", "cactus", "desert", "moon"]
+}

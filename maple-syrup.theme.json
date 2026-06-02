@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Maple Syrup",
+  "tokens": {
+    "Background": "#2d1f0f",
+    "Foreground": "#e6c9a8",
+    "Surface": "#3d2a18",
+    "SurfaceForeground": "#f5e6d3",
+    "Primary": "#c17817",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#4a3420",
+    "SecondaryForeground": "#e6c9a8",
+    "Muted": "#5d4030",
+    "MutedForeground": "#d4a574",
+    "Border": "#4a3420",
+    "Ring": "#c17817",
+    "Success": "#65a30d",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#dc2626",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "2.5rem",
+    "FontSans": "Figtree",
+    "FontHeading": "Figtree"
+  },
+  "tags": ["dark", "maple", "syrup", "canada"]
+}

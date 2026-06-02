@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Monokai Pro Dark",
+  "tokens": {
+    "Background": "#2d2a2e",
+    "Foreground": "#fcfcfa",
+    "Surface": "#3a383d",
+    "SurfaceForeground": "#fcfcfa",
+    "Primary": "#ff6188",
+    "PrimaryForeground": "#2d2a2e",
+    "Secondary": "#4a474c",
+    "SecondaryForeground": "#939293",
+    "Muted": "#58565b",
+    "MutedForeground": "#727072",
+    "Border": "#4a474c",
+    "Ring": "#ff6188",
+    "Success": "#a9dc76",
+    "SuccessForeground": "#2d2a2e",
+    "Destructive": "#ff6188",
+    "DestructiveForeground": "#2d2a2e",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Monaspace Neon",
+    "FontHeading": "Monaspace Neon"
+  },
+  "tags": ["dark", "monokai", "vibrant", "code"]
+}

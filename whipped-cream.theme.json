@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Whipped Cream",
+  "tokens": {
+    "Background": "#ffffff",
+    "Foreground": "#525252",
+    "Surface": "#f5f5f5",
+    "SurfaceForeground": "#525252",
+    "Primary": "#d4d4d4",
+    "PrimaryForeground": "#404040",
+    "Secondary": "#e5e5e5",
+    "SecondaryForeground": "#737373",
+    "Muted": "#f0f0f0",
+    "MutedForeground": "#a3a3a3",
+    "Border": "#e5e5e5",
+    "Ring": "#d4d4d4",
+    "Success": "#86efac",
+    "SuccessForeground": "#166534",
+    "Destructive": "#fca5a5",
+    "DestructiveForeground": "#991b1b",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Sora",
+    "FontHeading": "Sora"
+  },
+  "tags": ["light", "cream", "soft", "minimal"]
+}

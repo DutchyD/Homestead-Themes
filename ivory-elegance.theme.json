@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Ivory Elegance",
+  "tokens": {
+    "Background": "#fffbf0",
+    "Foreground": "#4a4036",
+    "Surface": "#fff8e7",
+    "SurfaceForeground": "#4a4036",
+    "Primary": "#c9a86c",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#f5ecd8",
+    "SecondaryForeground": "#5c4d3c",
+    "Muted": "#ebe0cc",
+    "MutedForeground": "#7a6b5a",
+    "Border": "#ddd0b8",
+    "Ring": "#c9a86c",
+    "Success": "#7c9f58",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#b85450",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "0.75rem",
+    "FontSans": "Crimson Pro",
+    "FontHeading": "Crimson Pro"
+  },
+  "tags": ["light", "ivory", "elegant", "luxury"]
+}

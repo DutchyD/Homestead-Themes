@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Onyx Stone",
+  "tokens": {
+    "Background": "#18181b",
+    "Foreground": "#e4e4e7",
+    "Surface": "#27272a",
+    "SurfaceForeground": "#f4f4f5",
+    "Primary": "#a1a1aa",
+    "PrimaryForeground": "#18181b",
+    "Secondary": "#3f3f46",
+    "SecondaryForeground": "#d4d4d8",
+    "Muted": "#52525b",
+    "MutedForeground": "#a1a1aa",
+    "Border": "#52525b",
+    "Ring": "#a1a1aa",
+    "Success": "#22c55e",
+    "SuccessForeground": "#18181b",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#18181b",
+    "RadiusSm": "0.125rem",
+    "RadiusMd": "0.25rem",
+    "RadiusLg": "0.5rem",
+    "FontSans": "Geist Mono",
+    "FontHeading": "Geist Mono"
+  },
+  "tags": ["dark", "onyx", "stone", "geometric"]
+}

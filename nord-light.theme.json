@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Nord Light",
+  "tokens": {
+    "Background": "#f4f5f7",
+    "Foreground": "#3b4252",
+    "Surface": "#eceff4",
+    "SurfaceForeground": "#2e3440",
+    "Primary": "#5e81ac",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#d8dee9",
+    "SecondaryForeground": "#434c5e",
+    "Muted": "#cbd2dc",
+    "MutedForeground": "#7b88a1",
+    "Border": "#d8dee9",
+    "Ring": "#5e81ac",
+    "Success": "#a3be8c",
+    "SuccessForeground": "#2e3440",
+    "Destructive": "#bf616a",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.375rem",
+    "RadiusMd": "0.625rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Rubik",
+    "FontHeading": "Rubik"
+  },
+  "tags": ["light", "nord", "arctic", "frost"]
+}

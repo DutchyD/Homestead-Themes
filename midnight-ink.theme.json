@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Midnight Ink",
+  "tokens": {
+    "Background": "#000000",
+    "Foreground": "#e5e5e5",
+    "Surface": "#171717",
+    "SurfaceForeground": "#d4d4d4",
+    "Primary": "#525252",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#262626",
+    "SecondaryForeground": "#a3a3a3",
+    "Muted": "#404040",
+    "MutedForeground": "#737373",
+    "Border": "#262626",
+    "Ring": "#525252",
+    "Success": "#22c55e",
+    "SuccessForeground": "#000000",
+    "Destructive": "#dc2626",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Sora",
+    "FontHeading": "Sora"
+  },
+  "tags": ["dark", "ink", "black", "void"]
+}

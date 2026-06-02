@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Turquoise Abyss",
+  "tokens": {
+    "Background": "#083344",
+    "Foreground": "#a5f3fc",
+    "Surface": "#164e63",
+    "SurfaceForeground": "#cffafe",
+    "Primary": "#22d3ee",
+    "PrimaryForeground": "#083344",
+    "Secondary": "#155e75",
+    "SecondaryForeground": "#67e8f9",
+    "Muted": "#0e7490",
+    "MutedForeground": "#22d3ee",
+    "Border": "#155e75",
+    "Ring": "#22d3ee",
+    "Success": "#4ade80",
+    "SuccessForeground": "#083344",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#083344",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.25rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Outfit",
+    "FontHeading": "Outfit"
+  },
+  "tags": ["dark", "turquoise", "abyss", "deep"]
+}

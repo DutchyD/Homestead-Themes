@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Catppuccin Latte",
+  "tokens": {
+    "Background": "#eff1f5",
+    "Foreground": "#4c4f69",
+    "Surface": "#e6e9ef",
+    "SurfaceForeground": "#4c4f69",
+    "Primary": "#8839ef",
+    "PrimaryForeground": "#eff1f5",
+    "Secondary": "#ccd0da",
+    "SecondaryForeground": "#5c5f77",
+    "Muted": "#bcc0cc",
+    "MutedForeground": "#7c7f93",
+    "Border": "#ccd0da",
+    "Ring": "#8839ef",
+    "Success": "#40a02b",
+    "SuccessForeground": "#eff1f5",
+    "Destructive": "#d20f39",
+    "DestructiveForeground": "#eff1f5",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "1.5rem",
+    "FontSans": "Fira Sans",
+    "FontHeading": "Fira Sans"
+  },
+  "tags": ["light", "catppuccin", "coffee", "pastel"]
+}

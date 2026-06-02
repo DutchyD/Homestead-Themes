@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Honey Dew",
+  "tokens": {
+    "Background": "#f0fdf4",
+    "Foreground": "#166534",
+    "Surface": "#dcfce7",
+    "SurfaceForeground": "#166534",
+    "Primary": "#16a34a",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#bbf7d0",
+    "SecondaryForeground": "#15803d",
+    "Muted": "#86efac",
+    "MutedForeground": "#166534",
+    "Border": "#4ade80",
+    "Ring": "#16a34a",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "2.5rem",
+    "FontSans": "Figtree",
+    "FontHeading": "Figtree"
+  },
+  "tags": ["light", "honey", "dew", "fresh"]
+}

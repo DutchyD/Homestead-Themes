@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Catppuccin Mocha",
+  "tokens": {
+    "Background": "#1e1e2e",
+    "Foreground": "#cdd6f4",
+    "Surface": "#313244",
+    "SurfaceForeground": "#cdd6f4",
+    "Primary": "#cba6f7",
+    "PrimaryForeground": "#1e1e2e",
+    "Secondary": "#45475a",
+    "SecondaryForeground": "#cdd6f4",
+    "Muted": "#585b70",
+    "MutedForeground": "#a6adc8",
+    "Border": "#45475a",
+    "Ring": "#cba6f7",
+    "Success": "#a6e3a1",
+    "SuccessForeground": "#1e1e2e",
+    "Destructive": "#f38ba8",
+    "DestructiveForeground": "#1e1e2e",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "1.5rem",
+    "FontSans": "Fira Sans",
+    "FontHeading": "Fira Sans"
+  },
+  "tags": ["dark", "catppuccin", "coffee", "pastel"]
+}

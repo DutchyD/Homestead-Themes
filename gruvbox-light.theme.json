@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Gruvbox Light",
+  "tokens": {
+    "Background": "#fbf1c7",
+    "Foreground": "#3c3836",
+    "Surface": "#ebdbb2",
+    "SurfaceForeground": "#3c3836",
+    "Primary": "#076678",
+    "PrimaryForeground": "#fbf1c7",
+    "Secondary": "#d5c4a1",
+    "SecondaryForeground": "#504945",
+    "Muted": "#d5c4a1",
+    "MutedForeground": "#928374",
+    "Border": "#d5c4a1",
+    "Ring": "#076678",
+    "Success": "#79740e",
+    "SuccessForeground": "#fbf1c7",
+    "Destructive": "#9d0006",
+    "DestructiveForeground": "#fbf1c7",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "0.75rem",
+    "FontSans": "IBM Plex Sans",
+    "FontHeading": "IBM Plex Serif"
+  },
+  "tags": ["light", "gruvbox", "retro", "warm"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Sakura Blossom",
+  "tokens": {
+    "Background": "#fff5f8",
+    "Foreground": "#5d3a45",
+    "Surface": "#ffe6ed",
+    "SurfaceForeground": "#5d3a45",
+    "Primary": "#f48fb1",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#ffcce0",
+    "SecondaryForeground": "#7a4a5a",
+    "Muted": "#ffb3ce",
+    "MutedForeground": "#9e6b7d",
+    "Border": "#ff99bb",
+    "Ring": "#f48fb1",
+    "Success": "#a5d6a7",
+    "SuccessForeground": "#2e5c3e",
+    "Destructive": "#ef5350",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "3rem",
+    "FontSans": "Noto Sans JP",
+    "FontHeading": "Noto Serif JP"
+  },
+  "tags": ["light", "sakura", "japan", "spring"]
+}

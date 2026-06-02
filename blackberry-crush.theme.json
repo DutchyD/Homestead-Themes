@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Blackberry Crush",
+  "tokens": {
+    "Background": "#1a0f1a",
+    "Foreground": "#d8b4e2",
+    "Surface": "#2d1f2d",
+    "SurfaceForeground": "#e9d5f2",
+    "Primary": "#9f7aea",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#4a3a4a",
+    "SecondaryForeground": "#d8b4e2",
+    "Muted": "#5d4a5d",
+    "MutedForeground": "#b794f4",
+    "Border": "#4a3a4a",
+    "Ring": "#9f7aea",
+    "Success": "#68d391",
+    "SuccessForeground": "#1a0f1a",
+    "Destructive": "#fc8181",
+    "DestructiveForeground": "#1a0f1a",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.25rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Varela Round",
+    "FontHeading": "Varela Round"
+  },
+  "tags": ["dark", "blackberry", "purple", "berry"]
+}

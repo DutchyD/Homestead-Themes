@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Monokai Pro Light",
+  "tokens": {
+    "Background": "#fafafa",
+    "Foreground": "#3e3e3e",
+    "Surface": "#f0f0f0",
+    "SurfaceForeground": "#3e3e3e",
+    "Primary": "#ab47bc",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#e0e0e0",
+    "SecondaryForeground": "#525252",
+    "Muted": "#d0d0d0",
+    "MutedForeground": "#757575",
+    "Border": "#c0c0c0",
+    "Ring": "#ab47bc",
+    "Success": "#66bb6a",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef5350",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Monaspace Neon",
+    "FontHeading": "Monaspace Neon"
+  },
+  "tags": ["light", "monokai", "clean", "modern"]
+}

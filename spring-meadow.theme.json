@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Spring Meadow",
+  "tokens": {
+    "Background": "#f0fff4",
+    "Foreground": "#276749",
+    "Surface": "#c6f6d5",
+    "SurfaceForeground": "#276749",
+    "Primary": "#48bb78",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#9ae6b4",
+    "SecondaryForeground": "#2f855a",
+    "Muted": "#81e6d9",
+    "MutedForeground": "#38a169",
+    "Border": "#68d391",
+    "Ring": "#48bb78",
+    "Success": "#68d391",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#fc8181",
+    "DestructiveForeground": "#742a2a",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Nunito",
+    "FontHeading": "Bitter"
+  },
+  "tags": ["light", "spring", "green", "fresh"]
+}

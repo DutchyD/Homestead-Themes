@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Midnight Oasis",
+  "tokens": {
+    "Background": "#1a1625",
+    "Foreground": "#d4c5f9",
+    "Surface": "#2d2645",
+    "SurfaceForeground": "#d4c5f9",
+    "Primary": "#b794f6",
+    "PrimaryForeground": "#1a1625",
+    "Secondary": "#4a3d6e",
+    "SecondaryForeground": "#e9d8fd",
+    "Muted": "#553d8c",
+    "MutedForeground": "#9f7aea",
+    "Border": "#4a3d6e",
+    "Ring": "#b794f6",
+    "Success": "#68d391",
+    "SuccessForeground": "#1a1625",
+    "Destructive": "#fc8181",
+    "DestructiveForeground": "#1a1625",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Quattrocento Sans",
+    "FontHeading": "Quattrocento"
+  },
+  "tags": ["dark", "desert", "night", "mystical"]
+}

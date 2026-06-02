@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Watermelon Slice",
+  "tokens": {
+    "Background": "#f0fdf4",
+    "Foreground": "#14532d",
+    "Surface": "#dcfce7",
+    "SurfaceForeground": "#14532d",
+    "Primary": "#f43f5e",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#86efac",
+    "SecondaryForeground": "#166534",
+    "Muted": "#4ade80",
+    "MutedForeground": "#15803d",
+    "Border": "#22c55e",
+    "Ring": "#f43f5e",
+    "Success": "#16a34a",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#e11d48",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.25rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Nunito",
+    "FontHeading": "Nunito"
+  },
+  "tags": ["light", "watermelon", "summer", "fresh"]
+}

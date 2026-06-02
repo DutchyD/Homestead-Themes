@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Galaxy Sparkle",
+  "tokens": {
+    "Background": "#0f0c29",
+    "Foreground": "#e0e7ff",
+    "Surface": "#1e1b4b",
+    "SurfaceForeground": "#c7d2fe",
+    "Primary": "#8b5cf6",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#4c1d95",
+    "SecondaryForeground": "#ddd6fe",
+    "Muted": "#3730a3",
+    "MutedForeground": "#a5b4fc",
+    "Border": "#4338ca",
+    "Ring": "#8b5cf6",
+    "Success": "#34d399",
+    "SuccessForeground": "#0f0c29",
+    "Destructive": "#f43f5e",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "2.5rem",
+    "FontSans": "Exo 2",
+    "FontHeading": "Exo 2"
+  },
+  "tags": ["dark", "galaxy", "space", "stars"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "One Dark",
+  "tokens": {
+    "Background": "#282c34",
+    "Foreground": "#abb2bf",
+    "Surface": "#353b45",
+    "SurfaceForeground": "#abb2bf",
+    "Primary": "#61afef",
+    "PrimaryForeground": "#282c34",
+    "Secondary": "#3e4451",
+    "SecondaryForeground": "#828997",
+    "Muted": "#4b5263",
+    "MutedForeground": "#5c6370",
+    "Border": "#3e4451",
+    "Ring": "#61afef",
+    "Success": "#98c379",
+    "SuccessForeground": "#282c34",
+    "Destructive": "#e06c75",
+    "DestructiveForeground": "#282c34",
+    "RadiusSm": "0.25rem",
+    "RadiusMd": "0.5rem",
+    "RadiusLg": "0.75rem",
+    "FontSans": "Inter",
+    "FontHeading": "Inter"
+  },
+  "tags": ["dark", "atom", "code", "developer"]
+}

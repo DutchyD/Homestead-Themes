@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Apple Orchard",
+  "tokens": {
+    "Background": "#fef2f2",
+    "Foreground": "#7f1d1d",
+    "Surface": "#fee2e2",
+    "SurfaceForeground": "#7f1d1d",
+    "Primary": "#dc2626",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fecaca",
+    "SecondaryForeground": "#991b1b",
+    "Muted": "#fca5a5",
+    "MutedForeground": "#b91c1c",
+    "Border": "#f87171",
+    "Ring": "#dc2626",
+    "Success": "#65a30d",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#991b1b",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "1.5rem",
+    "FontSans": "Source Sans Pro",
+    "FontHeading": "Source Serif Pro"
+  },
+  "tags": ["light", "apple", "red", "orchard"]
+}

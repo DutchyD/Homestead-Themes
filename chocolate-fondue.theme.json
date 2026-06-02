@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Chocolate Fondue",
+  "tokens": {
+    "Background": "#1c1410",
+    "Foreground": "#d4a574",
+    "Surface": "#2d2018",
+    "SurfaceForeground": "#e8c4a0",
+    "Primary": "#8b5a2b",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#3d2a1f",
+    "SecondaryForeground": "#c9a86c",
+    "Muted": "#4a3528",
+    "MutedForeground": "#b8956a",
+    "Border": "#3d2a1f",
+    "Ring": "#8b5a2b",
+    "Success": "#65a30d",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#dc2626",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "1rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "2.5rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Fredoka"
+  },
+  "tags": ["dark", "chocolate", "brown", "sweet"]
+}

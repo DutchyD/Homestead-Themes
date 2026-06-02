@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Rose Quartz",
+  "tokens": {
+    "Background": "#fff5f7",
+    "Foreground": "#881337",
+    "Surface": "#ffe4e6",
+    "SurfaceForeground": "#881337",
+    "Primary": "#fb7185",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fecdd3",
+    "SecondaryForeground": "#9f1239",
+    "Muted": "#fda4af",
+    "MutedForeground": "#be123c",
+    "Border": "#f472b6",
+    "Ring": "#fb7185",
+    "Success": "#86efac",
+    "SuccessForeground": "#14532d",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#7f1d1d",
+    "RadiusSm": "1rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "2.5rem",
+    "FontSans": "Quicksand",
+    "FontHeading": "Comfortaa"
+  },
+  "tags": ["light", "rose", "pink", "elegant"]
+}

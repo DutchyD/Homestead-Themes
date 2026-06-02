@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Lotus Pond",
+  "tokens": {
+    "Background": "#f0fdfa",
+    "Foreground": "#115e59",
+    "Surface": "#ccfbf1",
+    "SurfaceForeground": "#115e59",
+    "Primary": "#0d9488",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#99f6e4",
+    "SecondaryForeground": "#134e4a",
+    "Muted": "#5eead4",
+    "MutedForeground": "#0f766e",
+    "Border": "#2dd4bf",
+    "Ring": "#0d9488",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "1rem",
+    "RadiusMd": "2rem",
+    "RadiusLg": "3rem",
+    "FontSans": "Noto Serif JP",
+    "FontHeading": "Noto Serif JP"
+  },
+  "tags": ["light", "lotus", "zen", "water"]
+}

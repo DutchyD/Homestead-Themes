@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "GitHub Light",
+  "tokens": {
+    "Background": "#ffffff",
+    "Foreground": "#24292f",
+    "Surface": "#f6f8fa",
+    "SurfaceForeground": "#24292f",
+    "Primary": "#0969da",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#eaeef2",
+    "SecondaryForeground": "#24292f",
+    "Muted": "#d0d7de",
+    "MutedForeground": "#6e7781",
+    "Border": "#d8dee4",
+    "Ring": "#0969da",
+    "Success": "#1a7f37",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#cf222e",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.375rem",
+    "RadiusMd": "0.75rem",
+    "RadiusLg": "1rem",
+    "FontSans": "Inter",
+    "FontHeading": "Inter"
+  },
+  "tags": ["light", "github", "clean", "professional"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Hibiscus Dream",
+  "tokens": {
+    "Background": "#fdf2f8",
+    "Foreground": "#831843",
+    "Surface": "#fce7f3",
+    "SurfaceForeground": "#831843",
+    "Primary": "#e11d48",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fbcfe8",
+    "SecondaryForeground": "#9f1239",
+    "Muted": "#f9a8d4",
+    "MutedForeground": "#db2777",
+    "Border": "#f472b6",
+    "Ring": "#e11d48",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Pacifico",
+    "FontHeading": "Pacifico"
+  },
+  "tags": ["light", "hibiscus", "tropical", "flower"]
+}

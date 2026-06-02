@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Coral Reef",
+  "tokens": {
+    "Background": "#fff5f0",
+    "Foreground": "#7c2d12",
+    "Surface": "#ffedd5",
+    "SurfaceForeground": "#7c2d12",
+    "Primary": "#f97316",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fed7aa",
+    "SecondaryForeground": "#9a3412",
+    "Muted": "#fdba74",
+    "MutedForeground": "#c2410c",
+    "Border": "#fb923c",
+    "Ring": "#f97316",
+    "Success": "#34d399",
+    "SuccessForeground": "#064e3b",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.25rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Karla",
+    "FontHeading": "Spectral"
+  },
+  "tags": ["light", "coral", "ocean", "warm"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Forest Night",
+  "tokens": {
+    "Background": "#1b2a1b",
+    "Foreground": "#a5d6a7",
+    "Surface": "#2e3d2e",
+    "SurfaceForeground": "#a5d6a7",
+    "Primary": "#66bb6a",
+    "PrimaryForeground": "#1b2a1b",
+    "Secondary": "#3d4f3d",
+    "SecondaryForeground": "#c8e6c9",
+    "Muted": "#4a5d4a",
+    "MutedForeground": "#81c784",
+    "Border": "#3d4f3d",
+    "Ring": "#66bb6a",
+    "Success": "#4caf50",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#e57373",
+    "DestructiveForeground": "#1b2a1b",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "DM Sans",
+    "FontHeading": "DM Serif Display"
+  },
+  "tags": ["dark", "forest", "nature", "green"]
+}

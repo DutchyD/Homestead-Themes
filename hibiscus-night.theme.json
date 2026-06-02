@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Hibiscus Night",
+  "tokens": {
+    "Background": "#2a1216",
+    "Foreground": "#f9a8d4",
+    "Surface": "#4a2430",
+    "SurfaceForeground": "#fce7f3",
+    "Primary": "#be123c",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#5d3040",
+    "SecondaryForeground": "#fbcfe8",
+    "Muted": "#7c3a4a",
+    "MutedForeground": "#f472b6",
+    "Border": "#5d3040",
+    "Ring": "#be123c",
+    "Success": "#4ade80",
+    "SuccessForeground": "#2a1216",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#2a1216",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Pacifico",
+    "FontHeading": "Pacifico"
+  },
+  "tags": ["dark", "hibiscus", "tropical", "night"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Fern Gully",
+  "tokens": {
+    "Background": "#f0fdf4",
+    "Foreground": "#14532d",
+    "Surface": "#dcfce7",
+    "SurfaceForeground": "#14532d",
+    "Primary": "#15803d",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#86efac",
+    "SecondaryForeground": "#166534",
+    "Muted": "#4ade80",
+    "MutedForeground": "#14532d",
+    "Border": "#22c55e",
+    "Ring": "#15803d",
+    "Success": "#16a34a",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.75rem",
+    "RadiusMd": "1.5rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Alegreya",
+    "FontHeading": "Alegreya"
+  },
+  "tags": ["light", "fern", "forest", "rainforest"]
+}
