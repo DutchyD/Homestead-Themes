@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Arsenic Trioxide",
+  "tokens": {
+    "Background": "#f8fafc",
+    "Foreground": "#475569",
+    "Surface": "#f1f5f9",
+    "SurfaceForeground": "#475569",
+    "Primary": "#94a3b8",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#e2e8f0",
+    "SecondaryForeground": "#64748b",
+    "Muted": "#cbd5e1",
+    "MutedForeground": "#94a3b8",
+    "Border": "#e2e8f0",
+    "Ring": "#64748b",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Space Grotesk",
+    "FontHeading": "Space Grotesk"
+  },
+  "tags": ["light", "arsenic", "trioxide", "white"]
+}

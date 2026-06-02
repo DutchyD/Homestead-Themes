@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Arcturus Guardian",
+  "tokens": {
+    "Background": "#451a03",
+    "Foreground": "#fde047",
+    "Surface": "#713f12",
+    "SurfaceForeground": "#fef9c3",
+    "Primary": "#f59e0b",
+    "PrimaryForeground": "#451a03",
+    "Secondary": "#92400e",
+    "SecondaryForeground": "#fcd34d",
+    "Muted": "#b45309",
+    "MutedForeground": "#fbbf24",
+    "Border": "#d97706",
+    "Ring": "#f59e0b",
+    "Success": "#4ade80",
+    "SuccessForeground": "#451a03",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#451a03",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Orbitron",
+    "FontHeading": "Space Grotesk"
+  },
+  "tags": ["dark", "arcturus", "guardian", "herdsman"]
+}

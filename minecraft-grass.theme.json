@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Minecraft Grass",
+  "tokens": {
+    "Background": "#14532d",
+    "Foreground": "#bbf7d0",
+    "Surface": "#166534",
+    "SurfaceForeground": "#dcfce7",
+    "Primary": "#22c55e",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#15803d",
+    "SecondaryForeground": "#86efac",
+    "Muted": "#16a34a",
+    "MutedForeground": "#4ade80",
+    "Border": "#22c55e",
+    "Ring": "#4ade80",
+    "Success": "#4ade80",
+    "SuccessForeground": "#14532d",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#14532d",
+    "RadiusSm": "0rem",
+    "RadiusMd": "0rem",
+    "RadiusLg": "0rem",
+    "FontSans": "Inter",
+    "FontHeading": "Inter"
+  },
+  "tags": ["dark", "minecraft", "grass", "block"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Aldebaran Eye",
+  "tokens": {
+    "Background": "#881337",
+    "Foreground": "#ffe4e6",
+    "Surface": "#9f1239",
+    "SurfaceForeground": "#fff1f2",
+    "Primary": "#fb7185",
+    "PrimaryForeground": "#881337",
+    "Secondary": "#be123c",
+    "SecondaryForeground": "#fda4af",
+    "Muted": "#e11d48",
+    "MutedForeground": "#fb7185",
+    "Border": "#f43f5e",
+    "Ring": "#fb7185",
+    "Success": "#4ade80",
+    "SuccessForeground": "#881337",
+    "Destructive": "#fda4af",
+    "DestructiveForeground": "#881337",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Orbitron",
+    "FontHeading": "Space Grotesk"
+  },
+  "tags": ["dark", "aldebaran", "eye", "red-giant"]
+}

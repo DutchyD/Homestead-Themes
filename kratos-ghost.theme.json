@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Kratos Ghost",
+  "tokens": {
+    "Background": "#18181b",
+    "Foreground": "#e4e4e7",
+    "Surface": "#27272a",
+    "SurfaceForeground": "#f4f4f5",
+    "Primary": "#a1a1aa",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#3f3f46",
+    "SecondaryForeground": "#d4d4d8",
+    "Muted": "#52525b",
+    "MutedForeground": "#71717a",
+    "Border": "#3f3f46",
+    "Ring": "#a1a1aa",
+    "Success": "#4ade80",
+    "SuccessForeground": "#18181b",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#18181b",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Cinzel",
+    "FontHeading": "Cinzel Decorative"
+  },
+  "tags": ["dark", "kratos", "ghost", "sparta"]
+}

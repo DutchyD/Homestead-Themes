@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Ratchet Clank",
+  "tokens": {
+    "Background": "#eff6ff",
+    "Foreground": "#1e40af",
+    "Surface": "#dbeafe",
+    "SurfaceForeground": "#1e40af",
+    "Primary": "#3b82f6",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#bfdbfe",
+    "SecondaryForeground": "#2563eb",
+    "Muted": "#93c5fd",
+    "MutedForeground": "#3b82f6",
+    "Border": "#60a5fa",
+    "Ring": "#3b82f6",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Nunito",
+    "FontHeading": "Nunito"
+  },
+  "tags": ["light", "ratchet", "clank", "insomniac"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Daxter Ottsel",
+  "tokens": {
+    "Background": "#fef9c3",
+    "Foreground": "#854d0e",
+    "Surface": "#fde047",
+    "SurfaceForeground": "#854d0e",
+    "Primary": "#eab308",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#facc15",
+    "SecondaryForeground": "#a16207",
+    "Muted": "#fde047",
+    "MutedForeground": "#ca8a04",
+    "Border": "#eab308",
+    "Ring": "#facc15",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Fredoka",
+    "FontHeading": "Fredoka"
+  },
+  "tags": ["light", "daxter", "ottsel", "orange"]
+}

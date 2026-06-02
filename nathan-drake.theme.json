@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Nathan Drake",
+  "tokens": {
+    "Background": "#fff7ed",
+    "Foreground": "#9a3412",
+    "Surface": "#ffedd5",
+    "SurfaceForeground": "#9a3412",
+    "Primary": "#f97316",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#fdba74",
+    "SecondaryForeground": "#c2410c",
+    "Muted": "#fb923c",
+    "MutedForeground": "#ea580c",
+    "Border": "#f97316",
+    "Ring": "#fb923c",
+    "Success": "#22c55e",
+    "SuccessForeground": "#ffffff",
+    "Destructive": "#ef4444",
+    "DestructiveForeground": "#ffffff",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Outfit",
+    "FontHeading": "Outfit"
+  },
+  "tags": ["light", "nathan", "drake", "explorer"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Canopus South",
+  "tokens": {
+    "Background": "#422006",
+    "Foreground": "#fde047",
+    "Surface": "#713f12",
+    "SurfaceForeground": "#fef9c3",
+    "Primary": "#facc15",
+    "PrimaryForeground": "#422006",
+    "Secondary": "#a16207",
+    "SecondaryForeground": "#fde047",
+    "Muted": "#ca8a04",
+    "MutedForeground": "#eab308",
+    "Border": "#eab308",
+    "Ring": "#facc15",
+    "Success": "#4ade80",
+    "SuccessForeground": "#422006",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#422006",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Orbitron",
+    "FontHeading": "Space Grotesk"
+  },
+  "tags": ["dark", "canopus", "south", "navigator"]
+}

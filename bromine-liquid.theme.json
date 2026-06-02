@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Bromine Liquid",
+  "tokens": {
+    "Background": "#7f1d1d",
+    "Foreground": "#fee2e2",
+    "Surface": "#991b1b",
+    "SurfaceForeground": "#fecaca",
+    "Primary": "#dc2626",
+    "PrimaryForeground": "#ffffff",
+    "Secondary": "#b91c1c",
+    "SecondaryForeground": "#fca5a5",
+    "Muted": "#ef4444",
+    "MutedForeground": "#f87171",
+    "Border": "#f87171",
+    "Ring": "#ef4444",
+    "Success": "#4ade80",
+    "SuccessForeground": "#7f1d1d",
+    "Destructive": "#fca5a5",
+    "DestructiveForeground": "#7f1d1d",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Space Grotesk",
+    "FontHeading": "Space Grotesk"
+  },
+  "tags": ["dark", "bromine", "liquid", "fuming"]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "name": "Halo Cortana",
+  "tokens": {
+    "Background": "#3b0764",
+    "Foreground": "#e9d5ff",
+    "Surface": "#581c87",
+    "SurfaceForeground": "#f3e8ff",
+    "Primary": "#a855f7",
+    "PrimaryForeground": "#3b0764",
+    "Secondary": "#6b21a8",
+    "SecondaryForeground": "#d8b4fe",
+    "Muted": "#7c3aed",
+    "MutedForeground": "#c084fc",
+    "Border": "#9333ea",
+    "Ring": "#a855f7",
+    "Success": "#4ade80",
+    "SuccessForeground": "#3b0764",
+    "Destructive": "#f87171",
+    "DestructiveForeground": "#3b0764",
+    "RadiusSm": "0.5rem",
+    "RadiusMd": "1rem",
+    "RadiusLg": "2rem",
+    "FontSans": "Orbitron",
+    "FontHeading": "Orbitron"
+  },
+  "tags": ["dark", "halo", "cortana", "ai"]
+}
